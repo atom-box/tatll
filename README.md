@@ -10,10 +10,9 @@ I am at [Little Furnace](http://littlefurnace.com)
 
 ## Generated with Eleventy
 
-The blog pages are written in markdown and then generated with 11ty.    
+This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a> Eleventy allows you to write in markdown and then generate a JAMstack static site.  It's very secure and lightweight. I find it a little incovenient for adding images.  
    
-Eleventy is a node.js server. To install it, go to a server location you own and in /var/www/blog (or similar) clone the official repository from the Eleventy [github repo](https://github.com/11ty/eleventy-base-blog)
-
+ 
 ## How to add content
 Just copy any markdown file from `/posts` and then re-build the site by typing `npx eleventy`  
 
