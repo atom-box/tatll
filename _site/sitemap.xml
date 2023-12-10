@@ -342,32 +342,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/books/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/gtd/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/business/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <loc>https://tatll.me/tags/books/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -377,22 +357,27 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/drupal/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/sql/</loc>
+    <loc>https://tatll.me/tags/business/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/linux/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/javascript/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -402,7 +387,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -413,6 +403,16 @@
   
   <url>
     <loc>https://tatll.me/tags/activism/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/jobs/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/sql/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
 </urlset>
