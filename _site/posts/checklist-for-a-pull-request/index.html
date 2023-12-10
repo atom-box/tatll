@@ -1,0 +1,77 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pull requests checklist!</title>
+    <meta name="description" content="This is a post on My Blog about win-win survival strategies.">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Pull requests checklist!</h1>
+
+<time datetime="2021-03-20">20 Mar 2021</time><a href="/tags/linux/" class="post-tag">linux</a><a href="/tags/hacktoberfest/" class="post-tag">hacktoberfest</a>
+
+<p>When you submit a pull request, take time to make it look nice. Logic aside, there are some general things to do in any language before you ask someone else to do a code review of your work. These are things that I forget to do when I am in a hurry to have someone look at my code.</p>
+<h2 id="most-important" tabindex="-1">Most Important <a class="direct-link" href="#most-important" aria-hidden="true">#</a></h2>
+<p>Even if you are sick of your code and if you are under deadline pressure, remember to do these things:</p>
+<ul>
+<li>Go read the original story. Did you answer the problem succinctly? In all the frenzy of your hacking, did the code creep beyond what the story asked for?</li>
+<li>Search your code for the word <em>todo</em>. Search for comments. It's embarrassing to leave in a note you wrote to yourself. You're also looking for things you turned off in the code; it's time to turn those back on.</li>
+<li>IMPORTANT Run the diff to highlight everything you changed. <code>git log master..develop</code> where <em>master</em> and <em>develop</em> are the names of your branches. This sounds like common sense but it can track down strange and subtle things you did that are hard to find otherwise. Did the cat run across the keyboard? Did you drag (or even delete) an entire line from nearby code?</li>
+</ul>
+<h2 id="less-important" tabindex="-1">Less Important <a class="direct-link" href="#less-important" aria-hidden="true">#</a></h2>
+<p>These are still important but I think half of all programmers would not forget to do these things. For me, I need a list:</p>
+<ul>
+<li>Run the automated style checker for your local language and style. For CSS, PHP, and JS try <a href="https://pear.php.net/package/PHP_CodeSniffer/">CodeSniffer</a>. For HTML Squizlabs makes an <a href="https://squizlabs.github.io/HTML_CodeSniffer/">HTML_Sniffer</a></li>
+<li>Did you write enough unit tests?</li>
+<li>Run the existing unit tests in your automated test suite.</li>
+<li>Are there too many commits? Are all of the commits working code? Rollbacks to non-working commits aren't helpful during debugging. Consider using <a href="https://gitbetter.substack.com/p/how-to-squash-git-commits">squash</a> -- it's not that hard.</li>
+<li>Lists of Imported files should be alphabetized. Watch out for whether your automated tools are alphabetizing by capital letters or not. Out of the box, VSCode does not comply with my team's style on this.</li>
+<li>Double check your whitespace. Is trailing space on the line end bad in your team? Is a concluding blank line as last line of code good? Are you consistantly using the semi-colon in JS? Most IDE's have a setting for fixing this during saving. In VSCode search for <em>whitespace</em> in the plugins.</li>
+<li>Variable naming is consistant with camelCase, snake_case, or kabab-case for this part of the code in your organization?</li>
+</ul>
+<h2 id="open-source-pull-requests" tabindex="-1">Open Source Pull Requests <a class="direct-link" href="#open-source-pull-requests" aria-hidden="true">#</a></h2>
+<p>All of these things apply doubly to code that is being reviewed for an open source project like <a href="https://hacktoberfest.digitalocean.com/?ref=hackernoon.com">Hacktoberfest</a>. A stranger who is volunteering their time is unlikely to appreciate sloppiness in the code.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/building-a-drupal-9-site/">Building a Drupal Site</a></li><li>Previous: <a href="/posts/html-and-css-snippets/">HTML and CSS snippets</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/checklist-for-a-pull-request/ -->
+  </body>
+</html>

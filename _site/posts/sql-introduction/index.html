@@ -1,0 +1,109 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL Examples</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>SQL Examples</h1>
+
+<time datetime="2020-06-17">17 Jun 2020</time><a href="/tags/sql/" class="post-tag">SQL</a><a href="/tags/linux/" class="post-tag">linux</a>
+
+<h1 id="creating-a-db-and-a-user" tabindex="-1">Creating a db and a user <a class="direct-link" href="#creating-a-db-and-a-user" aria-hidden="true">#</a></h1>
+<p>Remember these when starting a new LAMP site, such as a Drupal or Symfony project:</p>
+<pre><code>mysql&gt; CREATE DATABASE golden_slumbers;
+Query OK, 1 row affected (0.02 sec)
+
+mysql&gt; GRANT ALL PRIVILEGES ON golden_slumbers.* to 'lennonMcCartney'@localhost;
+Query OK, 0 rows affected (0.01 sec)
+</code></pre>
+<h1 id="get-a-fly-by-of-the-db" tabindex="-1">Get a fly by of the db <a class="direct-link" href="#get-a-fly-by-of-the-db" aria-hidden="true">#</a></h1>
+<p>This is my quick way to describe every table.</p>
+<pre><code>SELECT TABLE_NAME, COLUMN_NAME  FROM information_schema.columns WHERE table_schema = 'employees' ;
+
+SELECT TABLE_NAME, COLUMN_NAME FROM information_schema.columns WHERE table_schema = 'employees' ORDER BY COLUMN_NAME;
+</code></pre>
+<h1 id="the-cool-thing-about-group-by" tabindex="-1">The cool thing about GROUP BY <a class="direct-link" href="#the-cool-thing-about-group-by" aria-hidden="true">#</a></h1>
+<p>Functions get applied <em>after</em> the grouping.  So avg(), count(), max(), min(), sum(), all are applied to an entire column usually, except if there is a GROUP BY, they are applied to the group.  It's as if each group is a table of its own and it gets COUNT() locally applied to just it.</p>
+<h1 id="amy-friend's-four-friends" tabindex="-1">Amy Friend's Four Friends <a class="direct-link" href="#amy-friend's-four-friends" aria-hidden="true">#</a></h1>
+<p>My sister works with giant databases.  She says in the real world, these are her quotidian:</p>
+<ol>
+<li>EXISTS qualifying things without the load of bringing back actual data</li>
+<li>NOT EXISTS finds records that dont have a match</li>
+<li>IN</li>
+<li>GROUP BY is great for getting counts and other aggregate data</li>
+</ol>
+<h1 id="one-sql-assessment-i-took-in-2019" tabindex="-1">One SQL Assessment I took in 2019 <a class="direct-link" href="#one-sql-assessment-i-took-in-2019" aria-hidden="true">#</a></h1>
+<p>Robert Half Associates (a recruiter) let me take a SQL test in 2019. Here's a screenshot of my results.</p>
+<p>Caveat: I was told to anticipate a generalized test of SQL but a fifth of the questions were specific to the Microsoft SQL server, such as &quot;What is the maximum string length allowed?&quot;. At that time I had never even <em>heard</em> of SQL Server...</p>
+<p>In the test score below I have circled the parts that were based on SQL Server.  If you ignore those parts I think this test shows general competency in SQL.</p>
+<picture>
+        <source type="image/webp" srcset="/images/sql-test-but-for-sql-server-600w.webp 600w" sizes="(min-width: 1024px) 100vw, 50vw">
+  <source type="image/jpeg" srcset="/images/sql-test-but-for-sql-server-600w.jpeg 600w" sizes="(min-width: 1024px) 100vw, 50vw">
+      <img
+        src="/images/sql-test-but-for-sql-server-600w.jpeg"
+        width="600"
+        height="597"
+        alt="Test Score Results of Evan Genest, in 2019, taking a test of SQL Server knowledge even though he did not ever use SQL Server"
+        loading="lazy"
+        decoding="async">
+    </picture>
+<h1 id="microsoft-sql-server" tabindex="-1">Microsoft SQL Server <a class="direct-link" href="#microsoft-sql-server" aria-hidden="true">#</a></h1>
+<p>Install Microsoft SQL Server on Linux:<br>
+<a href="https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu">https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu</a></p>
+<h1 id="orphaned-sql-question-examples" tabindex="-1">Orphaned SQL question examples <a class="direct-link" href="#orphaned-sql-question-examples" aria-hidden="true">#</a></h1>
+<p>Here are some questions but no db to go with them yet.  I saved the following practice questions for SQL in an old Udacity notebook from 2017 so I'm archiving them here.</p>
+<p>Get a list of only orangutangs, sorted by their age.<br>
+Get a list of the 5 youngest zebras.<br>
+Get a table that lists the nicknames of the animals and how many have that name. So it should show there are 4 Bobs, 4 Fidos, 2 Sammy's, et cetera.<br>
+For each species, show the date of birth for the youngest member.<br>
+Give just the nicknames of the ferrets, sorted by age, oldest first.<br>
+Use Count(), Sum(), and Min().<br>
+Give all of the animals, a species at a time, sorted by age.<br>
+Add a new cheetah: Pablo, born yesterday.<br>
+Find the animals that are non-aquatic and eat fish.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/html-and-css-snippets/">HTML and CSS snippets</a></li><li>Previous: <a href="/posts/cheatsheet-git/">Many Many Git Syntax Examples</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/sql-introduction/ -->
+  </body>
+</html>

@@ -1,0 +1,78 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matomo PHP Settings</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Matomo PHP Settings</h1>
+
+<time datetime="2023-01-24">24 Jan 2023</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a><a href="/tags/troubleshooting/" class="post-tag">troubleshooting</a>
+
+<h2 id="the-problem" tabindex="-1">The Problem <a class="direct-link" href="#the-problem" aria-hidden="true">#</a></h2>
+<p>I turned on Matomo and the dashboard had dozens of PHP function deprecation notices.  Typical:</p>
+<p>WARNING: /plugins/Events/Archiver.php(82): Deprecated - Creation of dynamic property Piwik\Plugins\Events\Archiver::$maximumRowsInSubDataTable is deprecated - Matomo 4.13.1 - Please report this message in the Matomo forums: <a href="https://forum.matomo.org">https://forum.matomo.org</a> (please do a search first as it might have been reported already) (Module: API, Action: get, Method: VisitsSummary.get, In CLI mode: false)</p>
+<p>WARNING: /core/DataAccess/ArchiveWriter.php(102): Deprecated - Creation of dynamic property Piwik\DataAccess\ArchiveWriter::$idArchive is deprecated - Matomo 4.13.1 - Please report this message in the Matomo forums: <a href="https://forum.matomo.org">https://forum.matomo.org</a> (please do a search first as it might have been reported already) (Module: API, Action: get, Method: VisitsSummary.get, In CLI mode: false)</p>
+<p>WARNING: /core/DataAccess/ArchiveWriter.php(103): Deprecated - Creation of dynamic property Piwik\DataAccess\ArchiveWriter::$idSite is deprecated - Matomo 4.13.1 - Please report this message in the Matomo forums: <a href="https://forum.matomo.org">https://forum.matomo.org</a> (please do a search first as it might have been reported already) (Module: API, Action: get, Method: VisitsSummary.get, In CLI mode: false)</p>
+<p>WARNING: /core/DataAccess/ArchiveWriter.php(104): Deprecated - Creation of dynamic property Piwik\DataAccess\ArchiveWriter::$segment is deprecated - Matomo 4.13.1 - Please report this message in the Matomo forums: <a href="https://forum.matomo.org">https://forum.matomo.org</a> (please do a search first as it might have been reported already) (Module: API, Action: get, Method: VisitsSummary.get, In CLI mode: false)</p>
+<p>This is caused by Matomo being written for a PHP version that I am not running. Matomo is usually up to date with one minor version back. So check what your <em>server</em> is running (not your terminal/CLI, your Apache2 apache.conf, or httpd.conf -- those often are running different PHP versions!).</p>
+<h2 id="the-apache-settings-in-ubuntu-look-like-this" tabindex="-1">The Apache settings in Ubuntu look like this <a class="direct-link" href="#the-apache-settings-in-ubuntu-look-like-this" aria-hidden="true">#</a></h2>
+<p>It is split into several files forming the configuration hierarchy outlined<br>
+below, all located in the /etc/apache2/ directory:</p>
+<pre><code>   /etc/apache2/
+   |-- apache2.conf
+   |       `--  ports.conf
+   |-- mods-enabled
+   |       |-- *.load
+   |       `-- *.conf
+   |-- conf-enabled
+   |       `-- *.conf
+   `-- sites-enabled
+           `-- *.conf
+</code></pre>
+<h2 id="to-be-continued" tabindex="-1">To be continued <a class="direct-link" href="#to-be-continued" aria-hidden="true">#</a></h2>
+
+<hr>
+<ul><li>Next: <a href="/posts/advice-when-visiting-Indonesia/">Advice when visiting Indonesia</a></li><li>Previous: <a href="/posts/booknotes-How-to-be-fearless-by-Jessica-Hagy/">Booknotes 7 Simple Steps by Jessica Hagy</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/matomo-php-version/ -->
+  </body>
+</html>

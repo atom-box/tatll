@@ -1,0 +1,84 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>De-Google With the Creators of Plausible</title>
+    <meta name="description" content="Notes condensed from listening to changelog podcast">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>De-Google With the Creators of Plausible</h1>
+
+<time datetime="2021-11-12">12 Nov 2021</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a>
+
+<p>These are notes summarizing <a href="https://changelog.com/podcast/396">Episode 396</a> of the Changelog podcast: <strong>De-Google-ing your website analytics</strong>  with Marko Saric &amp; Uku Täht.</p>
+<p>How lightweight are Analytics? A comparison of the script loaded by each:<br>
+Google analytics JS file: 47kB<br>
+Matomo analytics JS file: 20 kB<br>
+Plausible analytics JS file: 1kB</p>
+<p>GDPR compliance: of the above, only Plausible is cookie-free.  BUT this means it cannot do the real UX analysis tasks: heat maps, session recording.  Plausible also anonymizes more things: visitor ID and IP address are both anonymized.</p>
+<p><em>(Plausible is too stripped down...seems like a good use case for lots of things that are developed by teams of one or two people. Any larger team would benefit from site insights from Matomo.)</em></p>
+<h2 id="alternatives-to-google-products" tabindex="-1">Alternatives to Google products <a class="direct-link" href="#alternatives-to-google-products" aria-hidden="true">#</a></h2>
+<h3 id="recaptcha" tabindex="-1">reCAPTCHA <a class="direct-link" href="#recaptcha" aria-hidden="true">#</a></h3>
+<p>VisualCaptcha<br>
+Honeypot<br>
+hCaptcha<br>
+Akismet Wordpress plugin</p>
+<h3 id="google-analytics" tabindex="-1">Google Analytics <a class="direct-link" href="#google-analytics" aria-hidden="true">#</a></h3>
+<p>Matomo<br>
+Plausible</p>
+<h3 id="google-fonts" tabindex="-1">Google fonts <a class="direct-link" href="#google-fonts" aria-hidden="true">#</a></h3>
+<p>Download and self host from Google<br>
+Use web safe fonts</p>
+<h3 id="youtube" tabindex="-1">Youtube <a class="direct-link" href="#youtube" aria-hidden="true">#</a></h3>
+<p>Vimeo<br>
+PeerTube</p>
+<h3 id="google-maps" tabindex="-1">Google Maps <a class="direct-link" href="#google-maps" aria-hidden="true">#</a></h3>
+<p>OpenStreetMap<br>
+Leaflet<br>
+Mapbox</p>
+<h3 id="anonymize-ip-addresses" tabindex="-1">Anonymize IP addresses <a class="direct-link" href="#anonymize-ip-addresses" aria-hidden="true">#</a></h3>
+<p>[use this code](<a href="https://support.google.com/">https://support.google.com/</a>  analytics/answer/2763052?hl=en)</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/matomo-installation-faqs/">Matomo specs and dependencies</a></li><li>Previous: <a href="/posts/tealium-magento/">Magento demo site at Tealium</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/de-google-with-the-creators-of-Plausible/ -->
+  </body>
+</html>

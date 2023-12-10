@@ -1,0 +1,142 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matomo specs and dependencies</title>
+    <meta name="description" content="Beginners Guide How to Install Matomo analytics">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Matomo specs and dependencies</h1>
+
+<time datetime="2021-11-12">12 Nov 2021</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a><a href="/tags/matomo/" class="post-tag">matomo</a>
+
+<h2 id="some-ideas-about-matomo-installation" tabindex="-1">Some ideas about Matomo Installation <a class="direct-link" href="#some-ideas-about-matomo-installation" aria-hidden="true">#</a></h2>
+<p>Q: Why is 50,000 views a month the upper limit of recommended installs on <a href="https://matomo.org/download/">the WP module</a>?<br>
+A: Server might not be able to store that much data.</p>
+<h2 id="size-of-the-matomo-download-on-the-server" tabindex="-1">Size of the Matomo download <strong>on the server</strong> <a class="direct-link" href="#size-of-the-matomo-download-on-the-server" aria-hidden="true">#</a></h2>
+<p>79460kB (79MB)</p>
+<h2 id="size-of-what-is-loaded-to-browser" tabindex="-1">Size of what is loaded to browser <a class="direct-link" href="#size-of-what-is-loaded-to-browser" aria-hidden="true">#</a></h2>
+<p>The client in each case gets ever smaller downloads:</p>
+<ul>
+<li>Google Analytics 40kB</li>
+<li>Matomo Analytics 20 kB</li>
+<li>Plausible Analytics 1 kB<br>
+(source: Plausible team talking on the Changelog podcast)<br>
+Caveat: I don't know if Mobile download is different.</li>
+</ul>
+<h2 id="node-modules-and-sizes-in-matomo" tabindex="-1">Node modules and sizes in Matomo <a class="direct-link" href="#node-modules-and-sizes-in-matomo" aria-hidden="true">#</a></h2>
+<p>28      matomo/node_modules/jquery-mousewheel<br>
+36      matomo/node_modules/qrcodejs2<br>
+68      matomo/node_modules/ng-dialog/js<br>
+224     matomo/node_modules/ng-dialog<br>
+24      matomo/node_modules/angular-sanitize<br>
+48      matomo/node_modules/chroma-js<br>
+340     matomo/node_modules/jquery-ui-dist<br>
+196     matomo/node_modules/angular<br>
+32      matomo/node_modules/mousetrap<br>
+44      matomo/node_modules/angular-animate<br>
+36      matomo/node_modules/jquery.scrollto<br>
+160     matomo/node_modules/angular-mocks<br>
+28      matomo/node_modules/visibilityjs/lib<br>
+36      matomo/node_modules/visibilityjs<br>
+24      matomo/node_modules/jquery/external/sizzle/dist<br>
+32      matomo/node_modules/jquery/external/sizzle<br>
+36      matomo/node_modules/jquery/external<br>
+88      matomo/node_modules/jquery/dist<br>
+148     matomo/node_modules/jquery<br>
+12      matomo/node_modules/sprintf-js/dist<br>
+28      matomo/node_modules/sprintf-js<br>
+8       matomo/node_modules/jquery.browser/dist<br>
+28      matomo/node_modules/jquery.browser<br>
+12      matomo/node_modules/jquery.dotdotdot/src<br>
+12      matomo/node_modules/jquery.dotdotdot/dist<br>
+44      matomo/node_modules/jquery.dotdotdot<br>
+20      matomo/node_modules/angular-cookies<br>
+40      matomo/node_modules/iframe-resizer/js<br>
+104     matomo/node_modules/iframe-resizer<br>
+184     matomo/node_modules/materialize-css/dist/js<br>
+144     matomo/node_modules/materialize-css/dist/css<br>
+332     matomo/node_modules/materialize-css/dist<br>
+364     matomo/node_modules/materialize-css</p>
+<h2 id="symfony-modules-and-sizes-in-matomo" tabindex="-1">Symfony modules and sizes in Matomo <a class="direct-link" href="#symfony-modules-and-sizes-in-matomo" aria-hidden="true">#</a></h2>
+<p>28      matomo/vendor/symfony/polyfill-ctype<br>
+4       matomo/vendor/symfony/console/Symfony/Component/Console/Resources<br>
+56      matomo/vendor/symfony/console/Symfony/Component/Console/Descriptor<br>
+8       matomo/vendor/symfony/console/Symfony/Component/Console/Logger<br>
+12      matomo/vendor/symfony/console/Symfony/Component/Console/Tester<br>
+36      matomo/vendor/symfony/console/Symfony/Component/Console/Output<br>
+32      matomo/vendor/symfony/console/Symfony/Component/Console/Command<br>
+32      matomo/vendor/symfony/console/Symfony/Component/Console/Formatter<br>
+144     matomo/vendor/symfony/console/Symfony/Component/Console/Helper<br>
+72      matomo/vendor/symfony/console/Symfony/Component/Console/Input<br>
+20      matomo/vendor/symfony/console/Symfony/Component/Console/Question<br>
+20      matomo/vendor/symfony/console/Symfony/Component/Console/Event<br>
+504     matomo/vendor/symfony/console/Symfony/Component/Console<br>
+508     matomo/vendor/symfony/console/Symfony/Component<br>
+512     matomo/vendor/symfony/console/Symfony<br>
+516     matomo/vendor/symfony/console<br>
+12      matomo/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/DependencyInjection<br>
+24      matomo/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Debug<br>
+88      matomo/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher<br>
+92      matomo/vendor/symfony/event-dispatcher/Symfony/Component<br>
+96      matomo/vendor/symfony/event-dispatcher/Symfony<br>
+100     matomo/vendor/symfony/event-dispatcher<br>
+64      matomo/vendor/symfony/polyfill-mbstring/Resources/unidata<br>
+68      matomo/vendor/symfony/polyfill-mbstring/Resources<br>
+132     matomo/vendor/symfony/polyfill-mbstring<br>
+8       matomo/vendor/symfony/monolog-bridge/Symfony/Bridge/Monolog/Handler/FingersCrossed<br>
+36      matomo/vendor/symfony/monolog-bridge/Symfony/Bridge/Monolog/Handler<br>
+8       matomo/vendor/symfony/monolog-bridge/Symfony/Bridge/Monolog/Formatter<br>
+8       matomo/vendor/symfony/monolog-bridge/Symfony/Bridge/Monolog/Processor<br>
+72      matomo/vendor/symfony/monolog-bridge/Symfony/Bridge/Monolog<br>
+76      matomo/vendor/symfony/monolog-bridge/Symfony/Bridge<br>
+80      matomo/vendor/symfony/monolog-bridge/Symfony<br>
+84      matomo/vendor/symfony/monolog-bridge<br>
+1520    matomo/vendor/symfony/polyfill-iconv/Resources/charset<br>
+1524    matomo/vendor/symfony/polyfill-iconv/Resources<br>
+1572    matomo/vendor/symfony/polyfill-iconv<br>
+2436    matomo/vendor/symfony</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/matomo-documentation/">Troubleshooting Tips for Matomo Web Page Analytics</a></li><li>Previous: <a href="/posts/de-google-with-the-creators-of-Plausible/">De-Google With the Creators of Plausible</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/matomo-installation-faqs/ -->
+  </body>
+</html>

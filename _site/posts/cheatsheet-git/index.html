@@ -1,0 +1,394 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Many Many Git Syntax Examples</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Many Many Git Syntax Examples</h1>
+
+<time datetime="2020-03-15">15 Mar 2020</time><a href="/tags/linux/" class="post-tag">linux</a>
+
+<h2 id="mnemonic-device-for-the-two-places" tabindex="-1">Mnemonic device for the two places <a class="direct-link" href="#mnemonic-device-for-the-two-places" aria-hidden="true">#</a></h2>
+<ol>
+<li>Picture a book sitting on a stage, its open the the back of the book.  <em>index</em> === <em>stage</em></li>
+<li>Picture somebody climbing a tree with an ax. She's working. She's far from any type of theater stage.  <em>working tree</em> === <em>unstaged</em></li>
+</ol>
+<h2 id="reset" tabindex="-1">Reset <a class="direct-link" href="#reset" aria-hidden="true">#</a></h2>
+<pre><code>git reset -- hard  ## MESSES WITH YOUR ACTUAL HARDDRIVE
+git reset -- soft  ## JUST CLEARS THE DECK IN GIT AWARENESS, BACK TO WHEREVER
+git reset --hard   ## THIS IS ENOUGH TO ROLL BACK THE TREE TO your last commit. No head detachment issues this way.
+</code></pre>
+<h2 id="git-help-reset-has-gooder-than-usual-examples" tabindex="-1">git help reset has gooder than usual examples <a class="direct-link" href="#git-help-reset-has-gooder-than-usual-examples" aria-hidden="true">#</a></h2>
+<p>For unstaging stuff.</p>
+<p><code>GIT HELP RESET</code> has millions of examples !!!</p>
+<h2 id="look-at-the-remote-branch-before-you-pull-it-in" tabindex="-1">Look at the remote branch before you PULL it in <a class="direct-link" href="#look-at-the-remote-branch-before-you-pull-it-in" aria-hidden="true">#</a></h2>
+<p><code>git diff origin/master</code></p>
+<h2 id="greatest-git-examples-from-stackoverflow" tabindex="-1">Greatest Git examples from StackOverflow <a class="direct-link" href="#greatest-git-examples-from-stackoverflow" aria-hidden="true">#</a></h2>
+<p>6616<br>
+<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a><br>
+How to remove local (untracked) files from the current Git working tree<br>
+11530<br>
+What is the difference between 'git pull' and 'git fetch'?<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a><br>
+8641<br>
+How do I undo 'git add' before commit?<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a><br>
+20456<br>
+How do I undo the most recent local commits in Git?<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a><br>
+6744<br>
+How do I force “git pull” to overwrite local files?<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a><br>
+3076<br>
+Delete commits from a branch in Git<br>
+16452<br>
+How do I delete a Git branch locally and remotely?<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a><br>
+4188<br>
+How do I push a new local branch to a remote Git repository and track it too?<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a><br>
+7384<br>
+How do I revert a Git repository to a previous commit?<br>
+8110<br>
+How do I rename a local Git branch?<br>
+<a href="https://stackoverflow.com/questions/27764857/how-does-git-review-work">https://stackoverflow.com/questions/27764857/how-does-git-review-work</a></p>
+<p><a href="https://stackoverflow.com/questions/2113889/git-difftool-to-give-directory-compare?noredirect=1&amp;lq=1">https://stackoverflow.com/questions/2113889/git-difftool-to-give-directory-compare?noredirect=1&amp;lq=1</a><br>
+Commonest Git questions on Stackoverflow</p>
+<h2 id="omg!" tabindex="-1">OMG! <a class="direct-link" href="#omg!" aria-hidden="true">#</a></h2>
+<h2 id="go-look-around-at-an-old-commit:" tabindex="-1">GO LOOK AROUND at an old commit: <a class="direct-link" href="#go-look-around-at-an-old-commit:" aria-hidden="true">#</a></h2>
+<p>optional is stash and unstash before and after:<br>
+GIT STASH<br>
+GIT STASH POP</p>
+<h2 id="go-look-around-at-an-old-commit:-1" tabindex="-1">GO LOOK AROUND at an old commit: <a class="direct-link" href="#go-look-around-at-an-old-commit:-1" aria-hidden="true">#</a></h2>
+<p>GIT LOG<br>
+GIT CHECKOUT 8765432<br>
+GIT CHECKOUT MASTER</p>
+<h2 id="undo" tabindex="-1">undo <a class="direct-link" href="#undo" aria-hidden="true">#</a></h2>
+<p>git add myfile.txt  then undo with git reset <file></p>
+<ol>
+<li>git reset HEAD *.ext where ext is the files of the given extension you want</li>
+<li>And then<br>
+use &quot;git checkout -- <file>...&quot; to discard changes in working directory)<br>
+WORKED ON NOVEMBER 27, 2019</li>
+</ol>
+<h2 id="undo!" tabindex="-1">Undo! <a class="direct-link" href="#undo!" aria-hidden="true">#</a></h2>
+<p><a href="https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/">https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/</a><br>
+has everything!!</p>
+<h2 id="how-to-revert-a-git-repository-to-a-previous-commit" tabindex="-1">How to revert a Git repository to a previous commit <a class="direct-link" href="#how-to-revert-a-git-repository-to-a-previous-commit" aria-hidden="true">#</a></h2>
+<p>WORKED GREAT ON DECEMBER 3, 2019<br>
+if you haven't published any of these commits, simply reset, all tree will be lost:<br>
+git reset --hard 0d1d7fc32</p>
+<h2 id="merge-one-file" tabindex="-1">Merge one file <a class="direct-link" href="#merge-one-file" aria-hidden="true">#</a></h2>
+<p>git checkout --patch amazing_feature_branch index.html // THIS WILL MERGE A SINGLE FILE, INTERACTIVELY</p>
+<h2 id="danger-will-robinson!-detached-head" tabindex="-1">DANGER Will Robinson! Detached HEAD <a class="direct-link" href="#danger-will-robinson!-detached-head" aria-hidden="true">#</a></h2>
+<p>I solved this with the help of <a href="https://gitolite.com/detached-head.html">https://gitolite.com/detached-head.html</a></p>
+<ol>
+<li>git branch brownie</li>
+<li>git checkout brownie, checkout master for some reason but it worked, wait, WOES: my log is rolled back and those future commits are gone</li>
+<li>git reflog (to see my hash; to the rescue)</li>
+<li>git merge hash447y482n</li>
+</ol>
+<h2 id="shoot!-i-deleted-a-directory!-how-to-get-back-just-one-of-its-files-(2-steps):" tabindex="-1">Shoot! I deleted a directory!  How to get back just one of its files (2 steps): <a class="direct-link" href="#shoot!-i-deleted-a-directory!-how-to-get-back-just-one-of-its-files-(2-steps):" aria-hidden="true">#</a></h2>
+<p>git reset  -- scripts/page.elm<br>
+git checkout -- scripts/page.elm</p>
+<h2 id="change-the-commit-message" tabindex="-1">Change the commit message <a class="direct-link" href="#change-the-commit-message" aria-hidden="true">#</a></h2>
+<p>git commit --amend -m &quot;Hey.&quot;<br>
+changes message of your last commit</p>
+<p>See green notebook for current.</p>
+<h2 id="diff" tabindex="-1">DIFF <a class="direct-link" href="#diff" aria-hidden="true">#</a></h2>
+<p>DIRDIFF causes a tree of the directories to open<br>
+git difftool --dir-diff 3fb4c7436894b4f18f728<br>
+git difftool 3fb4c7436894b4f18f728<br>
+git diff        3fb4c7436894b4f18f728   baef8d19c52ae3b241</p>
+<h3 id="doubledash-syntax-reqd-for-filename:" tabindex="-1">Doubledash syntax reqd for filename: <a class="direct-link" href="#doubledash-syntax-reqd-for-filename:" aria-hidden="true">#</a></h3>
+<p>git diff 80ac3ad279b2c5  -- <a href="http://README.md">README.md</a><br>
+This worked 11/16/2018.</p>
+<p>git diff master..myBranch # Dot Dot notation</p>
+<p>git diff command shows changes between commits, branches, and more. You can read more fully about it through the Git documentation.</p>
+<p>Compare modified files that are on the staging area.<br>
+git diff --staged</p>
+<p>Display the diff of what is in a-branch but is not in b-branch.<br>
+git diff a-branch..b-branch</p>
+<p>Show the diff between two specific commits.<br>
+git diff 61ce3e6..e221d9c</p>
+<p>MERGE DIFF RESET 79<br>
+git merge branchname<br>
+DONT git branch -d branchname // ATTENZIONE, THIS NUKES THE ENTIRE BRANCH<br>
+git diff HEAD // shows differences since the last commit<br>
+git diff --staged<br>
+git diff zombie master  // works</p>
+<h2 id="clear-the-tree-editing" tabindex="-1">clear the tree editing <a class="direct-link" href="#clear-the-tree-editing" aria-hidden="true">#</a></h2>
+<p>For all unstaged files use:<br>
+git checkout -- .<br>
+For a specific file use:<br>
+git checkout path/to/file/to/revert<br>
+Make sure to include the period at the end.</p>
+<h2 id="alternatively-if-there's-work-to-keep:" tabindex="-1">Alternatively, if there's work to keep: <a class="direct-link" href="#alternatively-if-there's-work-to-keep:" aria-hidden="true">#</a></h2>
+<p>git stash<br>
+git reset --hard 0d1d7fc32<br>
+git stash pop<br>
+And the fallout may be merge problems.</p>
+<h2 id="the-forgiving-way-is-to-patch-to-the-future:-this-is-undoable" tabindex="-1">The forgiving way is to patch to the future: this is undoable <a class="direct-link" href="#the-forgiving-way-is-to-patch-to-the-future:-this-is-undoable" aria-hidden="true">#</a></h2>
+<p>With Git, revert has a very specific meaning: create a commit with the reverse patch to cancel it out. This way you don't rewrite any history.  man git-revert has examples!<br>
+This will create three separate revert commits:<br>
+git revert a867b4af 25eee4ca 0766c053</p>
+<h2 id="it-also-takes-ranges.-this-will-revert-the-last-two-commits:" tabindex="-1">It also takes ranges. This will revert the last two commits: <a class="direct-link" href="#it-also-takes-ranges.-this-will-revert-the-last-two-commits:" aria-hidden="true">#</a></h2>
+<p>git revert HEAD~2..HEAD</p>
+<h2 id="similarly-you-can-revert-a-range-of-commits-using-commit-hashes:" tabindex="-1">Similarly, you can revert a range of commits using commit hashes: <a class="direct-link" href="#similarly-you-can-revert-a-range-of-commits-using-commit-hashes:" aria-hidden="true">#</a></h2>
+<p>git revert a867b4af..0766c053</p>
+<h2 id="reverting-a-merge-commit" tabindex="-1">Reverting a merge commit <a class="direct-link" href="#reverting-a-merge-commit" aria-hidden="true">#</a></h2>
+<p>git revert -m 1 &lt;merge_commit_sha&gt;</p>
+<h2 id="hard-not-hard-targeting-just-certain-files" tabindex="-1">hard, not hard, targeting just certain files <a class="direct-link" href="#hard-not-hard-targeting-just-certain-files" aria-hidden="true">#</a></h2>
+<p>There could be only three categories of files when we make local changes:<br>
+Type 1. Staged Tracked files<br>
+Type 2. Unstaged Tracked files<br>
+Type 3. Unstaged UnTracked files a.k.a UnTracked files<br>
+——<br>
+What each commands do:<br>
+git checkout .</p>
+<ul>
+<li>Removes Unstaged Tracked files ONLY [Type 2] {“undo changes in my tree”}<br>
+git clean -f</li>
+<li>Removes Unstaged UnTracked files ONLY [Type 3]<br>
+git reset --hard</li>
+<li>Removes Staged Tracked and UnStaged Tracked files ONLY[Type 1, Type 2]<br>
+git stash -u</li>
+<li>Removes all changes [Type 1, Type 2, Type 3]</li>
+</ul>
+<p>Change commit message on something you just committed:<br>
+git commit --amend -m &quot;Restore after accidental deletion.&quot;</p>
+<p>Shortcuts:<br>
+git checkout -b <new-branch><br>
+Set a key binding.  All of these make 2 letter shortcuts:<br>
+$ git config --global <a href="http://alias.co">alias.co</a> checkout<br>
+$ git config --global <a href="http://alias.br">alias.br</a> branch<br>
+$ git config --global <a href="http://alias.ci">alias.ci</a> commit<br>
+$ git config --global <a href="http://alias.st">alias.st</a> status</p>
+<h2 id="unstage!-learn-this" tabindex="-1">unstage!  learn this <a class="direct-link" href="#unstage!-learn-this" aria-hidden="true">#</a></h2>
+<p>git reset HEAD -- fileone.txt</p>
+<h2 id="many-enjoy-this-see-last-commit-only-clearly:" tabindex="-1">many enjoy this, see last commit only, clearly: <a class="direct-link" href="#many-enjoy-this-see-last-commit-only-clearly:" aria-hidden="true">#</a></h2>
+<p>git log -1 HEAD</p>
+<h2 id="merge-trouble-very-basic" tabindex="-1">merge trouble, very basic <a class="direct-link" href="#merge-trouble-very-basic" aria-hidden="true">#</a></h2>
+<p>error: you cannot push, there are unchanged things there.<br>
+Wrong move: trying to fetch then merge caused 'not something we can merge'<br>
+This worked: git pull mke master</p>
+<h2 id="stash" tabindex="-1">Stash <a class="direct-link" href="#stash" aria-hidden="true">#</a></h2>
+<p>git stash<br>
+git stash apply<br>
+git merge OR<br>
+git diff</p>
+<h2 id="journey-to-the-past-eaxy-way" tabindex="-1">Journey to the past, Eaxy way <a class="direct-link" href="#journey-to-the-past-eaxy-way" aria-hidden="true">#</a></h2>
+<p>git checkout 498285OLD<br>
+git status —graph<br>
+git checkout master (comes back to present</p>
+<h2 id="journey-to-the-past-stranger-way" tabindex="-1">Journey to the past, stranger way <a class="direct-link" href="#journey-to-the-past-stranger-way" aria-hidden="true">#</a></h2>
+<p>git checkout 498285OLD<br>
+git branch setAMarker HEAD ISNT POINTING TO IT, UH OH<br>
+git checkout setaMarker.  NOW HEAD IS POINTING TO THAT</p>
+<h2 id="my-usual-lost-and-a-23rd-psalm-to-show-the-way" tabindex="-1">My usual lost, and a 23rd Psalm to show the way <a class="direct-link" href="#my-usual-lost-and-a-23rd-psalm-to-show-the-way" aria-hidden="true">#</a></h2>
+<p>git merge dev<br>
+CONFLICT - FIX CONFLICT AND COMMIT THE RESULTS<br>
+** git status<br>
+YOU HAVE UNMERGED PATHS .  okay still to bail at this point</p>
+<h2 id="two-things-can-happen-when-you-try-to-merge" tabindex="-1">two things  can happen when you try to merge <a class="direct-link" href="#two-things-can-happen-when-you-try-to-merge" aria-hidden="true">#</a></h2>
+<p>1 if there is a direct path, a fast-forward would happen automatically<br>
+2 else you could be on the tips of the V.  You can’t go from one V tip to the other with fastrforward.   So, a merge is needed<br>
+3 !! you have a given line that got changed by both people<br>
+REMEMBER, TO GIT, A FILE DOESN’T EXIST UNTIL YOU COMMIT IT.<br>
+YOU ARE SAVING FILES AND ACTING LIKE THEY CAN BE MERGED. THEY CANT!</p>
+<h2 id="deleting-a-branch" tabindex="-1">deleting a branch <a class="direct-link" href="#deleting-a-branch" aria-hidden="true">#</a></h2>
+<p>git branch -d evanbranch</p>
+<h2 id="head" tabindex="-1">head, <a class="direct-link" href="#head" aria-hidden="true">#</a></h2>
+<p>HEAD just tells you what branch you are on, it doesn’t say which commit</p>
+<h2 id="speak-correctly" tabindex="-1">Speak correctly <a class="direct-link" href="#speak-correctly" aria-hidden="true">#</a></h2>
+<p>1 Your files you can see - WORKING TREE<br>
+2 The staging area - THE INDEX<br>
+3 The commits</p>
+<h2 id="nut-to-crack" tabindex="-1">NUT TO CRACK <a class="direct-link" href="#nut-to-crack" aria-hidden="true">#</a></h2>
+<p>Once you understand this, much control will be bestowed on you:<br>
+___  git log<br>
+commit 4fc291a81f1cf269d71254148cb18875aa57ac36 (HEAD -&gt; scared, one/master, master)</p>
+<h2 id="two.-new.-commands" tabindex="-1">TWO.   NEW.   COMMANDS <a class="direct-link" href="#two.-new.-commands" aria-hidden="true">#</a></h2>
+<p>git show master@{yesterday}<br>
+git reflog</p>
+<h2 id="my-mistake!-learn-this-syntax!!" tabindex="-1">My mistake!  Learn this syntax!! <a class="direct-link" href="#my-mistake!-learn-this-syntax!!" aria-hidden="true">#</a></h2>
+<p>DON'T REFER TO THE REMOTE AS<br>
+git pull origin/munising WRONG!<br>
+git pull origin munising  RIGHT!</p>
+<h2 id="nice-tip-reflog" tabindex="-1">Nice tip REFLOG <a class="direct-link" href="#nice-tip-reflog" aria-hidden="true">#</a></h2>
+<p>git reflog IS BETTER THAN LOG</p>
+<h2 id="digital-ocean-two-merge-tips" tabindex="-1">Digital Ocean TWO MERGE TIPS <a class="direct-link" href="#digital-ocean-two-merge-tips" aria-hidden="true">#</a></h2>
+<p>Abort the merge, in case there are conflicts.</p>
+<pre><code>git merge --abort
+</code></pre>
+<p>You can also select a particular commit to merge with cherry-pick with the string that references the specific commit.</p>
+<pre><code>git cherry-pick f7649d0
+</code></pre>
+<h2 id="digital-ocean-fetch-then-merge" tabindex="-1">Digital Ocean fetch, then, merge <a class="direct-link" href="#digital-ocean-fetch-then-merge" aria-hidden="true">#</a></h2>
+<p>Collaborate and Update</p>
+<p>To download changes from another repository, such as the remote upstream, you’ll use fetch.<br>
+git fetch upstream</p>
+<p>Merge the fetched commits.  BRANCH SPECIFYING SYNTAX<br>
+git merge upstream/master</p>
+<p>Push or transmit your local branch commits to the remote repository branch.<br>
+git push origin master</p>
+<p>Fetch and merge any commits from the tracking remote branch.<br>
+git pull</p>
+<h2 id="ssh-paths-addresses" tabindex="-1">SSH PATHS, ADDRESSES <a class="direct-link" href="#ssh-paths-addresses" aria-hidden="true">#</a></h2>
+<p>With SSH URLs, relative paths start from your home directory, and it doesn't understand shell shortcuts like ~. So do:<br>
+git remote add origin ssh://user@example.com/git/example.com</p>
+<p>if you want to use absolute paths, like /home/mario/git/example.com, use an extra leading slash:<br>
+git remote add origin ssh://user@example.com//home/mario/git/example.com</p>
+<h2 id="remotes-explained-in-merge-message" tabindex="-1">remotes explained in Merge message <a class="direct-link" href="#remotes-explained-in-merge-message" aria-hidden="true">#</a></h2>
+<p>&quot;You asked to pull from the remote 'one', but did not specify<br>
+a branch.<br>
+Because this is not the default configured remote<br>
+for your current branch, you must specify a branch on the command line.&quot;&quot;<br>
+HOW TO SPECIFY THE REMOTE URL:</p>
+<p>The correct syntax for REMOTEREPO + BRANCH is to JUST LEAVE A SPACE:<br>
+git push catserver newfeature</p>
+<p><a href="mailto:git@skarp.beanstalkapp.com">git@skarp.beanstalkapp.com</a>:/gittest.git<br>
+i.e. in the URL you're using, you missed out the : (colon)</p>
+<p>To update the URL for origin you could do:<br>
+git remote set-url origin <a href="mailto:git@skarp.beanstalkapp.com">git@skarp.beanstalkapp.com</a>:/gittest.git</p>
+<h2 id="julia-evans-awk-example" tabindex="-1">Julia Evans Awk example <a class="direct-link" href="#julia-evans-awk-example" aria-hidden="true">#</a></h2>
+<p>history | awk '$2 == &quot;git&quot; {print $1 &quot; &quot; $3}' &gt; history.txt</p>
+<h2 id="merge-reflection-from-1and1-at-starbucks:" tabindex="-1">Merge reflection from 1&amp;1 at Starbucks: <a class="direct-link" href="#merge-reflection-from-1and1-at-starbucks:" aria-hidden="true">#</a></h2>
+<p>.git/MERGE_HEAD<br>
+is the nascent merge 'project'<br>
+The sequence of a GIT MERGE is</p>
+<ol>
+<li>Do your editing, via git merge git mergetool</li>
+<li>TWO WORD COMMAND NOW: git commit</li>
+<li>Allow it a LONG form commit message, partly so you can trace it, partly for the helpful messages.   Some of your message is just uncommenting.</li>
+</ol>
+<p>Twit<br>
+Learn to keep two idea queue, without writing down.<br>
+Learn to always ensconce emerging idea to secondary slot in that queue.</p>
+<h2 id="notes-from-kyle-welch-talk-at-creamcitycode-(works-at-eventbrite)-oct-13-2018" tabindex="-1">Notes from Kyle Welch talk at CreamCityCode (works at EventBrite) Oct 13, 2018 <a class="direct-link" href="#notes-from-kyle-welch-talk-at-creamcitycode-(works-at-eventbrite)-oct-13-2018" aria-hidden="true">#</a></h2>
+<p>1111<br>
+git merge --squash<br>
+INSTEAD OF JUST MERGING, THIS MAKES THE ROAD LOOKING BKWDS A STRAIGHT, SINGLE ROAD<br>
+22222<br>
+IF YOUR MASTER HAS GONE AHEAD, AFTER YOU FORKED YOUR FEATURE PROJECT:<br>
+rebase!<br>
+gotta bring<br>
+check out JuliaEvans' sketches of Git and how the hashes numbers add up to the tree and branches.  It's a linked list.  That's all, nodes on a linked list.</p>
+<p>THE FOLLOWING STYLE IS CALLED Git Flow<br>
+featureBranch<br>
+development      o----o--o       o---o<br>
+/         \     /     <br>
+release        o-----------o---o-------o----o<br>
+/                              <br>
+master       o---------------o-----o----o-----o-------&gt;</p>
+<p><a href="http://ohshitgit.com">ohshitgit.com</a> WEBSITE</p>
+<p>&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;<br>
+OH NO:<br>
+Your branch is ahead of 'origin/master' by 7 commits.<br>
+All conflicts fixed but you are still merging.<br>
+SOLVED IT:<br>
+git add -A<br>
+git commit -m &quot;Finish merge&quot;<br>
+&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;<br>
+Let’s say that you wanted to commit six files but, by mistake, you end up committing only five files. You may think that you can create a new commit and add the 6th file to that commit.</p>
+<p>There is nothing wrong with this approach. But, to maintain a neat commit history, wouldn’t it be nicer if you could actually somehow add this file to your previous commit itself? This can be done through git commit --amend as well:</p>
+<p>git add file6<br>
+git commit --amend --no-edit</p>
+<p>--no-edit means that the commit message does not change.<br>
+....<br>
+Let’s say that you have committed a bunch of files and realised that the commit message you entered is actually not clear. Now you want to change the commit message. In order to do this you can use git commit --amend</p>
+<p>git commit --amend -m “New commit message”</p>
+<p>/  /  /  /  /  /  /  /<br>
+git reset --hard origin/branch_to_overwrite<br>
+(1)USE THIS IF GIT PULL IS RELUCTANT TO OVERWRITE YOUR LOCAL STUFF<br>
+--OR THIS (2)--<br>
+git checkout master<br>
+git branch new-branch-to-save-current-commits<br>
+git fetch --all<br>
+git reset --hard origin/master<br>
+It's worth noting that it is possible to maintain current local commits by creating a branch from master before resetting PER THE ABOVE FOURLINE SEQUENCE.<br>
+(3) OR THIS<br>
+Uncommitted changes, however (even staged), will be lost. Make sure to stash and commit anything you need. For that you can run the following:</p>
+<p>git stash</p>
+<p>And then to reapply these uncommitted changes:</p>
+<p>git stash pop<br>
+/  /  /  /  /  /  /  /</p>
+<p>git log --graph --all<br>
+SAVED ME: SHOWED ME MY FUTURE VERSIONS THAT I THOUGHT I LOST DURING RESET!</p>
+<p>git log --decorate<br>
+WRITES HEAD,</p>
+<p>git log --oneline</p>
+<p>git log --patch<br>
+EXHAUSTIVELY SHOWS DIFFS LINE BY LINE</p>
+<p>WHAT IS HEAD 78<br>
+1 - both head and master are pointers<br>
+2 - HEAD is you-are-here-now<br>
+3 - MASTER is the bread crumb showing you back where the main trailhead was, so you can get back to it.  You can diff them.<br>
+4 - git reset HEAD --hard  [THIS HAS IS REPEATEDLY ROLLING ME BACK TO s.m.a.]</p>
+<p>HOW TO STEP THROUGH A BIT OF A TIME MACHINE, HOLISTIC<br>
+git checkout somebranch</p>
+<p>PRETTY       DECORATE 126<br>
+git log --pretty     // one line.<br>
+git log --decorate   // shows head, MASTER</p>
+<p>AMEND A STAGE BUT NOT A COMMIT 126<br>
+git commit --amend edits a staged part</p>
+<p>Did you forget part of the stage?<br>
+1 - git commit -m &quot;foo&quot;<br>
+2 - git add forgottenfile.txt<br>
+3 - git commit --amend  // re-wrap it all up</p>
+<p>UNSTAGE 127<br>
+git reset filename.txt just unstages that file</p>
+<p>REWRITE YOUR LAST COMMIT MESSAGE</p>
+<p>PUSHING A BRANCH 149<br>
+why your branch doesn't appear at the remote.  Duh,<br>
+don't push master, push your 2ndbranch</p>
+<p>Solve a difficult merge!<br>
+git merge origin use-ts-bot --allow-unrelated-histories<br>
+git stash save Make fix. Add comments. Delete stuff.<br>
+git stash save &quot;Make fix. Add comments. Delete stuff.&quot;<br>
+SAVE TWICE.    PICK THE HIGHEST, SQUASH THE OTHERS. SAVE. EXIT 2X      git rebase -i c0dda022a4<br>
+git log --pretty=format:&quot;%h %s&quot; HEAD~17..HEAD<br>
+git log --pretty=format:&quot;%h %s&quot; c0dda022a4<br>
+PARTONE git rebase -i atom-box/consumertestingshell~3 consumertestingshell  PART2 git push atom-box +consumertestingshell<br>
+git config -l   THIS LISTS 200 lines of your CONFIG<br>
+git ls-files   LIST TRACKED FILENAMES</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/sql-introduction/">SQL Examples</a></li><li>Previous: <a href="/posts/twitter-using/">Twitter using</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/cheatsheet-git/ -->
+  </body>
+</html>

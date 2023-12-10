@@ -1,0 +1,91 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matomo Tag Manager How to set up</title>
+    <meta name="description" content="Foo bar baz.">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Matomo Tag Manager How to set up</h1>
+
+<time datetime="2023-01-13">13 Jan 2023</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a><a href="/tags/matomo/" class="post-tag">matomo</a>
+
+<h2 id="q:-which-do-i-put-in-the-matomo-tag-the-mtm-tag-both" tabindex="-1">Q: Which do I put in, the Matomo Tag, the MTM tag, both? <a class="direct-link" href="#q:-which-do-i-put-in-the-matomo-tag-the-mtm-tag-both" aria-hidden="true">#</a></h2>
+<h2 id="a:-here-are-examples-of-these-two-tags:" tabindex="-1">A: Here are examples of these two tags: <a class="direct-link" href="#a:-here-are-examples-of-these-two-tags:" aria-hidden="true">#</a></h2>
+<h3 id="here-is-the-normal-matomo-tag" tabindex="-1">Here is the normal Matomo tag <a class="direct-link" href="#here-is-the-normal-matomo-tag" aria-hidden="true">#</a></h3>
+<pre><code>&lt;!-- Matomo Tag Manager --&gt;
+   &lt;script&gt;
+    var _mtm = window._mtm = window._mtm || [];
+    _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://littlefurnace.com/matomo/js/container_4hym701r.js'; s.parentNode.insertBefore(g,s);
+   &lt;/script&gt;
+&lt;!-- End Matomo Tag Manager --&gt;
+</code></pre>
+<h3 id="here-is-the-tag-manager-tag" tabindex="-1">Here is the tag manager tag <a class="direct-link" href="#here-is-the-tag-manager-tag" aria-hidden="true">#</a></h3>
+<pre><code>&lt;!-- Matomo --&gt;
+  &lt;script&gt;
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like &quot;setCustomDimension&quot; should be called before &quot;trackPageView&quot; */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u=&quot;//littlefurnace.com/matomo/&quot;;
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  &lt;/script&gt;
+&lt;!-- End Matomo Code --&gt;  
+</code></pre>
+<p>YOU DON'T NEED BOTH.</p>
+<h2 id="q:-but-when-i-took-away-the-normal-matomo-tag-i-stopped-getting-data" tabindex="-1">Q: But when I took away the normal Matomo tag, I stopped getting data <a class="direct-link" href="#q:-but-when-i-took-away-the-normal-matomo-tag-i-stopped-getting-data" aria-hidden="true">#</a></h2>
+<h2 id="a:-you-need-to-enable-matomo-tracking-inside-of-the-matomo-tag-manager." tabindex="-1">A: You need to enable Matomo tracking <em>inside</em> of the Matomo Tag Manager. <a class="direct-link" href="#a:-you-need-to-enable-matomo-tracking-inside-of-the-matomo-tag-manager." aria-hidden="true">#</a></h2>
+<p>If you want to use the premium features tracking code they just need to tick the box to bundle matomo.js with their Tag Manager container. It doesn't need to be setup manually for the premium features using the API  In Tag Manager: create a container       Variables &gt; Create New Variable &gt; Matomo Configuration:          checkbox Bundle Tracker          checkbox Register as Default Tracker      Triggers &gt; Create New Trigger &gt; Pageview       Tags &gt; Create New Tag &gt; Pageview    If you skip 3, 4 you end up with no data layers on the pages and you'll have a bunch of zeroes in your dashboard.    If you do the above, you can remove from your pages the regular Matomo tag</p>
+<p>In general it is recommended to just have a single tracking script inserted into your website. When you insert multiple different tracking scripts it can start to cause some unexpected issues. A single tracking script (Either the tag manager or the standard javascript code) should be sufficient to track any data to your Matomo instance.</p>
+<p>If you want to use both the Matomo Tag Manager and the standard JavaScript tracker together on the same website, then this can easily be done.  All you need to do is ensure that the Matomo Tag Manager is not bundling the matomo.js file and that it is not registered as the default tracker, eg in the Matomo Variable make sure the following is not selected: 1) Bundle Tracker 2) Register as Default Tracker</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/booknotes-How-to-be-fearless-by-Jessica-Hagy/">Booknotes 7 Simple Steps by Jessica Hagy</a></li><li>Previous: <a href="/posts/booknotes-senator-tim-ryan/">Booknotes - Recapture the American Spirit</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/matomo-tag-manager-how-to-setup/ -->
+  </body>
+</html>

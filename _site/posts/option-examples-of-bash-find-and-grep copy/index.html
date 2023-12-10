@@ -1,0 +1,81 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Common examples of Find and Grep</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Common examples of Find and Grep</h1>
+
+<time datetime="2021-10-04">04 Oct 2021</time><a href="/tags/linux/" class="post-tag">linux</a>
+
+<p>Find and Grep are friends. I memorize <em>Grep</em> syntax pretty well but mix up things in the <em>Find</em> syntax. So here are my personal examples to refer to.</p>
+<h2 id="easy-examples-with-find-in-linux-bash" tabindex="-1">Easy examples with FIND in Linux BASh <a class="direct-link" href="#easy-examples-with-find-in-linux-bash" aria-hidden="true">#</a></h2>
+<p>The <code>sudo</code> can usually be omitted unless you're rooting around up in /etc and those kinds of places.  It does no harm here but is actually not neccessary down in the tilda: ~ (your home directory)</p>
+<pre class="language-bash"><code class="language-bash"><span class="token comment">## finds directories recursively anywhere in your home</span><br><span class="token function">find</span> ~ <span class="token parameter variable">-type</span> d <span class="token parameter variable">-name</span> vendor<br><br><span class="token comment">## searches from your current (pwd) directory, case insensitive</span><br><span class="token function">sudo</span> <span class="token function">find</span> <span class="token builtin class-name">.</span> <span class="token parameter variable">-iname</span> *eadev*<br><br><span class="token comment">## The f looks for filenames, ignoring the pattern in paths, directories</span><br><span class="token comment">## The ls option makes long listing style</span><br><span class="token comment">## Note this will be case SENSITIVE since there's no i flag</span><br><span class="token function">sudo</span> <span class="token function">find</span> <span class="token builtin class-name">.</span> <span class="token parameter variable">-type</span> f <span class="token parameter variable">-name</span> <span class="token string">"bin"</span> <span class="token parameter variable">-ls</span></code></pre>
+<h2 id="basic-examples-of-grep" tabindex="-1">Basic examples of GREP <a class="direct-link" href="#basic-examples-of-grep" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><span class="token comment">## look for abc in both index.php and index.html</span><br><span class="token function">grep</span> abc public/index.* </code></pre>
+<h2 id="some-options-to-try-with-grep-in-linux-bash" tabindex="-1">Some options to try with GREP in Linux BASh <a class="direct-link" href="#some-options-to-try-with-grep-in-linux-bash" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><mark class="highlight-line highlight-line-active"><span class="token parameter variable">-i</span> // insensitive</mark><br><span class="highlight-line"><span class="token parameter variable">-n</span> // show line numbers</span><br><span class="highlight-line"><span class="token parameter variable">-r</span> // <span class="token punctuation">(</span>??<span class="token punctuation">)</span></span><br><span class="highlight-line"><span class="token parameter variable">-c</span> // counts occurances per filename<span class="token punctuation">;</span> cool<span class="token operator">!</span></span><br><span class="highlight-line"><span class="token parameter variable">-R</span> // drill down recursively</span><br><span class="highlight-line"><span class="token parameter variable">-C</span> // <span class="token number">1</span> show one line of context</span></code></pre>
+<h2 id="tell-grep-which-style-of-regex-to-use" tabindex="-1">Tell Grep which style of regex to use <a class="direct-link" href="#tell-grep-which-style-of-regex-to-use" aria-hidden="true">#</a></h2>
+<p>You learn Regex in a tutorial or book somewhere and they don't tell you that the command line tools don't tell you up front which flavor of pattern matching they are doing.<br>
+In Grep, you can conquer this aspect by forcing a flavor; use these options.</p>
+<pre><code>-E extended regex
+-F glob style 
+-G old fashioned regex, pre-extended
+-P Perl style, like Larry Wall
+</code></pre>
+<p>Glob stands for global. It is not RegEX at all.  In Glob style, asterisks are wildcards, same as percent signs in SQL. And same as asterisks in Javascript match command.</p>
+<h2 id="bash-can't-capture-chars-unless-you-escape-the-capture-parens." tabindex="-1">BASh can't capture chars unless you escape the capture parens. <a class="direct-link" href="#bash-can't-capture-chars-unless-you-escape-the-capture-parens." aria-hidden="true">#</a></h2>
+<p>So<br>
+<code>\(</code> and <code>\)</code>,<br>
+not<br>
+<code>(</code> and <code>)</code></p>
+<h2 id="building-regex-on-the-cli-isn't-hard" tabindex="-1">Building regex on the CLI isn't hard <a class="direct-link" href="#building-regex-on-the-cli-isn't-hard" aria-hidden="true">#</a></h2>
+<p>A lot of complaints about RegEx being hard are deserved because reading someone else's Regex is tedious.  Writing it isn't hard though, you just build up a char at a time. Play around with an echoed string in SED. Try this:</p>
+<pre class="language-bash"><code class="language-bash"><span class="token builtin class-name">echo</span> <span class="token string">"katmandu cat"</span> <span class="token operator">|</span> <span class="token function">sed</span> <span class="token string">'s_AT_froggy_gi'</span></code></pre>
+
+<hr>
+<ul><li>Next: <a href="/posts/tracking-pixels-and-analytics/">Examples of Site Analytics Tags</a></li><li>Previous: <a href="/posts/Making a local API server and then tes/">Start a local Node API server and then test it</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/option-examples-of-bash-find-and-grep copy/ -->
+  </body>
+</html>

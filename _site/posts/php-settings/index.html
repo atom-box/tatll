@@ -1,0 +1,71 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Settings</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>PHP Settings</h1>
+
+<time datetime="2023-01-11">11 Jan 2023</time><a href="/tags/linux/" class="post-tag">linux</a>
+
+<h2 id="updating-my-hosted-server" tabindex="-1">Updating my hosted server <a class="direct-link" href="#updating-my-hosted-server" aria-hidden="true">#</a></h2>
+<p>sudo a2enmod proxy_fcgi setenvif<br>
+sudo a2enconf php8.0-fpm<br>
+sudo systemctl reload apache2</p>
+<p>See which versions of PHP are installed.<br>
+$ ls /usr/bin/php*</p>
+<pre><code>$ sudo update-alternatives --set php /usr/bin/php8.1 
+update-alternatives: using /usr/bin/php8.1 to provide /usr/bin/php (php) in manual mode
+evan@nodejs-nyc:~$ php -v
+PHP 8.1.14 (cli) (built: Jan  6 2023 15:22:36) (NTS)
+Copyright (c) The PHP Group
+Zend Engine v4.1.14, Copyright (c) Zend Technologies
+    with Zend OPcache v8.1.14, Copyright (c), by Zend Technologies
+
+</code></pre>
+
+<hr>
+<ul><li>Next: <a href="/posts/booknotes-senator-tim-ryan/">Booknotes - Recapture the American Spirit</a></li><li>Previous: <a href="/posts/booknotes-chronicle-of-the-lodz-ghetto/">Booknotes Chronicle of the Lodz Ghetto</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/php-settings/ -->
+  </body>
+</html>

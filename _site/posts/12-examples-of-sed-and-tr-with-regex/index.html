@@ -1,0 +1,76 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nine Examples of sed and tr with Regular Expressions</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Nine Examples of sed and tr with Regular Expressions</h1>
+
+<time datetime="2019-09-17">17 Sep 2019</time><a href="/tags/linux/" class="post-tag">linux</a>
+
+<p>Both tr and sed can modify text in the command line interface. tr is GNU Translate and sed is the GNU Stream Editor. Here are some examples I find myself using over and over.</p>
+<h2 id="delete-the-whole-line-if-any-part-of-it-matches-the-pattern" tabindex="-1">Delete the whole line if any part of it matches the pattern <a class="direct-link" href="#delete-the-whole-line-if-any-part-of-it-matches-the-pattern" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><mark class="highlight-line highlight-line-active">$ <span class="token function">sed</span> <span class="token string">'/a/d'</span> months.txt</mark><br><span class="highlight-line">june</span><br><span class="highlight-line">july</span><br><span class="highlight-line">september</span><br><span class="highlight-line">october</span><br><span class="highlight-line">november</span><br><span class="highlight-line">december</span></code></pre>
+<pre class="language-bash"><code class="language-bash"><mark class="highlight-line highlight-line-active">$ <span class="token function">sed</span> <span class="token string">'/er/d'</span> months.txt</mark><br><span class="highlight-line">january</span><br><span class="highlight-line">february</span><br><span class="highlight-line">march</span><br><span class="highlight-line">april</span><br><span class="highlight-line">may</span><br><span class="highlight-line">june</span><br><span class="highlight-line">july</span><br><span class="highlight-line">august</span></code></pre>
+<pre class="language-bash"><code class="language-bash"><mark class="highlight-line highlight-line-active">$ <span class="token function">sed</span> <span class="token string">'/r/d'</span> months.txt</mark><br><span class="highlight-line">may</span><br><span class="highlight-line">june</span><br><span class="highlight-line">july</span><br><span class="highlight-line">august</span></code></pre>
+<h2 id="keep-the-line-if-any-part-of-it-matches-the-pattern" tabindex="-1">KEEP the line if any part of it matches the pattern <a class="direct-link" href="#keep-the-line-if-any-part-of-it-matches-the-pattern" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><mark class="highlight-line highlight-line-active">$ <span class="token function">sed</span> <span class="token string">'/r/!d'</span> months.txt</mark><br><span class="highlight-line">january</span><br><span class="highlight-line">february</span><br><span class="highlight-line">march</span><br><span class="highlight-line">april</span><br><span class="highlight-line">september</span><br><span class="highlight-line">october</span><br><span class="highlight-line">november</span><br><span class="highlight-line">december</span></code></pre>
+<pre class="language-bash"><code class="language-bash"><mark class="highlight-line highlight-line-active">$ <span class="token function">sed</span> <span class="token string">'/er/!d'</span> months.txt</mark><br><span class="highlight-line">september</span><br><span class="highlight-line">october</span><br><span class="highlight-line">november</span><br><span class="highlight-line">december</span></code></pre>
+<h2 id="remove-blank-lines" tabindex="-1">Remove blank lines <a class="direct-link" href="#remove-blank-lines" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><mark class="highlight-line highlight-line-active">$ <span class="token function">cat</span> months.txt <span class="token operator">|</span> <span class="token function">sed</span> <span class="token string">"/^[[:space:]]*$/d"</span>`</mark></code></pre>
+<h2 id="remove-ing-from-the-ends-of-words" tabindex="-1">Remove ING from the ends of words <a class="direct-link" href="#remove-ing-from-the-ends-of-words" aria-hidden="true">#</a></h2>
+<p>TR fails here because it looks for single letters but SED works for the ING pattern.</p>
+<pre class="language-bash"><code class="language-bash"><ins class="highlight-line highlight-line-add">$ <span class="token builtin class-name">echo</span>  <span class="token string">"Running and scrambling to see the mayor!"</span> <span class="token operator">|</span>  <span class="token function">tr</span> <span class="token parameter variable">-d</span> <span class="token string">"ing"</span></ins><br><span class="highlight-line">Ru ad scrambl to see the mayor<span class="token operator">!</span></span><br><span class="highlight-line"></span><br><del class="highlight-line highlight-line-remove">$ <span class="token builtin class-name">echo</span>  <span class="token string">"Running and scrambling to see the mayor!"</span> <span class="token operator">|</span>  <span class="token function">sed</span> <span class="token string">"s/ing//g"</span></del><br><span class="highlight-line">Runn and scrambl to see the mayor<span class="token operator">!</span></span></code></pre>
+<h2 id="any-character-can-be-used-as-the-delimiter" tabindex="-1">Any character can be used as the delimiter <a class="direct-link" href="#any-character-can-be-used-as-the-delimiter" aria-hidden="true">#</a></h2>
+<p>You don't need to always delimit with a slash.<br>
+The following are equivalent; both will replace lowercase vowels with an x.</p>
+<pre class="language-bash"><code class="language-bash"><span class="token function">sed</span> s_<span class="token punctuation">[</span>aeiou<span class="token punctuation">]</span>_x_g<br><span class="token function">sed</span> s/<span class="token punctuation">[</span>aeiou<span class="token punctuation">]</span>/x/g<br></code></pre>
+<h2 id="escaping-the-or-+-operator" tabindex="-1">Escaping the ? or + operator <a class="direct-link" href="#escaping-the-or-+-operator" aria-hidden="true">#</a></h2>
+<p>Unlike '*', both '+' (one or more) and '?' (zero or one) must be escaped.</p>
+<pre class="language-bash"><code class="language-bash">$ <span class="token builtin class-name">echo</span> <span class="token string">"The       great wheel in the  sky."</span> <span class="token operator">|</span> <span class="token function">sed</span> <span class="token string">"s_ \+_x_g"</span><br>Thexgreatxwheelxinxthexsky.<br>$ <span class="token builtin class-name">echo</span> <span class="token string">"The       great wheel in the  sky."</span> <span class="token operator">|</span> <span class="token function">sed</span> <span class="token string">"s_ \?_x_g"</span><br>xTxhxexxxxxxxgxrxexaxtxwxhxexexlxixnxtxhxexxsxkxyx.x</code></pre>
+
+<hr>
+<ul><li>Next: <a href="/posts/Linux-exploring/">Linux places</a></li><li>Previous: <a href="/posts/exercise-every-day/">Exercise Every Day</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/12-examples-of-sed-and-tr-with-regex/ -->
+  </body>
+</html>

@@ -1,0 +1,109 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Using Google Ads and Matomo</title>
+    <meta name="description" content="Taking notes">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Using Google Ads and Matomo</h1>
+
+<time datetime="2022-12-09">09 Dec 2022</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a><a href="/tags/matomo/" class="post-tag">matomo</a>
+
+<h2 id="goal-of-tracking-your-ads" tabindex="-1">Goal of tracking your ads <a class="direct-link" href="#goal-of-tracking-your-ads" aria-hidden="true">#</a></h2>
+<p>Reduce ad spend.<br>
+Maximize the Return on Investment ratio.</p>
+<h2 id="the-final-url-of-the-google-ad-should-get-a-suffix" tabindex="-1">The final URL of the Google Ad should get a suffix <a class="direct-link" href="#the-final-url-of-the-google-ad-should-get-a-suffix" aria-hidden="true">#</a></h2>
+<p>The suffix brings over one or more JS variables.</p>
+<ul>
+<li>mtm_campaign  A string, the name of the campaign (required)</li>
+<li>mtm_kwd</li>
+<li>mtm_source</li>
+<li>mtm_medium</li>
+<li>mtm_content</li>
+<li>mtm_cid &quot;Click ID identifier&quot;, the only non-string JS property</li>
+</ul>
+<p>Fun: your old versions of the above, written as UTM will work in Matomo. No rewriting needed.</p>
+<p>What if your existing tags have further parameters? You can customize Matomo to recognize those.  It takes a bit of setting up.</p>
+<p>A tool in Matomo: Acquisition &gt;&gt; &quot;Campaign URL Builder&quot;</p>
+<p>Matomo can accept &quot;whatever&quot;.  Add more variables here <a href="https://matomo.org/faq/how-to/faq_120/">https://matomo.org/faq/how-to/faq_120/</a></p>
+<h2 id="example-of-a-tag" tabindex="-1">Example of a tag <a class="direct-link" href="#example-of-a-tag" aria-hidden="true">#</a></h2>
+<h3 id="before" tabindex="-1">Before <a class="direct-link" href="#before" aria-hidden="true">#</a></h3>
+<p><a href="https://your-website.com/">https://your-website.com/</a></p>
+<h3 id="after" tabindex="-1">After <a class="direct-link" href="#after" aria-hidden="true">#</a></h3>
+<p><a href="https://your-website.com/?mtm_campaign=Name-Of-Your-Campaign&amp;mtm_kwd=Your-Keyword&amp;mtm_source=google&amp;mtm_medium=cpc&amp;mtm_content=My-Ad-Headline&amp;mtm_cid=abc_1234567">https://your-website.com/?mtm_campaign=Name-Of-Your-Campaign&amp;mtm_kwd=Your-Keyword&amp;mtm_source=google&amp;mtm_medium=cpc&amp;mtm_content=My-Ad-Headline&amp;mtm_cid=abc_1234567</a></p>
+<h2 id="how-to-use-matomo-to-track-google-ads-conversions-without-a-google-tag" tabindex="-1">How to use Matomo to track Google Ads conversions without a Google tag <a class="direct-link" href="#how-to-use-matomo-to-track-google-ads-conversions-without-a-google-tag" aria-hidden="true">#</a></h2>
+<p>Tired: Sending a convert signal back to the Advertisement by putting Google's invasive tag (and 3rd party cookie) in your site<br>
+Wired: Sending a convert signal back to the Advertisement by Google-Click-Identifier (GCLID).</p>
+<p>How it works:</p>
+<ol>
+<li>A visitor arrives at your site, <a href="http://www.example.com">www.example.com</a>, having clicked an ad.  They came from a link in a Google Ad similar to <a href="http://www.example.com/?gclid=123abc">www.example.com/?gclid=123abc</a>.</li>
+<li>They travel around your site, eventually triggering your defined conversion  <a href="https://matomo.org/faq/reports/create-a-goal-in-matomo/">Goals &amp; Conversions</a></li>
+<li>Matomo will use the goals settings (you must set these up by hand) to send the following back to Google (with no need for an invasive Google 3rd Party cookie):</li>
+</ol>
+<ul>
+<li>that gclid</li>
+<li>conversion time,</li>
+<li>conversion value (if defined),</li>
+<li>conversion currency and</li>
+<li>conversion name</li>
+</ul>
+<p>The following conversion export destinations are supported similarly:</p>
+<ul>
+<li><a href="https://matomo.org/guide/manage-matomo/advertising-conversion-export/">Google Ads ad conversion from Matomo</a></li>
+<li><a href="https://matomo.org/guide/manage-matomo/advertising-conversion-export/">Yandex ad conversion from Matomo</a></li>
+<li><a href="https://matomo.org/guide/manage-matomo/advertising-conversion-export/">Microsoft ad conversion from Matomo</a></li>
+<li><a href="https://matomo.org/guide/manage-matomo/advertising-conversion-export/">Facebook ad conversion from Matomo</a></li>
+</ul>
+<p>In your Google Ads interface, additional data will be visible:</p>
+<ul>
+<li>the landing page that resulted in the conversion</li>
+<li>the keyword that was used</li>
+</ul>
+<p>The normal pipeline to Google, from Matomo, is to tell Google Ads your API URL in Matomo, for a Scheduled import via HTTPS.</p>
+<p>The main point of all this bears repeating:<br>
+When you have this feature, then you get back the insights of which online ads are successful without needing to embed anything from a third party network.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/eleventy-troubleshooting/">Notes on using Eleventy</a></li><li>Previous: <a href="/posts/cookies-third-party/">Chrome is eliminating 3rd Party Cookies</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/matomo-and-google-ads-conversions/ -->
+  </body>
+</html>

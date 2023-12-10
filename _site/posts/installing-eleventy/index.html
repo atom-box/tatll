@@ -1,0 +1,73 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Installing Eleventy</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Installing Eleventy</h1>
+
+<time datetime="2021-09-17">17 Sep 2021</time><a href="/tags/linux/" class="post-tag">linux</a>
+
+<p>I followed the instructions in the <a href="https://github.com/atom-box/eleventy-base-blog/blob/master/install.md">11ty Github repo</a>.</p>
+<h2 id="one-bug" tabindex="-1">One bug <a class="direct-link" href="#one-bug" aria-hidden="true">#</a></h2>
+<p>I set Apache wrong.  I fixed this by making the server point to the <code>_site</code> directory in the project, not to the top level of my project.</p>
+<h2 id="how-to-configure-input-and-output" tabindex="-1">How to configure input and output <a class="direct-link" href="#how-to-configure-input-and-output" aria-hidden="true">#</a></h2>
+<p>Eleventy can consume and build to wherever you like. To do this, the root directory should have a file called <code>.eleventy.js</code>. In the example below we set the <em>input</em> and <em>output</em> directories to be <code>src</code> and <code>build</code>:</p>
+<pre class="language-js"><code class="language-js"><span class="token comment">// eleventy.js</span><br>module<span class="token punctuation">.</span><span class="token function-variable function">exports</span> <span class="token operator">=</span> <span class="token parameter">config</span> <span class="token operator">=></span> <span class="token punctuation">{</span><br><br>  <span class="token comment">// 11ty defaults</span><br>  <span class="token keyword">return</span> <span class="token punctuation">{</span><br><br>    <span class="token literal-property property">dir</span><span class="token operator">:</span> <span class="token punctuation">{</span><br>      <span class="token literal-property property">input</span><span class="token operator">:</span> <span class="token string">'src'</span><span class="token punctuation">,</span><br>      <span class="token literal-property property">output</span><span class="token operator">:</span> <span class="token string">'build'</span><br>    <span class="token punctuation">}</span><br><br>  <span class="token punctuation">}</span><span class="token punctuation">;</span><br><span class="token punctuation">}</span><span class="token punctuation">;</span><br></code></pre>
+<h2 id="normal-useage" tabindex="-1">Normal useage <a class="direct-link" href="#normal-useage" aria-hidden="true">#</a></h2>
+<ol>
+<li>A single blog post is written as its own markdown file. Save it in the directory <code>posts</code></li>
+<li>After saving it, rebuild the static site: <code>npx eleventy</code></li>
+</ol>
+<h2 id="using-an-image" tabindex="-1">Using an image <a class="direct-link" href="#using-an-image" aria-hidden="true">#</a></h2>
+<p>Bryce Wray described how to add the Eleventy module for automatically sizing and generating images for different users viewports.</p>
+<p>The business end in your post, once you follow Bryce's <a href="https://www.brycewray.com/posts/2021/04/using-eleventys-official-image-plugin/">instructions</a>, ends up being a line in your post's markdown.</p>
+<p>The word <code>image</code> here calls the method for processing that image.</p>
+<h2 id="styling" tabindex="-1">Styling <a class="direct-link" href="#styling" aria-hidden="true">#</a></h2>
+<p>To stay focused, I publicly pledge to not waste time styling this until October 1, 2021.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/Making a local API server and then tes/">Start a local Node API server and then test it</a></li><li>Previous: <a href="/posts/nutritional-value-of-clif-/">Protein bar comparison</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/installing-eleventy/ -->
+  </body>
+</html>

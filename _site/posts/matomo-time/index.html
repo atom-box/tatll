@@ -1,0 +1,78 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Related Issues in Matomo</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Time Related Issues in Matomo</h1>
+
+<time datetime="2023-05-15">15 May 2023</time><a href="/tags/matomo/" class="post-tag">matomo</a>
+
+<h2 id="why-are-visitors-staying-on-my-page-for-0-seconds" tabindex="-1">Why Are Visitors Staying on my Page for 0 Seconds <a class="direct-link" href="#why-are-visitors-staying-on-my-page-for-0-seconds" aria-hidden="true">#</a></h2>
+<p>Matomo puts a UTC time stamp when your visitor arrives on each page. It reports &quot;time on page&quot; by simply subtracting each arrival time.  &quot;0 Seconds&quot; will be the reported time for a page if it is either the ONLY page or the FINAL page.</p>
+<p>Fix this and make it accurate by adding a stopwatch: the javascript heartbeat:<br>
+<a href="https://matomo.org/faq/how-to/faq_21824/">https://matomo.org/faq/how-to/faq_21824/</a><br>
+<a href="https://matomo.org/faq/how-to/faq_21158/">https://matomo.org/faq/how-to/faq_21158/</a><br>
+<a href="https://forum.matomo.org/t/visit-duration-optimal-settings/47548">https://forum.matomo.org/t/visit-duration-optimal-settings/47548</a></p>
+<p>A multi-tab example:<br>
+Lets say I land on page A, and open page B,C,D in multiple tabs in quick succession from page A. Will the time spent on page B be calculated as the few seconds it took to open page C from page A? Or will it be NULL if B is the last page, and calculated compared to the next tab/page I open from page B?<br>
+Matomo will calculate the time between &quot;Pageviews&quot; for subsequent pageview tracking requests. Using this example, if I enter through Page A and open pages B,C &amp; D in order after each other in quick succession then the time on page will be calculated as the time between the Pageview tracking requests which would be a few seconds or less in this example.</p>
+<h2 id="average-time-on-page" tabindex="-1">Average Time on Page <a class="direct-link" href="#average-time-on-page" aria-hidden="true">#</a></h2>
+<p>Average time on page in Matomo is currently not available in custom reports. The average time on page is in the back log for development. BUT in general it is already there at average per page is under behaviour &gt;&gt; pages.</p>
+<p>The Matomo bug fix, issue,s and feature requests for core (non-paid) features is here:<br>
+<a href="https://github.com/matomo-org/matomo/issues">https://github.com/matomo-org/matomo/issues</a></p>
+<h2 id="some-time-data-to-try" tabindex="-1">Some time data to try <a class="direct-link" href="#some-time-data-to-try" aria-hidden="true">#</a></h2>
+<h3 id="session-time" tabindex="-1">Session time <a class="direct-link" href="#session-time" aria-hidden="true">#</a></h3>
+<p>visitors &gt; visits log shows total time of a visit, but not per page time.</p>
+<h3 id="segments-can-check-time" tabindex="-1">Segments can check time <a class="direct-link" href="#segments-can-check-time" aria-hidden="true">#</a></h3>
+<p>In top tab (segments) easy to make a condition VISITDURATION greaterThan 300 seconds.</p>
+<h2 id="what-is-the-time-delay-of-new-stats" tabindex="-1">What is the Time Delay of new stats <a class="direct-link" href="#what-is-the-time-delay-of-new-stats" aria-hidden="true">#</a></h2>
+<p>How often are reports generated refreshed?  For example, to see &quot;live&quot; tracking data of your website in the Matomo UI, you can use either the Visits Log, Real Time or Real Time Map reports. See this FAQ for more info: <a href="https://matomo.org/faq/general/faq_41/">https://matomo.org/faq/general/faq_41/</a>    The other reports such as the Pages, Page Titles, Events, etc. are what we call &quot;Archived&quot; or &quot;Aggregated&quot; reports. These reports in Matomo are not processed in real time and are processed using a scheduled task configured on the server. In an On-Premise setup, you can configure how often the reports are updated. With Matomo Cloud the reports for the &quot;today&quot; period are processed roughly once every 6 hours. Other periods are processed at different intervals. For these reports you can check how recently they were processed by clicking on the &quot;i&quot; icon: (blue circle glyph).</p>
+<h2 id="in-the-sql-table-which-time-zone-is-used" tabindex="-1">In the SQL Table, Which Time Zone is used? <a class="direct-link" href="#in-the-sql-table-which-time-zone-is-used" aria-hidden="true">#</a></h2>
+<p>UTC is what Matomo stores as. All of the data in the Matomo database and data processed by the archiver is stored and processed in UTC. For the archiver logs this is important because certain tasks or actions are only completed once a day (Eg. the first time the task completes for that day). If the archiver logs were stored in the servers time zone then this would make it very challenging to troubleshoot certain things.  It's also important to understand that this is done because a single Matomo server can have many websites with various different time zones.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/packing-list-business-domestic-cold-climate/">Packing list for a Domestic Business Trip to a 40 to 60 Faherenheit Climate</a></li><li>Previous: <a href="/posts/Deep Canvassing/">Deep Canvassing</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/matomo-time/ -->
+  </body>
+</html>

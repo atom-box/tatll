@@ -1,0 +1,122 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matomo Error Messages, A General Introduction</title>
+    <meta name="description" content="Take 12 different courses over 5 months to gain a comprehensive understanding of Drupal">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Matomo Error Messages, A General Introduction</h1>
+
+<time datetime="2022-04-03">03 Apr 2022</time><a href="/tags/matomo/" class="post-tag">matomo</a><a href="/tags/troubleshooting/" class="post-tag">troubleshooting</a>
+
+<h2 id="how-does-matomo-work-introduction-to-matomo-for-beginners" tabindex="-1">How does Matomo work; introduction to Matomo for beginners <a class="direct-link" href="#how-does-matomo-work-introduction-to-matomo-for-beginners" aria-hidden="true">#</a></h2>
+<p>Matomo is a direct competitor to Google Analytics.  Matomo allows you to see how users get to your site and what happens while they are on your site.  What is its market share? Matomo is installed on about 10% of the world's largest sites, according to <a href="https://trends.builtwith.com/analytics/Matomo">BuiltWith</a>.</p>
+<p>This is an article about what to do when you make a mistake with Matomo.  But first let's start here with an explanation of what Matomo does <em>when everything is going right</em>, so we have something to aspire to!</p>
+<p>Matomo comes in <a href="https://matomo.org/what-is-on-premise/">three flavors</a>.  We will assume in this article that you are running On Premise.  Before troubleshooting, take some time to know the rudiments of what Matomo is doing.</p>
+<p>In the most simple Matomo set up, Matomo will give you a  somewhat generic short six line script to paste into the top of any web page you want to monitor.  The script twlls that web page: <em>&quot;create a Javascript variable to store data in the browser. Then download a fairly large Javascript program from <a href="http://www.example.com/matomo">www.example.com/matomo</a>, where <em><a href="http://example.com">example.com</a></em> is replaced by your website domain.&quot;</em></p>
+<p>This payload is sized 2kB to 20kB depending on how many bells and whistles you have turned on in your Matomo dashboard.  (It's a common misconception: people ask &quot;How large is the Matomo download? Why is it so much bigger than Plausible, et al?&quot; But the payload is controlled by you; it can be made pretty small if you minimize what you are tracking. Do that in the user interface if you wish.)  If you open and read the payload, this downloaded JS has lots of event listeners and selectors.  There's nothing magical going on.</p>
+<p>Matomo has a much better description of all this at the <a href="https://developer.matomo.org/">Matomo Developer Documentation</a>.</p>
+<h2 id="troubleshooting-in-the-front-end" tabindex="-1">Troubleshooting in the front end <a class="direct-link" href="#troubleshooting-in-the-front-end" aria-hidden="true">#</a></h2>
+<p>If the problem is subtle, it's useful to start by seeing what is happening in the browser first.</p>
+<p>In devtools, click the network tab to confirm what scripts are loading.  Start by looking for the payload in files named matomo.js or piwik.js.</p>
+<p>Then, as you click and interact with your site, keep watching the devtools. The network will show you the headers and content of the http requests and responses. The client in this case is your browser and it is talking to the <a href="https://developer.matomo.org/guides/apis">Matomo tracking API</a>.</p>
+<h2 id="troubleshooting-the-http-traffic" tabindex="-1">Troubleshooting the http traffic <a class="direct-link" href="#troubleshooting-the-http-traffic" aria-hidden="true">#</a></h2>
+<p>The traffic to the API can be checked first by looking at the Apache server (or similarly in nGinx).</p>
+<p><strong>/var/log/apache2/access*.log</strong><br>
+This is not exactly errors. This is <em>all</em> of the http reqs. As a fun bonus, this one can be read into Matomo later with a log <a href="http://reader.py">reader.py</a> (in case you ever have Matomo go down and you lose data)</p>
+<p><strong>/var/log/apache2/error*.log</strong><br>
+This is where you look during Matomo troubleshooting</p>
+<h2 id="troubleshooting-in-the-back-end" tabindex="-1">Troubleshooting in the back end <a class="direct-link" href="#troubleshooting-in-the-back-end" aria-hidden="true">#</a></h2>
+<p>The back end, written in PHP, will of course not be viewed in your browser.  For the PHP errors, look in your logs for two things:</p>
+<ul>
+<li>failed PHP</li>
+<li>bad SQL queries</li>
+</ul>
+<p>In my experience, 90% of the useful errors will be in the logs.</p>
+<p>If you want to be proactive, go into the user interface (dashboard) and select <code>admin &gt; systems check</code><br>
+Or in the CLI:<br>
+<code>./console diagnostics:run</code></p>
+<p>If you are running a cron job for report archiving, the crontab errors arrive via email.</p>
+<p>Find your php.ini file.  Set this if it is not already:<br>
+<code>log_errors = On</code><br>
+<code>display_errors=Off</code></p>
+<p>Find your matomo/config/common.config.ini.php  Put the line <code>logger_file_path = tmp/logs/matomo.log</code><br>
+Now when trouble strikes (and it will) you can peruse your matomo/tmp/logs/matomo.log<br>
+This shows how <code>./console core:archive</code> is succeeding or not. This is an audit of all Matomo Rawdata -&gt; ReportArchiving.</p>
+<p>Enable the slow log for monitoring for weird slowness in the SQL database  First, find the config file for mysql.  In Linux, search here in descending priority, SQL loads the first file found in this list:<br>
+/etc/my.cnf<br>
+/etc/mysql/my.cnf<br>
+$MYSQL_HOME/my.cnf</p>
+<p>Add this, including the square brackets line</p>
+<pre><code>[mysqld]
+# threshold for what is considered slow
+long_query_time=3
+# location to log to
+slow_query_log_file=/var/log/mysql-slow.log
+# Enable slow query logging
+slow-query-log=1
+</code></pre>
+<p>Restart mysql.<br>
+Now queries taking more than 3 seconds will be logged.<br>
+To view that log, the command is mysqldumpslow -t 10 mysql-slow.log &gt; mysqldumpslow.out<br>
+This would give the top 10 queries, sorted by time they took</p>
+<h2 id="errors-i-got-today-january-11-2023" tabindex="-1">Errors I got today, January 11, 2023 <a class="direct-link" href="#errors-i-got-today-january-11-2023" aria-hidden="true">#</a></h2>
+<p>These happened after I performed the Matomo Three Step Update</p>
+<ol>
+<li>Permissions of ownership<br>
+These were fixed by following the interface suggestions for chown and chmod</li>
+<li>DB update needed<br>
+This was also solved when the interface suggested I use</li>
+</ol>
+<pre><code>$ sudo php /var/www/littlefurnace.com/matomo/console core:update
+</code></pre>
+<ol start="3">
+<li>The directory &quot;/var/www/littlefurnace.com/matomo/tmp/cache/tracker/&quot; does not exist and could not be created.<br>
+This is the classic one we receive once a day at work in Contact Matomo inbox.<br>
+Solve with <code>$ sudo chown -R www-data:www-data /var/www/littlefurnace.com/matomo/tmp/*</code></li>
+</ol>
+
+<hr>
+<ul><li>Next: <a href="/posts/booknotes-medicare-for-dummies/">Medicare for Dummies</a></li><li>Previous: <a href="/posts/how-to-snorkel-in-Key-Largo-while tent-camping-in-the-Everglades/">How to do Snorkeling and Tent Camping in Key Largo and the Everglades</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/error-messages-for-matomo-1/ -->
+  </body>
+</html>

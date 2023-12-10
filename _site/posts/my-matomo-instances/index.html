@@ -1,0 +1,130 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Matomo Instances</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>My Matomo Instances</h1>
+
+<time datetime="2022-03-11">11 Mar 2022</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a>
+
+<h2 id="sites" tabindex="-1">Sites <a class="direct-link" href="#sites" aria-hidden="true">#</a></h2>
+<p>I have installed Matomo on some of my hobby sites:</p>
+<ol>
+<li>Little Furnace is my resume and portfolio</li>
+<li><a href="http://Pikl.us">Pikl.us</a> is my URL shortener with the tricky Are-you-a-human question</li>
+<li><a href="http://Tattl.me">Tattl.me</a> is this blog</li>
+</ol>
+<h2 id="matomo-cloud" tabindex="-1">Matomo Cloud <a class="direct-link" href="#matomo-cloud" aria-hidden="true">#</a></h2>
+<p><a href="http://Tattl.me">Tattl.me</a> is on Matomo Cloud. That means when you send an http request to this site it calls the Matomo server in Germany or New Zealand (backed up in Ireland) to get the matomo.js file which contains my settings.  Once that file is received, the visitor's browser runs Matomo in the browser. Various actions now have Javascript listeners.  When you scroll, mouseover, navigate through links, or leave the page, the matomo.js program sends JS objects to my Matomo Cloud server.</p>
+<p>For a fee, Matomo keeps the database and API of my instance updated, maintained, and backed up.</p>
+<h2 id="matomo-on-premise" tabindex="-1">Matomo On Premise <a class="direct-link" href="#matomo-on-premise" aria-hidden="true">#</a></h2>
+<p>Little Furnace and <a href="http://Pikl.us">Pikl.us</a> are installed onto the same computer as my page, behind the same server.  This requires more vigilence and attention. Permissions of files, updating of versions, backing up: all are my responsiblity.</p>
+<p>The up side of On Premise is that it's free.  Also, if I was trying to be super secret about sensitive information, I am in control of the computer.  I could even run this without an internet connection, using localhost on an intranet.  I guess that could be a fun way to track what goes on inside my house. (Parents! Get detailed reports about your youngsters http traffic!  There's a use case I haven't seen promoted enough.)</p>
+<h2 id="matomo-server-log-analytics" tabindex="-1">Matomo Server Log Analytics <a class="direct-link" href="#matomo-server-log-analytics" aria-hidden="true">#</a></h2>
+<p>I have not tried this yet.  Sounds like it would be a fun project to fork and play with.  The repository is <a href="https://github.com/matomo-org/matomo-log-analytics">here</a>.</p>
+<p>This is one of several articles for people wishing to try out different aspects of the devtools in Firefox.</p>
+<h2 id="reading" tabindex="-1">Reading <a class="direct-link" href="#reading" aria-hidden="true">#</a></h2>
+<p>When you use web pages and web applications what is stored in the Firefox or Chrome browser? Read some of the descriptions here:<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage</a><br>
+<a href="https://www.w3schools.com/jsref/prop_win_localstorage.asp">https://www.w3schools.com/jsref/prop_win_localstorage.asp</a><br>
+<a href="https://michellbrito.medium.com/localstorage-what-is-it-d589a0803de0">https://michellbrito.medium.com/localstorage-what-is-it-d589a0803de0</a><br>
+<a href="https://blog.logrocket.com/localstorage-javascript-complete-guide/">https://blog.logrocket.com/localstorage-javascript-complete-guide/</a></p>
+<h2 id="browse-things-stored-in-the-client" tabindex="-1">Browse things stored in the client <a class="direct-link" href="#browse-things-stored-in-the-client" aria-hidden="true">#</a></h2>
+<p>Many objects (objects in a JS sense) are stored in the browser when you use a web page.  These are not hidden or mysterious. They are easy to browse in the devtools. In Firefox:<br>
+<code>Devtools-&gt;Storage</code><br>
+Will reveal several types of stored things:</p>
+<ul>
+<li>Cookies</li>
+<li>Cache</li>
+<li>Indexed DB</li>
+<li>Local storage</li>
+<li>Session storage</li>
+</ul>
+<h2 id="local-storage-vs-cookies" tabindex="-1">Local Storage vs Cookies <a class="direct-link" href="#local-storage-vs-cookies" aria-hidden="true">#</a></h2>
+<p><a href="https://en.wikipedia.org/wiki/Web_storage#Local_and_session_storage">https://en.wikipedia.org/wiki/Web_storage#Local_and_session_storage</a><br>
+<a href="https://en.wikipedia.org/wiki/HTTP_cookie#Persistent_cookie">https://en.wikipedia.org/wiki/HTTP_cookie#Persistent_cookie</a></p>
+<h2 id="local-storage-methods" tabindex="-1">Local Storage Methods <a class="direct-link" href="#local-storage-methods" aria-hidden="true">#</a></h2>
+<ul>
+<li>localStorage.getItem(key)</li>
+<li>localStorage.setItem(key, value)</li>
+<li>localStorage.removeItem(key)</li>
+<li>localStorage.clear()</li>
+</ul>
+<h2 id="cookie-exercise-to-try" tabindex="-1">Cookie Exercise to try <a class="direct-link" href="#cookie-exercise-to-try" aria-hidden="true">#</a></h2>
+<p>Here is homework .</p>
+<ol>
+<li>Go to your browser's cookies list: <code>Settings-&gt;Privacy&amp;Security-&gt;Cookies-&gt;ManageCookies</code> (in Firefox)</li>
+<li>(optional) If you don't have many cookies, get some. Go to commercial sites: Amazon, <a href="http://OfficeSupply.com">OfficeSupply.com</a>. Go to some high content story sites: <a href="http://vox.com">vox.com</a>, <a href="http://scoutingmagazine.org/">scoutingmagazine.org/</a> your local newspaper, <a href="http://yahoo.com">yahoo.com</a>. Do some browsing to accumulate some cookies</li>
+<li>Look at pairs of sites.  For their cookies, describe what is the same and what is different (do this in any way that makes sense for you, think of your audience, get your ideas across any way you prefer). Choose sites with 2 or more cookies.<br>
+a. two sites that sell things<br>
+b. a high traffic site and a less high traffic site<br>
+c. two sites with URLs ending in .edu domain (If stumped you can find these by putting &quot;site:.edu into Duck Duck Go or Google&quot;)<br>
+d. two sites with a URL ending in the <em>.gov</em> domain</li>
+</ol>
+<h2 id="local-storage-exercise-to-try" tabindex="-1">Local Storage exercise to try <a class="direct-link" href="#local-storage-exercise-to-try" aria-hidden="true">#</a></h2>
+<ol start="4">
+<li>Store a property. Get the browser console</li>
+</ol>
+<pre><code> (Firefox: Ctl+Shift+I) -&gt; Console  
+</code></pre>
+<p>Store your own silly property</p>
+<pre><code>localStorage.setItem('froggy', 42);  
+undefined  
+</code></pre>
+<p>Is the item still there? Check!</p>
+<pre><code>localStorage.getItem('froggy');
+&quot;false&quot;  
+</code></pre>
+<p>Remove your made up proper property using any method listed above in the <em>Methods</em> section.<br>
+Confirm it is gone, using something similar to <code>localStorage.getItem()</code> again.</p>
+<h2 id="combined-exercise-to-try" tabindex="-1">Combined Exercise to try <a class="direct-link" href="#combined-exercise-to-try" aria-hidden="true">#</a></h2>
+<ol start="5">
+<li>Use everything from above to look at some interesting large websites and see which properties that are typically stored in cookies versus which properties are typically stored in local storage.  This is open-ended; there is no <em>right</em> answer.</li>
+</ol>
+
+<hr>
+<ul><li>Next: <a href="/posts/how-to-snorkel-in-Key-Largo-while tent-camping-in-the-Everglades/">How to do Snorkeling and Tent Camping in Key Largo and the Everglades</a></li><li>Previous: <a href="/posts/startup-founders-interview-podcasts-at-saaster-customer-service/">Six SaaSter Podcast Episodes That Were Pretty Good</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/my-matomo-instances/ -->
+  </body>
+</html>

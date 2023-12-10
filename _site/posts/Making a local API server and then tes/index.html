@@ -1,0 +1,131 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Start a local Node API server and then test it</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Start a local Node API server and then test it</h1>
+
+<time datetime="2021-09-21">21 Sep 2021</time><a href="/tags/linux/" class="post-tag">linux</a><a href="/tags/troubleshooting/" class="post-tag">troubleshooting</a>
+
+<h2 id="make-the-api" tabindex="-1">Make the API <a class="direct-link" href="#make-the-api" aria-hidden="true">#</a></h2>
+<ol>
+<li>Make sure Mongo DB is <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04">installed</a> and running:<br>
+<code>$ sudo systemctl status mongod</code></li>
+<li>Clone the server from <a href="https://github.com/makinhs/rest-api-tutorial"> makinhs/<br>
+rest-api-tutorial</a>.</li>
+<li>Install dependencies: <code>npm install</code></li>
+<li>Start it: <code>npm start</code></li>
+</ol>
+<p>The server is now running on <a href="http://localhost:3600">http://localhost:3600</a></p>
+<h2 id="several-ways-to-hit-the-server-api-with-a-post" tabindex="-1">Several ways to hit the server API with a POST <a class="direct-link" href="#several-ways-to-hit-the-server-api-with-a-post" aria-hidden="true">#</a></h2>
+<h3 id="using-the-console-in-a-browser-to-post" tabindex="-1">Using the console in a browser to POST <a class="direct-link" href="#using-the-console-in-a-browser-to-post" aria-hidden="true">#</a></h3>
+<p>The console in Firefox or Safari can run JS that will send a post. console may complain &quot;Be careful about pasting in code you find on Internet sites&quot;.</p>
+<pre><code>fetch('http://localhost:3600/users', {
+        method: 'POST',
+        headers: {
+            &quot;Content-type&quot;: &quot;application/json&quot;
+        },
+        body: JSON.stringify({
+            &quot;firstName&quot;: &quot;Marcos&quot;,
+            &quot;lastName&quot;: &quot;Silva&quot;,
+            &quot;email&quot;: &quot;marcos.henrique@toptal.com&quot;,
+            &quot;password&quot;: &quot;s3cr3tp4sswo4rd&quot;
+        })
+    })
+    .then(function(response) {
+        return response.json();
+    })
+    .then(function(data) {
+        console.log('Request succeeded with JSON response', data);
+    })
+    .catch(function(error) {
+        console.log('Request failed', error);
+    });
+</code></pre>
+<h3 id="using-curl-at-the-cli-to-post" tabindex="-1">Using cURL at the CLI to POST <a class="direct-link" href="#using-curl-at-the-cli-to-post" aria-hidden="true">#</a></h3>
+<p>In the BASh terminal:</p>
+<pre><code>curl -d $'{&quot;firstName&quot;:&quot;Barry&quot;, &quot;lastName&quot;:&quot;Gordy&quot;, &quot;email&quot;: &quot;boss@motown.com&quot;, &quot;password&quot;: &quot;abc&quot;}' -H &quot;Content-Type: application/json&quot; -X POST http://localhost:3600/users
+</code></pre>
+<h3 id="using-the-insomnia-gui-to-post" tabindex="-1">Using the Insomnia GUI to POST <a class="direct-link" href="#using-the-insomnia-gui-to-post" aria-hidden="true">#</a></h3>
+<p>Download Insomnia API tester. Insomnia is a free application, similar to Postman. Start Insomnia. Once you are in a project, hit Ctl + n to start a new request. The center panel near the top has a one line slot is where you put the request, similar to a web browser's top slot. (You're in the right place if the slot has a SEND button on the right and a dropdown on the left for GET, PUT, et cetera).</p>
+<p>Example:</p>
+<ol>
+<li>Ctl + n</li>
+<li>In the top slot type <strong><a href="https://httpbin.org/get">https://httpbin.org/get</a></strong></li>
+<li>Select <strong>GET</strong>.  Press <strong>Send</strong></li>
+<li>The server's response data in JSON should appear in the right pane.</li>
+</ol>
+<p>Example:</p>
+<ol>
+<li>Ctl + n</li>
+<li>In the top slot type: <strong>localhost:3600/users</strong> (no http://)</li>
+<li>Select <strong>POST</strong></li>
+<li>Add data in the panel directly below the slot:</li>
+</ol>
+<pre><code>{
+    &quot;firstName&quot; : &quot;Barry&quot;,
+    &quot;lastName&quot; : &quot;Gordy&quot;,
+    &quot;email&quot; : &quot;barry.gordy@toptal.com&quot;,
+    &quot;password&quot; : &quot;do-re-mi  &quot;
+ }
+</code></pre>
+<ol start="5">
+<li>Press <strong>SEND</strong>. The response should just be a one line id for the new user created in this case.</li>
+</ol>
+<h3 id="to-do-next-modify-the-server" tabindex="-1">To do next, modify the server <a class="direct-link" href="#to-do-next-modify-the-server" aria-hidden="true">#</a></h3>
+<p>These are left as an exercise to the reader, as they say:</p>
+<pre><code>Implement proper validations (e.g., make sure that user email is unique)
+Implement unit testing and error reporting
+Prevent users from changing their own permission level
+Prevent admins from removing themselves
+Prevent disclosure of sensitive information (e.g., hashed passwords)
+Move the JWT secret from common/config/env.config.js to an off-repo, non-environment-based secret distribution mechanism
+Convert the codebase from its use of JavaScript promises over to the async/await technique.
+</code></pre>
+
+<hr>
+<ul><li>Next: <a href="/posts/option-examples-of-bash-find-and-grep copy/">Common examples of Find and Grep</a></li><li>Previous: <a href="/posts/installing-eleventy/">Installing Eleventy</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/Making a local API server and then tes/ -->
+  </body>
+</html>

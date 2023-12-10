@@ -1,0 +1,124 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building a Drupal Site</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Building a Drupal Site</h1>
+
+<time datetime="2021-05-21">21 May 2021</time><a href="/tags/drupal/" class="post-tag">drupal</a>
+
+<h1 id="personal-notes" tabindex="-1">Personal notes <a class="direct-link" href="#personal-notes" aria-hidden="true">#</a></h1>
+<p>These are mostly for me, maybe not readable by anyone else.</p>
+<h2 id="how-to-make-a-thing-that-has-many-sibling-things" tabindex="-1">How to make a thing that has many sibling things <a class="direct-link" href="#how-to-make-a-thing-that-has-many-sibling-things" aria-hidden="true">#</a></h2>
+<ol>
+<li>Create content will have two options.</li>
+<li>Of these two options,<br>
+<em>create basic article</em> has options like tags and images built in,<br>
+<em>create basic page</em> has no images, no tags.</li>
+</ol>
+<p>Uploaded files and images can be browsed from Admin-&gt;Content-&gt;Files tab. They end up there automatically without you putting them there.</p>
+<h2 id="how-to-make-something-that-is-one-of-a-kind-siblingless" tabindex="-1">How to make something that is one of a kind, siblingless <a class="direct-link" href="#how-to-make-something-that-is-one-of-a-kind-siblingless" aria-hidden="true">#</a></h2>
+<p>1.Make a custom block Structure-&gt;blocks-&gt;custom block<br>
+2.Place it            Structure-&gt;blocks-&gt;block layout</p>
+<p>Don't think of blocks as content. They are more like a footer or sidebar or modal.</p>
+<h2 id="an-overview-of-how-the-ux-planning-goes-when-planning-a-site" tabindex="-1">An overview of how the UX planning goes when planning a site <a class="direct-link" href="#an-overview-of-how-the-ux-planning-goes-when-planning-a-site" aria-hidden="true">#</a></h2>
+<p>I learned all this at a well-worth-it one week course from Evolving Web.</p>
+<p>Before starting to code, the site needs to be planned. Both a redesign or green field development can follow the steps below.  Notice that the actual coding comes pretty late in the sequence:</p>
+<ol>
+<li>Questionaires.  Get out of your own head. The closer you get to what your real users are like the more they will enjoy what you build.</li>
+<li>Develop fictional personas.
+<ul>
+<li>a random person who arrived by organic search</li>
+<li>a current employee</li>
+<li>a volunteer to your org</li>
+<li>a job seeker</li>
+<li>a potential customer</li>
+</ul>
+</li>
+<li>Map ideal journeys those personas would take on your site. What you're paid to do is align what the user feels is a happy experience and what your organization considers a happy experience. Notice we have not written any code yet.</li>
+<li>Inventory the existing and potential content.
+<ul>
+<li>if a competitor site or your org's existing site are relevant you can inventory those. An automatic free tool for building a data tree of site content is at <a href="https://www.screamingfrog.co.uk/seo-spider/#spider-features">Screaming Frog</a></li>
+</ul>
+</li>
+<li>Architect your site. Design the relational database. Make wireframes.</li>
+<li>Concept! Let the designers mock up some pages.</li>
+<li>Develop. Realize the site in code.</li>
+<li>Continuous Improvement.</li>
+</ol>
+<h2 id="here-are-the-kinds-of-brainstorms-that-ux-folks-do" tabindex="-1">Here are the kinds of brainstorms that UX folks do <a class="direct-link" href="#here-are-the-kinds-of-brainstorms-that-ux-folks-do" aria-hidden="true">#</a></h2>
+<h3 id="result-of-a-team-brainstorming-session-about-user-journeys" tabindex="-1">Result of a team brainstorming session about user journeys <a class="direct-link" href="#result-of-a-team-brainstorming-session-about-user-journeys" aria-hidden="true">#</a></h3>
+<picture>
+        <source type="image/webp" srcset="/images/journeys-whiteboard-at-Miro-600w.webp 600w, /images/journeys-whiteboard-at-Miro-900w.webp 900w" sizes="(min-width: 1024px) 100vw, 50vw">
+  <source type="image/jpeg" srcset="/images/journeys-whiteboard-at-Miro-600w.jpeg 600w, /images/journeys-whiteboard-at-Miro-900w.jpeg 900w" sizes="(min-width: 1024px) 100vw, 50vw">
+      <img
+        src="/images/journeys-whiteboard-at-Miro-600w.jpeg"
+        width="900"
+        height="652"
+        alt="A whiteboard with many completed post it notes and scribblings on it"
+        loading="lazy"
+        decoding="async">
+    </picture>
+<h3 id="result-of-a-team-brainstorming-session-about-user-personas" tabindex="-1">Result of a team brainstorming session about user personas <a class="direct-link" href="#result-of-a-team-brainstorming-session-about-user-personas" aria-hidden="true">#</a></h3>
+<picture>
+        <source type="image/webp" srcset="/images/personas-whiteboard-at-Miro-600w.webp 600w" sizes="(min-width: 1024px) 100vw, 50vw">
+  <source type="image/jpeg" srcset="/images/personas-whiteboard-at-Miro-600w.jpeg 600w" sizes="(min-width: 1024px) 100vw, 50vw">
+      <img
+        src="/images/personas-whiteboard-at-Miro-600w.jpeg"
+        width="600"
+        height="577"
+        alt="A whiteboard with many completed post it notes and scribblings on it"
+        loading="lazy"
+        decoding="async">
+    </picture>
+<p>(Todo: activate <a href="https://www.alpower.com/tutorials/adding-figures-with-captions-to-images-in-markdown-with-eleventy/">captions module</a> in Eleventy)</p>
+<h2 id="sources-for-these-notes" tabindex="-1">Sources for these notes <a class="direct-link" href="#sources-for-these-notes" aria-hidden="true">#</a></h2>
+<p>Several dozen well organized videos are at <a href="https://www.youtube.com/watch?v=MXM3Ql1CqDg">https://www.youtube.com/watch?v=MXM3Ql1CqDg</a>. They were made in 2016 by Acquia and OS Training.  They are similar (or maybe identical?) to the ones that exist behind the paywall at LinkedIn Learning.</p>
+<p>The courses at <a href="https://evolvingweb.ca/training">Evolving Web</a> are worth the money. Their courses are ~$400 for each one week course and they are live, so check the schedule.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/places-that-teach-Drupal/">Drupal Class</a></li><li>Previous: <a href="/posts/checklist-for-a-pull-request/">Pull requests checklist!</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/building-a-drupal-9-site/ -->
+  </body>
+</html>

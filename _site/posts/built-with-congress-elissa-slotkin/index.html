@@ -1,0 +1,103 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website of Representative Slotkin</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Website of Representative Slotkin</h1>
+
+<time datetime="2021-12-09">09 Dec 2021</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a><a href="/tags/drupal/" class="post-tag">drupal</a>
+
+<p>The website for Congresswoman Elissa Slotkin is at <a href="https://slotkin.house.gov">https://slotkin.house.gov</a>.  The following is what I learned by looking at its web design.</p>
+<h2 id="ux" tabindex="-1">UX <a class="direct-link" href="#ux" aria-hidden="true">#</a></h2>
+<p>The Elissa Slotkin site has a clean design. It seems aware that a third of its users are older folks.</p>
+<p>I have an octagenarian friend, so I will investigate the site's senior-friendliness by watching her navigate it this week when she tunes in to the upcoming livestream at <a href="http://slotkin.house.gov/live">http://slotkin.house.gov/live</a></p>
+<h2 id="design-and-css" tabindex="-1">Design and CSS <a class="direct-link" href="#design-and-css" aria-hidden="true">#</a></h2>
+<p>The use of Red and Blue are very balanced. This is not an blue heavy Squad or E Warren site: keeping the door open to Red and Blue folks.</p>
+<h2 id="data-odometer-spinner" tabindex="-1">Data Odometer Spinner <a class="direct-link" href="#data-odometer-spinner" aria-hidden="true">#</a></h2>
+<p>I don't know what this element is properly termed. It's a banner 2/3 of the way down many popular pages that shows animated loading numbers for how succesful the business is.  For this page, it animates three numbers:</p>
+<pre><code>136,000
+Responses to Emails, Letters and Calls
+2,593
+Constituent Cases Closed
+$1,637,000
+Dollars Returned to Constituents
+</code></pre>
+<h2 id="technology-used-by-the-site" tabindex="-1">Technology used by the site <a class="direct-link" href="#technology-used-by-the-site" aria-hidden="true">#</a></h2>
+<p>According to <a href="https://builtwith.com/slotkin.house.gov">Built With</a>, the following things are in the stack of the Slotkin site.</p>
+<h3 id="varnish" tabindex="-1">Varnish <a class="direct-link" href="#varnish" aria-hidden="true">#</a></h3>
+<p>Varnish is a server, specialized in caching, maybe for video streaming especially?</p>
+<p>2000 of the top 10000 sites use a Varnish server (says Built With).</p>
+<p><em>The name Varnish comes from when the instigator of Varnish spent a long time staring at an art-poster with the word &quot;Vernissage&quot; and ended up checking it in a dictionary, which gives the following three meanings of the word...</em> (<a href="https://varnish-cache.org/intro/">https://varnish-cache.org/intro/</a>)</p>
+<h3 id="drupal" tabindex="-1">Drupal <a class="direct-link" href="#drupal" aria-hidden="true">#</a></h3>
+<p>This continues my observation that there is always a job for you in government web development if you keep up with Drupal.</p>
+<p>The site is on an up to date Drupal 9 (yay!).</p>
+<p>In theming I see there is a WooTheme style on the FlexSlider.</p>
+<h3 id="javascript" tabindex="-1">Javascript <a class="direct-link" href="#javascript" aria-hidden="true">#</a></h3>
+<ul>
+<li>FlexSlider (jQuery slider)</li>
+<li>SuperFish (jQuery menu)</li>
+<li>Hover (<em>hoverIntent is a plug-in that attempts to determine the user's intent by monitoring onMouseOver.</em>)</li>
+<li>html5shivhtml5shiv (For Internet Explorer)</li>
+<li>Twitter PlatformTwitter (adds a stream of recent tweets)</li>
+<li>Facebook for Websites (adds a stream of recent postings)</li>
+<li>Facebook SDK (<em>for authentication and sharing via the FB API</em>)</li>
+<li>JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.</li>
+</ul>
+<h3 id="advertising" tabindex="-1">Advertising <a class="direct-link" href="#advertising" aria-hidden="true">#</a></h3>
+<p>Federated Learning of Cohorts (FLoC) (<em>a privacy-preserving mechanism for interest-based ad selection</em>).</p>
+<p>It is an ethical advertising project, maybe like DuckDuckGo?  The <a href="https://github.com/WICG/floc">Readme at Github</a> is helpful.</p>
+<p>The total number of users of FLoC plummeted from 50,000 to 20,000 in August, according to the graph at BuiltWith.</p>
+<h3 id="hosting" tabindex="-1">Hosting <a class="direct-link" href="#hosting" aria-hidden="true">#</a></h3>
+<p>Nexcess<br>
+And DNS from Azure maybe</p>
+<h3 id="mapping-by-arcgis" tabindex="-1">Mapping by ArcGIS <a class="direct-link" href="#mapping-by-arcgis" aria-hidden="true">#</a></h3>
+<p>This seems like a boss-move.  De-google your web pages everybody!</p>
+<h3 id="web-analytics" tabindex="-1">Web Analytics <a class="direct-link" href="#web-analytics" aria-hidden="true">#</a></h3>
+<p>Oh. The Web Analytics is Google Tag Manager.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/sasstr-episode-431/">Listening to the SaaSter Podcast</a></li><li>Previous: <a href="/posts/devtools-local-storage/">Introduction to Using DevTools to Investigate Browser Based Storage</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/built-with-congress-elissa-slotkin/ -->
+  </body>
+</html>

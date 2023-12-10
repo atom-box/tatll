@@ -1,0 +1,84 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes on using Eleventy</title>
+    <meta name="description" content="Notes condensed from listening to changelog podcast">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Notes on using Eleventy</h1>
+
+<time datetime="2022-12-28">28 Dec 2022</time><a href="/tags/troubleshooting/" class="post-tag">troubleshooting</a>
+
+<h2 id="error:-&quot;templatelayoutpathresolver-directory-does-not-exist&quot;" tabindex="-1">Error: &quot;TemplateLayoutPathResolver directory does not exist&quot; <a class="direct-link" href="#error:-&quot;templatelayoutpathresolver-directory-does-not-exist&quot;" aria-hidden="true">#</a></h2>
+<p>This went away when I moved my working directory one level higher; a bit embarrassed.</p>
+<p>In the future, might consider these also:</p>
+<ul>
+<li>Read the comment in the Eleventy issues: <a href="https://github.com/11ty/eleventy/issues/1642">https://github.com/11ty/eleventy/issues/1642</a></li>
+<li>DEBUG=Eleventy* npx @11ty/eleventy at the command line was interesting, though not useful</li>
+<li>there are other compile commands, similar to 'npm dev' I think</li>
+</ul>
+<h2 id="error:-output-conflict-multiple-input-files-are-writing-to..." tabindex="-1">Error: Output conflict, Multiple input files are writing to... <a class="direct-link" href="#error:-output-conflict-multiple-input-files-are-writing-to..." aria-hidden="true">#</a></h2>
+<p>'''<br>
+Problem writing Eleventy templates: (more in DEBUG output)</p>
+<blockquote>
+<p>Output conflict: multiple input files are writing to <code>_site/tags/getting-things-done/index.html</code>. Use distinct <code>permalink</code> values to resolve this conflict.</p>
+</blockquote>
+<ol>
+<li>./tags.njk</li>
+<li>./tags.njk</li>
+</ol>
+<p><code>DuplicatePermalinkOutputError</code> was thrown:</p>
+<p>'''<br>
+This was due to some missing formatting OR redundant labeling in the header.<br>
+The solution was to copy and paste a well formatted header from elsewhere and just edit that.</p>
+<h2 id="git-commands-that-were-useful-during-blog-editing" tabindex="-1">Git commands that were useful during blog editing <a class="direct-link" href="#git-commands-that-were-useful-during-blog-editing" aria-hidden="true">#</a></h2>
+<ul>
+<li>git reset is specifically about updating the index, moving the HEAD.</li>
+<li>git checkout is about updating the working tree (to the index or the specified tree). It will update the HEAD only if you checkout a branch (if not, you end up with a detached HEAD) -- (actually, with Git 2.23 Q3 2019, this will be git restore, not necessarily git checkout)</li>
+<li>By comparison, since svn has no index, only a working tree, svn checkout will copy a given revision on a separate directory.</li>
+</ul>
+
+<hr>
+<ul><li>Next: <a href="/posts/new-years-day-2023-retrospective/">Retrospective of the Last Year</a></li><li>Previous: <a href="/posts/matomo-and-google-ads-conversions/">Using Google Ads and Matomo</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/eleventy-troubleshooting/ -->
+  </body>
+</html>

@@ -1,0 +1,276 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Troubleshooting Tips for Matomo Web Page Analytics</title>
+    <meta name="description" content="I try to write in a clear way but then I become impatient and just start jotting. ">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I try to write in a clear way but then I become impatient and just start jotting. </p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        <p><em><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>. 
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Troubleshooting Tips for Matomo Web Page Analytics</h1>
+
+<time datetime="2021-11-14">14 Nov 2021</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a><a href="/tags/matomo/" class="post-tag">matomo</a>
+
+<h2 id="what-this-article-is" tabindex="-1">What this article is <a class="direct-link" href="#what-this-article-is" aria-hidden="true">#</a></h2>
+<p>I don't recommend reading this article, it is a personal souvineer so I can look back in the future and see where I have been, what I was learning month to month. Now I am learning the web analytics platform Matomo.</p>
+<h2 id="best-place-to-read-about-matomo" tabindex="-1">Best place to read about Matomo <a class="direct-link" href="#best-place-to-read-about-matomo" aria-hidden="true">#</a></h2>
+<p>If <em>you</em> want to learn about Matomo, go to the official help site itself. Make this page your home page for explorations, it leads to all of the good stuff: <a href="https://matomo.org/help/">https://matomo.org/help/</a></p>
+<p>The Help docs are readable, organized, clear.  And if you go down the many roads, the site is enormous, but upon first arriving, it doesn't feel enormous.  You only encounter the enormity once you go to your section of interest.  Once there, things can go deeper and deeper. But only if you keep digging.  The overall UX is excellent, in other words: the site opens up like a fractal in a video game where you walk closer and closer to a distant cliff in the video game and the landscape resolution keeps improving.</p>
+<p>What follows is a random fly by of Matomo's docs.</p>
+<h2 id="what-to-do-when-there-is-a-data-loss" tabindex="-1">What to do when there is a data loss <a class="direct-link" href="#what-to-do-when-there-is-a-data-loss" aria-hidden="true">#</a></h2>
+<p><a href="https://neilpatel.com/blog/google-analytics-data-errors/">Nell Patel</a><br>
+<a href="https://www.webfx.com/blog/marketing/why-is-my-website-traffic-going-down/">Sarah Berry</a><br>
+<a href="https://holini.com/website-traffic-drop/">Taavi Kalvi</a></p>
+<h2 id="glossary-of-analytics-terms" tabindex="-1">Glossary of Analytics Terms <a class="direct-link" href="#glossary-of-analytics-terms" aria-hidden="true">#</a></h2>
+<p>There is a helpful glossary with ~200 terms.<br>
+<a href="https://glossary.matomo.org/">https://glossary.matomo.org/</a></p>
+<h2 id="ten-common-examples-to-troubleshooting-actions" tabindex="-1">Ten common examples to <em>troubleshooting</em> actions <a class="direct-link" href="#ten-common-examples-to-troubleshooting-actions" aria-hidden="true">#</a></h2>
+<p>Find the pattern in where to look, what to check, what to ask. These solutions can be extended to other, seemingly novel problems:</p>
+<ol>
+<li>After updating, Matomo stopped working</li>
+</ol>
+<ul>
+<li>clear your cache (CTL-SHIFT-DEL)</li>
+<li>try a different browser</li>
+<li>in your Matomo installation delete files in <code>matomo/tmp/*</code></li>
+</ul>
+<ol start="2">
+<li>General strategy for Matomo errors: check PHP errors</li>
+</ol>
+<ul>
+<li>find your php.ini file location and its error setting</li>
+</ul>
+<pre><code>$ php -r &quot;phpinfo();&quot; | grep php.ini
+$ php -r &quot;phpinfo();&quot; | grep error
+</code></pre>
+<ul>
+<li>turn error dispay on. Maybe send the errors to a log and then read that log.<br>
+A nice guide to php error display is at <a href="https://www.freecodecamp.org/news/how-to-display-php-errors-and-enable-error-reporting/">https://www.freecodecamp.org/news/how-to-display-php-errors-and-enable-error-reporting/</a></li>
+<li>then check your server logs for server errors</li>
+</ul>
+<ol start="3">
+<li>You can always reinstall. Remove the Matomo directory and load the latest version</li>
+<li>The dashboard <a href="https://matomo.org/faq/troubleshooting/faq_135/">looks weird</a> or is missing styling or portions</li>
+</ol>
+<ul>
+<li>check adblocker</li>
+<li>some <a href="https://matomo.org/faq/troubleshooting/faq_34/">libraries</a> may need to be installed</li>
+</ul>
+<ol start="5">
+<li>Some pages are not being counted</li>
+</ol>
+<ul>
+<li>long URLs over 1024 are set to truncate. This setting can be changed.</li>
+</ul>
+<ol start="6">
+<li>IP address (and location, therefore?) is wrong. Like it's always the same IP.<br>
+<a href="https://matomo.org/faq/troubleshooting/faq_17710/">https://matomo.org/faq/troubleshooting/faq_17710/</a><br>
+Proxy in front of your server may cause this.<br>
+Using the API may cause this.<br>
+See the docs for ways to overwrite this with the correct IP address.</li>
+<li>Geo-location not correct</li>
+</ol>
+<ul>
+<li>Is it turned on correctly in the settings?</li>
+<li>Look for Javascript errors in your console.</li>
+<li>Set to track correct website?</li>
+</ul>
+<ol start="8">
+<li>Referrer information is incorrect or missing</li>
+</ol>
+<ul>
+<li>does your site have a redirect?</li>
+<li>do your visitors come from https and then pass first through an http at your site? This loses the referrer</li>
+<li>did you put the tracking code (JS) into the right part of your page? It won't work inside an iFrame</li>
+</ul>
+<ol start="9">
+<li>Matomo just gives a white-screen-of-death or a 500 error</li>
+</ol>
+<ul>
+<li>first, enable auto <a href="https://matomo.org/faq/troubleshooting/faq_19489/">archiving</a></li>
+<li>if that doesn't help find your error in your server's error log. Use that to proceed in the Matomo FAQs, Forums, and Issues lists.  One bruteforce way to search multiple locations is to use SITE in a search engine. For example: <code>my error message site:matomo.org</code></li>
+</ul>
+<ol start="10">
+<li>You are getting more discrepency than expected between Matomo and another web analytic (i.e. Google Analytics)<br>
+Causes of discrepent tracking:</li>
+</ol>
+<ul>
+<li>5% to 10% is normal. So don't even bother checking anything</li>
+<li>respecting (or not) the <em>Do not track</em> requests</li>
+<li>counting (or not) spiders and bots (Matomo doesn't count these)</li>
+<li>is either service actually counting from a log (done to preserve privacy / avoid cookies)? Logs count things like file.css, file.js as <em>hits</em>, leading to inflated counting.</li>
+<li>one is a sample, other is a census</li>
+<li>you set the IP exclusion listings differently or not at all</li>
+<li>are the JS scripts located in the same part of the page or possibly absent on some pages on one data analyzer?</li>
+<li>where on the page is the script? you have to locate it consistantly across the two analyzers</li>
+</ul>
+<h1 id="general-places-to-go" tabindex="-1">General places to go <a class="direct-link" href="#general-places-to-go" aria-hidden="true">#</a></h1>
+<h2 id="issues-at-github" tabindex="-1">Issues at GitHub <a class="direct-link" href="#issues-at-github" aria-hidden="true">#</a></h2>
+<p><a href="https://github.com/matomo-org/matomo/issues">https://github.com/matomo-org/matomo/issues</a></p>
+<h2 id="forum:-most-asked-questions-in-the-forum" tabindex="-1">Forum: Most-asked questions in the forum <a class="direct-link" href="#forum:-most-asked-questions-in-the-forum" aria-hidden="true">#</a></h2>
+<p>It is awesome to see that the <a href="https://forum.matomo.org/">forum</a> is sortable by most viewed, most replied, and date.</p>
+<p>Most highly viewed in <strong>General</strong> thread:<br>
+Tag Manager questions, generally<br>
+React app<br>
+Tag manager blank screen<br>
+Tracking Wordpress user ID with Tag Manager<br>
+How to get data attribute in Custom JavaScript variable?<br>
+Click trigger target data attribute<br>
+<a href="https://forum.matomo.org/c/tag-manager/19?order=views">https://forum.matomo.org/c/tag-manager/19?order=views</a></p>
+<h2 id="faqs" tabindex="-1">FAQs <a class="direct-link" href="#faqs" aria-hidden="true">#</a></h2>
+<p>There are 950 <a href="https://matomo.org/faq/">Frequently Asked Questions</a>.<br>
+The categories of FAQs are</p>
+<pre><code>New to Matomo
+Installation
+Update
+How to
+Plugins and Themes
+Matomo on Windows
+Tag Manager
+General
+Troubleshooting
+Funnels
+Video &amp; Audio Analytics
+Users Flow
+A/B Testing – Experiments
+Advertising Conversion Export
+Custom Reports
+Roll-Up Reporting
+Form Analytics
+Heatmap and Session Recording
+SEO Web Vitals
+Search Engine Keywords Performance
+Multi Channel Conversion Attribution
+SAML Login
+Log Analytics tool
+Mobile App
+Matomo for WordPress
+</code></pre>
+<h2 id="tag-manager-videos" tabindex="-1">Tag Manager videos <a class="direct-link" href="#tag-manager-videos" aria-hidden="true">#</a></h2>
+<p>These are in the <a href="https://matomo.org/tag-manager-training/">Help Centre</a><br>
+Total running time (for 11 videos): 66 minutes<br>
+<a href="https://matomo.org/tag-manager-training/">https://matomo.org/tag-manager-training/</a></p>
+<p>Tag Manager videos table of contents:</p>
+<pre><code>01. Introduction to Tag Manager systems
+02. Introduction to Matomo Tag Manager
+03. Deploying your first Container
+04. Tag Manager use case
+05. Tags
+06. Triggers
+07. Variables
+08. Versions
+09. Preview, Debug, Publish
+10. Data Layers
+11. Training conclusion
+</code></pre>
+<h2 id="web-analytics-videos" tabindex="-1">Web Analytics videos <a class="direct-link" href="#web-analytics-videos" aria-hidden="true">#</a></h2>
+<p>These are in the <a href="https://matomo.org/web-analytics-training/">Help Centre</a>.<br>
+Total running time (for 19 videos): 118 minutes<br>
+Table of contents:</p>
+<p>Section one – understanding web analytics</p>
+<pre><code>01. What is digital analytics?
+02. What is Matomo Analytics?
+</code></pre>
+<p>Section two – understanding Matomo features</p>
+<pre><code>03. Making sense of the Matomo reports
+04. Tracking Goals
+05. Tracking Events
+06. Segments
+07. Funnels for Goals
+08. Users Flow
+09. Heatmaps &amp; Session Recordings
+10. Media Analytics
+11. Form Analytics
+12. Search Engine Keywords Performance
+13. Custom Reports
+14. Roll-Up Reporting
+15. Multi Channel Conversion Attribution
+16. A/B Testing
+17. Activity Audit Log
+18. White Label
+19. Training conclusion
+</code></pre>
+<h2 id="secret-videos" tabindex="-1">Secret Videos <a class="direct-link" href="#secret-videos" aria-hidden="true">#</a></h2>
+<p>These are not secret, they are just one level deeper in the site navigation</p>
+<p>Videos in the <a href="https://matomo.org/docs/">User Guides</a>:</p>
+<pre><code>Welcome to Matomo
+How to Install Matomo Analytics using Cloud-Hosted
+How to Install Matomo Analytics using Self-Hosted
+Matomo’s Visitors Feature
+Matomo’s Behaviour Feature
+Matomo’s Acquisitions Feature
+Matomo’s Ecommerce Feature
+Matomo’s Goals Feature
+Matomo’s Multi Attribution Feature
+Matomo’s Funnels Feature
+Matomo’s Media Analytics Feature
+Matomo’s A/B Testing Feature
+Matomo’s Form Analytics Feature
+Matomo’s Heatmaps Feature
+Matomo’s Session Recordings Feature
+Matomo’s Custom Reports Feature
+Matomo’s Tag Manager
+Matomo and the GDPR
+Importing Google Analytics data into Matomo
+Matomo Analytics for WordPress
+</code></pre>
+<h1 id="random-things-i-noted" tabindex="-1">Random things I noted <a class="direct-link" href="#random-things-i-noted" aria-hidden="true">#</a></h1>
+<h2 id="your-db-is-not-infinite!-periodically-delete-the-older-data" tabindex="-1">Your db is not infinite! Periodically delete the older data <a class="direct-link" href="#your-db-is-not-infinite!-periodically-delete-the-older-data" aria-hidden="true">#</a></h2>
+<p>If you have properly setup the auto archiving script (see important note), you will still access all historical reports (even when RAW data is deleted). Delete the raw data in SQL, or the command line, or in the GUI dashboard.<br>
+<a href="https://matomo.org/faq/troubleshooting/faq_42/">https://matomo.org/faq/troubleshooting/faq_42/</a></p>
+<h2 id="random-fact-from-the-forums:-cdn-can-affect-analytics" tabindex="-1">Random fact from the forums: CDN can affect analytics <a class="direct-link" href="#random-fact-from-the-forums:-cdn-can-affect-analytics" aria-hidden="true">#</a></h2>
+<p>In Matomo page views can become less than Visitors, due to the CDN<br>
+<a href="https://forum.matomo.org/t/more-visists-than-pageviews-how-is-this-possible/43717">https://forum.matomo.org/t/more-visists-than-pageviews-how-is-this-possible/43717</a></p>
+<h2 id="going-100percent-cookieless" tabindex="-1">Going 100% Cookieless <a class="direct-link" href="#going-100percent-cookieless" aria-hidden="true">#</a></h2>
+<p>To avoid needing a banner on sites, users can go cookieless.</p>
+<p>Cookieless options in Matomo:</p>
+<ul>
+<li>If using the JavaScript tracker you simply disable cookies for all visitors. This comes at a cost to report accuracy.</li>
+<li>You can use Log Analytics to generate all reports from web server logs like Apache and Nginx without using any JavaScript tracker.</li>
+<li>Track your visitors with SDKs directly from within your application (for example PHP, C#, Java).</li>
+</ul>
+<h2 id="language-of-questions-asked-at-the-matomo-site" tabindex="-1">Language of questions asked at the Matomo site <a class="direct-link" href="#language-of-questions-asked-at-the-matomo-site" aria-hidden="true">#</a></h2>
+<p>The site is mainly in English but the <a href="https://forum.matomo.org/">user forum</a> posts for the last 30 days are also: 15 German, 4 French, 52 Spanish, 34 Italian</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/advanced-pomodoro/">Turns Out the Gnu Calendar is a Great Pomodoro replacement</a></li><li>Previous: <a href="/posts/matomo-installation-faqs/">Matomo specs and dependencies</a></li>
+</ul>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /posts/matomo-documentation/ -->
+  </body>
+</html>
