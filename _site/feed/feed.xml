@@ -2379,27 +2379,31 @@ mysql&amp;gt; SELECT TABLE_NAME, COLUMN_NAME FROM information_schema.columns WHE
 		<link href="https://tatll.me/posts/advanced-pomodoro/"/>
 		<updated>2021-11-16T00:00:00Z</updated>
 		<id>https://tatll.me/posts/advanced-pomodoro/</id>
-		<content type="html">&lt;h2 id=&quot;my-need-for-a-work-timer&quot; tabindex=&quot;-1&quot;&gt;My Need for a Work Timer &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#my-need-for-a-work-timer&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;The human brain is good at deciding and bad at storing; it&#39;s a great CPU and a bad disk drive.&lt;/p&gt;
-&lt;p&gt;So I want a system that will tell me what to do, when to stop it, what to do next, and when to start that. Gnu Calendar can do this.&lt;/p&gt;
+		<content type="html">&lt;h2 id=&quot;benefits-of-minute-by-minute-task-timers&quot; tabindex=&quot;-1&quot;&gt;Benefits of Minute By Minute Task Timers &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#benefits-of-minute-by-minute-task-timers&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Executive function is like a co-processor: you could run it externally with an app. And you could run it on your motherboard. The latter is trying to do it in the moment in your own brain. The former is using a tool.&lt;/p&gt;
 &lt;h2 id=&quot;gnu-calendar&quot; tabindex=&quot;-1&quot;&gt;Gnu Calendar &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#gnu-calendar&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Lacks:&lt;/p&gt;
+&lt;p&gt;Downsides:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Single day window view&lt;/li&gt;
+&lt;li&gt;No single day window view&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Has:&lt;/p&gt;
+&lt;p&gt;Upsides:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Quick to enter events (unlike a cell phone -- cell phone alarms are too slow and clumsy to enter)&lt;/li&gt;
 &lt;li&gt;A creeping blue line for Time Now&lt;/li&gt;
+&lt;li&gt;Is not Google&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;clean-design&quot; tabindex=&quot;-1&quot;&gt;Clean Design &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#clean-design&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;The UI on things from Gnu is really clean.  Their &lt;em&gt;Gnu Files&lt;/em&gt; is almost like a Steve Jobs approved app.  (For contrast see Dolphin file manager: a perfectly Gatesian Windows app. I have both open right now, albeit.)&lt;/p&gt;
+&lt;h2 id=&quot;tiimo&quot; tabindex=&quot;-1&quot;&gt;Tiimo &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#tiimo&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Update: I&#39;m paying $30/year now to &lt;a href=&quot;https://www.tiimoapp.com/tiimo-for-work&quot;&gt;Tiimo&lt;/a&gt;. Their interface is fun, kind, suggestive.&lt;/p&gt;
+&lt;p&gt;For calendar, I have converged with the Apple Calendar of my family.&lt;/p&gt;
 &lt;h2 id=&quot;more-thoughts-on-optimizing-brain-power&quot; tabindex=&quot;-1&quot;&gt;More thoughts on optimizing brain power &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#more-thoughts-on-optimizing-brain-power&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Our working memory can only hold a half dozen or so truly random things. The rest is acting on stored procedures. Your brain is operating like in SQL security when they caution you to only use stored queries.  All of your college calculus and full stack engineering work is using those two things. When a coder is &lt;em&gt;in the zone&lt;/em&gt; she is using symbols of symbols of symbols all connected to small amounts of working memory.&lt;/p&gt;
-&lt;p&gt;A good analogy might be an Apple II computer with a few stacked 5&amp;quot; flopppy drives and 8K of RAM. (Neuroscientists tell us our killer app here is the CPU: instead of a one at a time RISC thing, our brain is apparently more like a Quantum Computer. So imagine $10 worth of memory and peripherals hooked up to a helium cooled thinking machine from the future?) But I was intending here only to explain my new productivity tool.  I have discovered the simple pleasure of &lt;em&gt;Gnu Calendar&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Having had success with Pomodoro timers, I wanted to add a dimension: offload the brain&#39;s executive function of remembering the schedule of the day and when to stop something, put that into a dumb robot, and free my working memory to not think about what&#39;s next. And I really need a timer tell me when to stop one task and move on, because I work like Yo Yo Ma freestyling away without a score. I need a score, I need a conductor.&lt;/p&gt;
-&lt;h2 id=&quot;stay-tuned&quot; tabindex=&quot;-1&quot;&gt;Stay tuned &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#stay-tuned&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Gnu Calendar allows syncing elsewhere, like to APIs. I won&#39;t need that feature for this, my uber-pomodoro, but I have a family, friends, and work to communicate time with. So...not sure if I&#39;ll use sync but it is just amazing in Gnu&#39;s FOCUS and resistance to feature-creep the sole fancy thing they put in was the sync.&lt;/p&gt;
+&lt;p&gt;Having had success with Pomodoro timers, I wanted to add a dimension: offload the brain&#39;s executive function of remembering the schedule of the day and when to stop something, put that into a dumb robot, and free my working memory to not think about what&#39;s next.&lt;/p&gt;
+&lt;h2 id=&quot;the-holy-trinity&quot; tabindex=&quot;-1&quot;&gt;The Holy Trinity &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/advanced-pomodoro/#the-holy-trinity&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Getting Things Done, Journal Sketching, et cetera. This is the capture bucket&lt;/li&gt;
+&lt;li&gt;Sacred blocks of time, ideally in your routines of the week/day, when you ingest the lists and buckets.&lt;/li&gt;
+&lt;li&gt;Calendar: this is created during 2, and followed.  The book for this had &amp;quot;Focus&amp;quot; in the title. I can&#39;t remember the rest of it&lt;/li&gt;
+&lt;/ol&gt;
 </content>
 	</entry>
 	

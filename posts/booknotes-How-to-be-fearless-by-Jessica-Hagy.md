@@ -4,8 +4,7 @@ description:
 date: 2023-01-18
 tags:
   - books
-  - business
-  - GTD
+  - Management
 layout: layouts/post.njk
 ---
 

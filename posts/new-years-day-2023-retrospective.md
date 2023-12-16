@@ -4,7 +4,7 @@ title: Retrospective of the Last Year
 description:
 date: 2023-01-02
 tags:
-  - GTD
+  - travel
 layout: layouts/post.njk
 ---
 

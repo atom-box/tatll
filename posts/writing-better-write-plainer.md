@@ -3,7 +3,7 @@ title: Plain Writing
 description:
 date: 2021-11-19
 tags:
-  - business
+  - Management
 layout: layouts/post.njk
 ---
 

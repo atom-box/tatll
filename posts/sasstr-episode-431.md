@@ -3,7 +3,7 @@ title: Listening to the SaaSter Podcast
 description:
 date: 2021-12-14
 tags:
-  - business
+  - Management
   - books
 layout: layouts/post.njk
 ---

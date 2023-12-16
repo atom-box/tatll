@@ -3,7 +3,7 @@ title: Six SaaSter Podcast Episodes That Were Pretty Good
 description: This is an index of tech podcast episodes.  It has the best interviews with founders of startups.
 date: 2022-02-25
 tags:
-  - business
+  - Management
 layout: layouts/post.njk
 ---
 
