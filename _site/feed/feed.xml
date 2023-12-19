@@ -5,12 +5,45 @@
 	
 	<link href="https://tatll.me/feed/feed.xml" rel="self"/>
 	<link href="https://tatll.me/"/>
-	<updated>2023-12-10T00:00:00Z</updated>
+	<updated>2023-12-17T00:00:00Z</updated>
 	<id>https://tatll.me/</id>
 	<author>
 		<name>Evan Genest</name>
 		<email>genest.1@osu.edu</email>
 	</author>
+	
+	<entry>
+		<title>Clean Out the Fridge Soup</title>
+		<link href="https://tatll.me/posts/food-clean-out-the-fridge-soup/"/>
+		<updated>2023-12-17T00:00:00Z</updated>
+		<id>https://tatll.me/posts/food-clean-out-the-fridge-soup/</id>
+		<content type="html">&lt;h2 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/food-clean-out-the-fridge-soup/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kelp seaweed* (bow ties, cut up)&lt;br /&gt;
+barley&lt;br /&gt;
+large can of whole tomatoes, cut up with scissors, in pot&lt;br /&gt;
+TVP (textured vegetable protein, a soy product which Bob&#39;s Red Mill makes)&lt;br /&gt;
+saurkraut and brine *&lt;br /&gt;
+potatoes&lt;br /&gt;
+fennel heads&lt;br /&gt;
+cinnamon&lt;br /&gt;
+chili powder&lt;br /&gt;
+ground ginger&lt;br /&gt;
+olive oil (2 Tablespoons)(gets absorbed by the TVP)&lt;br /&gt;
+sesame oil (teaspoon)&lt;br /&gt;
+Worchestershire Sauce (1 Tablespoon)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;these ingredients are already too salty. Consider soak or rinse of each if you don&#39;t want a huge pot of &amp;quot;homemade soup&amp;quot; that just tastes like a can of Campbell&#39;s.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;steps&quot; tabindex=&quot;-1&quot;&gt;Steps &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/food-clean-out-the-fridge-soup/#steps&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Barley, seaweed boil in some water, not too much, for 30 minutes.&lt;/li&gt;
+&lt;li&gt;Add other ingredients and simmer an additional 20 minutes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Server with Bittman Bread&lt;/p&gt;
+&lt;h2 id=&quot;origin&quot; tabindex=&quot;-1&quot;&gt;Origin &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/food-clean-out-the-fridge-soup/#origin&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Like stone soup, this recipe nucleated around a single ingredient and the need to eat it somehow. We had too much saurkraut and it wouldn&#39;t last forever. Meg had made some saurkraut in the fall, from cabbage, and somehow it was both too salty and then it &lt;em&gt;started a second ferment, with yeast, to make alcohol&lt;/em&gt;. We decided to arrest its development by putting it in a batch of whatever-soup.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Booknotes - The Subtle Art of Not Giving a F; A Counterintuitive Approach to Living a Good Life</title>
@@ -798,38 +831,6 @@ The solution was to copy and paste a well formatted header from elsewhere and ju
 &lt;li&gt;git checkout is about updating the working tree (to the index or the specified tree). It will update the HEAD only if you checkout a branch (if not, you end up with a detached HEAD) -- (actually, with Git 2.23 Q3 2019, this will be git restore, not necessarily git checkout)&lt;/li&gt;
 &lt;li&gt;By comparison, since svn has no index, only a working tree, svn checkout will copy a given revision on a separate directory.&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Clean Out the Fridge Soup</title>
-		<link href="https://tatll.me/posts/food-clean-out-the-fridge-soup/"/>
-		<updated>2022-12-17T00:00:00Z</updated>
-		<id>https://tatll.me/posts/food-clean-out-the-fridge-soup/</id>
-		<content type="html">&lt;p&gt;Like stone soup, this nucleated around a single ingredient and the need to eat it somehow. Meg had made some saurkraut in the fall, from cabbage, and somehow it was both too salty and then it started a second ferment, with yeast, to make alcohol. We decided to arrest its development by cleaning out the cupboards with this batch of whatever-soup.&lt;/p&gt;
-&lt;h2 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/food-clean-out-the-fridge-soup/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Kelp seaweed* (bow ties, cut up)&lt;br /&gt;
-barley&lt;br /&gt;
-large can of whole tomatoes, cut up with scissors, in pot&lt;br /&gt;
-TVP (textured vegetable protein, a soy product which Bob&#39;s Red Mill makes)&lt;br /&gt;
-saurkraut and brine *&lt;br /&gt;
-potatoes&lt;br /&gt;
-fennel heads&lt;br /&gt;
-cinnamon&lt;br /&gt;
-chili powder&lt;br /&gt;
-ground ginger&lt;br /&gt;
-olive oil (2 Tablespoons)(gets absorbed by the TVP)&lt;br /&gt;
-sesame oil (teaspoon)&lt;br /&gt;
-Worchestershire Sauce (1 Tablespoon)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;these ingredients made it salty from the get go. Recommend rinsing if you don&#39;t want a huge pot of homemade soup that just tastes like a can of Campbell&#39;s.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;steps&quot; tabindex=&quot;-1&quot;&gt;Steps &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/food-clean-out-the-fridge-soup/#steps&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Barley, seaweed boil in some water, not too much, for 30 minutes.&lt;/li&gt;
-&lt;li&gt;Add other ingredients and simmer an additional 20 minutes&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Server with Bittman Bread&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -1629,11 +1630,20 @@ Radio France&lt;br /&gt;
 		<updated>2022-01-12T00:00:00Z</updated>
 		<id>https://tatll.me/posts/getting-things-done/</id>
 		<content type="html">&lt;h2 id=&quot;david-allen-reboot&quot; tabindex=&quot;-1&quot;&gt;David Allen reboot &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#david-allen-reboot&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I learned the system Getting Things Done in 2008 but incompletely implemented it. Most of what I know is from Getting Things Done, the book by David Allen.&lt;/p&gt;
-&lt;p&gt;For 2022 it is one of my personal resolutions to implement it again. I told RG about it and he commented &lt;em&gt;&amp;quot;It probably doesn&#39;t help that the two people I&#39;ve worked with who were hardore GTD guys were super unproductive, haha.  They spent lots of time organizing their tasks and little time completing them.  That combined with my own failure to stick with it (or most systems, really) may have soured me on it a bit.&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;things-to-emphasize-this-time&quot; tabindex=&quot;-1&quot;&gt;Things to emphasize this time &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#things-to-emphasize-this-time&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I re-read my old copy of Getting Things Done, the book by David Allen. I&#39;m rebooting the lists.&lt;/p&gt;
+&lt;p&gt;I told RG at work about it and he commented &lt;em&gt;&amp;quot;It probably doesn&#39;t help that the two people I&#39;ve worked with who were hardore GTD guys were super unproductive, haha.  They spent lots of time organizing their tasks and little time completing them.  That combined with my own failure to stick with it (or most systems, really) may have soured me on it a bit.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;update-2022:-how-it&#39;s-going&quot; tabindex=&quot;-1&quot;&gt;Update 2022: How it&#39;s going &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#update-2022:-how-it&#39;s-going&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The final stage of my daily process is leaky: once I schedule things, they either end up being the 4/7 things that didnt get done that day or they get put on my calendar but I am not living in my calendar, so the day comes and goes.&lt;/p&gt;
-&lt;p&gt;Meg says she had success with the Rule of 3&#39;s I shared with her. I could add that to Getting Things Done.&lt;/p&gt;
+&lt;p&gt;Meg says she had success with the Rule of Threes I shared with her after That Conference 2019, so I will try that. The rule is: lists of to-dos for today, this week, and this year are all threes. Do them and you&#39;re done.  It&#39;s got a bit of Mark Twain&#39;s &amp;quot;to start the day I eat a frog&amp;quot; advice in it.&lt;/p&gt;
+&lt;h2 id=&quot;update-2023:-ingestion-and-timing&quot; tabindex=&quot;-1&quot;&gt;Update 2023: Ingestion and Timing &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#update-2023:-ingestion-and-timing&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Lists are great. By now I have shoeboxes of them. Taking the lists and making enough of that rubber hit the road has been haphazard. I am a month in on the following way.&lt;/p&gt;
+&lt;p&gt;I have a pipeline for making the rubber (the list items) hit the road (reality).&lt;br /&gt;
+Below steps are the pipeline of 1  &amp;gt;&amp;gt; 2  &amp;gt;&amp;gt;  3&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Do this part all day long, every day: &amp;quot;capture things to lists&amp;quot;. Write things all the time in: pocket moleskine, Apple List, or directly to calendar.&lt;/li&gt;
+&lt;li&gt;Twice a week, schedule a 30 minute session called Ingestion Time. It&#39;s easiest if it is a recurring event. Make a plain text file for a backlog. Open it in VSCode, append the new list items. Put in your lists as single lines per item. Each line is a todo. Start most of the lines with a number at the front to show estimated minutes for the thing. Use the keyboard binding shortcuts (hence VS Code) to move them around, especially Alt + Arrows to swap and order. Once it is ordered by chronology based on urgency/ease/impact.&lt;/li&gt;
+&lt;li&gt;Every 24 hours, either the night before (best) or morning of, move some items into the Apple calendar from the backlog. Get a better than average scheduling app on the phone. Tiimo is $30/year. It has timers per task, lots of automation, lots of community suggestions for built in events. It can take in events from Apple Calendar. Once they import to Tiimo, fine tune any start/stop times, and in the case of things that are asynchronous but will just need to happen at some point in the day,&lt;/li&gt;
+&lt;/ol&gt;
 </content>
 	</entry>
 	
