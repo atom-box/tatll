@@ -5,12 +5,38 @@
 	
 	<link href="https://tatll.me/feed/feed.xml" rel="self"/>
 	<link href="https://tatll.me/"/>
-	<updated>2023-12-17T00:00:00Z</updated>
+	<updated>2024-01-03T00:00:00Z</updated>
 	<id>https://tatll.me/</id>
 	<author>
 		<name>Evan Genest</name>
 		<email>genest.1@osu.edu</email>
 	</author>
+	
+	<entry>
+		<title>Trips From Madison</title>
+		<link href="https://tatll.me/posts/travel-from-madison/"/>
+		<updated>2024-01-03T00:00:00Z</updated>
+		<id>https://tatll.me/posts/travel-from-madison/</id>
+		<content type="html">&lt;h2 id=&quot;cheap-from-madison&quot; tabindex=&quot;-1&quot;&gt;Cheap from Madison &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/travel-from-madison/#cheap-from-madison&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Orlando 240 rt&lt;br /&gt;
+Phoenix  280 rt&lt;br /&gt;
+Las Vegas 400 rt&lt;/p&gt;
+&lt;h2 id=&quot;international-from-chicago&quot; tabindex=&quot;-1&quot;&gt;International from &lt;em&gt;Chicago&lt;/em&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/travel-from-madison/#international-from-chicago&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;add-72-for-coach-usa-fare-rt&quot; tabindex=&quot;-1&quot;&gt;Add 72 for Coach USA fare rt &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/travel-from-madison/#add-72-for-coach-usa-fare-rt&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;CDMx  250 rt&lt;br /&gt;
+Montreal 240 rt&lt;br /&gt;
+Quebec City 360 rt&lt;br /&gt;
+Hawaii 600 rt&lt;br /&gt;
+London (roundtrip) 600&lt;br /&gt;
+Juneau AK 600 rt&lt;br /&gt;
+La Paz 700 rt&lt;br /&gt;
+Paris 700 rt&lt;br /&gt;
+Taipei 1300 rt (don&#39;t go in summer, prices higher)&lt;br /&gt;
+Shanghai 1200 rt&lt;br /&gt;
+Kigali Rwanda 1500 rt&lt;br /&gt;
+Indonesia 1500 rt&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Clean Out the Fridge Soup</title>
@@ -1629,21 +1655,20 @@ Radio France&lt;br /&gt;
 		<link href="https://tatll.me/posts/getting-things-done/"/>
 		<updated>2022-01-12T00:00:00Z</updated>
 		<id>https://tatll.me/posts/getting-things-done/</id>
-		<content type="html">&lt;h2 id=&quot;david-allen-reboot&quot; tabindex=&quot;-1&quot;&gt;David Allen reboot &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#david-allen-reboot&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I re-read my old copy of Getting Things Done, the book by David Allen. I&#39;m rebooting the lists.&lt;/p&gt;
-&lt;p&gt;I told RG at work about it and he commented &lt;em&gt;&amp;quot;It probably doesn&#39;t help that the two people I&#39;ve worked with who were hardore GTD guys were super unproductive, haha.  They spent lots of time organizing their tasks and little time completing them.  That combined with my own failure to stick with it (or most systems, really) may have soured me on it a bit.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+		<content type="html">&lt;h2 id=&quot;update-2023:-ingestion-and-timing&quot; tabindex=&quot;-1&quot;&gt;Update 2023: Ingestion and Timing &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#update-2023:-ingestion-and-timing&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This is the pipeline:&lt;br /&gt;
+(1) Capture the items -&amp;gt; (2) Build a backlog -&amp;gt; (3) Update the calendar&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CAPTURE Do this part all day long, every day: &amp;quot;capture things to lists&amp;quot;. Write things all the time in: pocket moleskine, Apple List, or directly to calendar. When possible add estimation: minutes to complete that item.&lt;/li&gt;
+&lt;li&gt;BACKLOG Twice a week, schedule a 30 minute session to populate the backlog from the lists. It&#39;s easiest if this is part of your routine as a recurring event. Make a plain text file for a backlog. Open it in VSCode, append the new list items. Put in your lists as single lines per item. Each line is a todo. Start most of the lines with a number at the front to show estimated minutes for the thing. Use the keyboard binding shortcuts (hence VS Code) to move them around, especially Alt + Arrows to swap and order. Once it is ordered by chronology based on urgency/ease/impact.&lt;/li&gt;
+&lt;li&gt;CALENDER Every day have a calendaring event. Allow up to 30 minutes in Apple calendar, on the desktop, to move in backlog items into today or tomorrow. Get a better than average scheduling app on the phone. Tiimo is $30/year. It has timers per task, lots of automation, lots of community suggestions for built in events. It can take in events from Apple Calendar. Once they import to Tiimo, fine tune any start/stop times, and in the case of things that are asynchronous but will just need to happen at some point in the day,&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&quot;update-2022:-how-it&#39;s-going&quot; tabindex=&quot;-1&quot;&gt;Update 2022: How it&#39;s going &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#update-2022:-how-it&#39;s-going&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The final stage of my daily process is leaky: once I schedule things, they either end up being the 4/7 things that didnt get done that day or they get put on my calendar but I am not living in my calendar, so the day comes and goes.&lt;/p&gt;
 &lt;p&gt;Meg says she had success with the Rule of Threes I shared with her after That Conference 2019, so I will try that. The rule is: lists of to-dos for today, this week, and this year are all threes. Do them and you&#39;re done.  It&#39;s got a bit of Mark Twain&#39;s &amp;quot;to start the day I eat a frog&amp;quot; advice in it.&lt;/p&gt;
-&lt;h2 id=&quot;update-2023:-ingestion-and-timing&quot; tabindex=&quot;-1&quot;&gt;Update 2023: Ingestion and Timing &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#update-2023:-ingestion-and-timing&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Lists are great. By now I have shoeboxes of them. Taking the lists and making enough of that rubber hit the road has been haphazard. I am a month in on the following way.&lt;/p&gt;
-&lt;p&gt;I have a pipeline for making the rubber (the list items) hit the road (reality).&lt;br /&gt;
-Below steps are the pipeline of 1  &amp;gt;&amp;gt; 2  &amp;gt;&amp;gt;  3&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Do this part all day long, every day: &amp;quot;capture things to lists&amp;quot;. Write things all the time in: pocket moleskine, Apple List, or directly to calendar.&lt;/li&gt;
-&lt;li&gt;Twice a week, schedule a 30 minute session called Ingestion Time. It&#39;s easiest if it is a recurring event. Make a plain text file for a backlog. Open it in VSCode, append the new list items. Put in your lists as single lines per item. Each line is a todo. Start most of the lines with a number at the front to show estimated minutes for the thing. Use the keyboard binding shortcuts (hence VS Code) to move them around, especially Alt + Arrows to swap and order. Once it is ordered by chronology based on urgency/ease/impact.&lt;/li&gt;
-&lt;li&gt;Every 24 hours, either the night before (best) or morning of, move some items into the Apple calendar from the backlog. Get a better than average scheduling app on the phone. Tiimo is $30/year. It has timers per task, lots of automation, lots of community suggestions for built in events. It can take in events from Apple Calendar. Once they import to Tiimo, fine tune any start/stop times, and in the case of things that are asynchronous but will just need to happen at some point in the day,&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;original-2022-post:-david-allen-reboot&quot; tabindex=&quot;-1&quot;&gt;Original 2022 Post: David Allen reboot &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/getting-things-done/#original-2022-post:-david-allen-reboot&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I re-read my old copy of Getting Things Done, the book by David Allen. I&#39;m rebooting the lists.&lt;/p&gt;
+&lt;p&gt;I told RG at work about it and he commented &lt;em&gt;&amp;quot;It probably doesn&#39;t help that the two people I&#39;ve worked with who were hardore GTD guys were super unproductive, haha.  They spent lots of time organizing their tasks and little time completing them.  That combined with my own failure to stick with it (or most systems, really) may have soured me on it a bit.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
