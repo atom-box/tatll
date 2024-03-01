@@ -347,7 +347,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/management/</loc>
+    <loc>https://tatll.me/tags/travel/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -357,7 +357,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <loc>https://tatll.me/tags/management/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -367,7 +367,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -387,12 +387,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/hacktoberfest/</loc>
+    <loc>https://tatll.me/tags/javascript/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
+    <loc>https://tatll.me/tags/hacktoberfest/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -434,5 +434,10 @@
   <url>
     <loc>https://tatll.me/posts/travel-from-madison/</loc>
     <lastmod>2024-01-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/</loc>
+    <lastmod>2024-02-26</lastmod>
   </url>
 </urlset>
