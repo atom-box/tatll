@@ -3,8 +3,8 @@ title: How to find a job as a Junior Developer in Web Development
 description:
 date: 2021-08-21
 tags:
-  - jobs
-
+  - jobs  
+  
 layout: layouts/post.njk
 ---
 
