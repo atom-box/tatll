@@ -8,18 +8,12 @@ layout: layouts/post.njk
 ---
 
 
-From the book How to Know Another Person
-by David Brooks
 
 # Lists of conversation starters
 
-This is not a lists book; How to Know Another Person is closer to a call for human warmth. Brooks shakes himself and shakes us awake: "Start. Seeing. People." he claps. 
+In the book How to Know Another Person, David Brooks gives many suggestions for how to ask meaningful questions. If you dislike small talk, and are ready to be warm, real, and human, get ready to "listen" like David, with the following 54(!) questions.
 
-But as booknotes, you can extract at least five lists of tips for how to talk and listen and be a masterful conversationalist.
-
-So here they are, over 60 tips from David Brooks, several *lists* from his 2023 book How to Know Another Person.
-
-## Therapist Mary Pipher, page 41
+## Questions he got from therapist Mary Pipher, page 41
 
 * Isn't it time you forgave yourself for that?
 * when you and your parents are close again, what will you want them to understand about this time in your life? 
