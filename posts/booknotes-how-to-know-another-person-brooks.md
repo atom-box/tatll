@@ -1,16 +1,21 @@
 ---
-title: Booknotes Just the lists from Brooks How to Know Another Person 
+title: Booknotes Questions to ask to know another person 
 description:
 date: 2024-02-26
 tags:
   - books
 layout: layouts/post.njk
 ---
+
+
+From the book How to Know Another Person
+by David Brooks
+
 # Lists of conversation starters
 
-You can extract at least five lists of tips for how to talk and listen and be a masterful conversationalist.
+This is not a lists book; How to Know Another Person is closer to a call for human warmth. Brooks shakes himself and shakes us awake: "Start. Seeing. People." he claps. 
 
-David, you are giving away the secret techniques of the Wu Tang Clan!
+But as booknotes, you can extract at least five lists of tips for how to talk and listen and be a masterful conversationalist.
 
 So here they are, over 60 tips from David Brooks, several *lists* from his 2023 book How to Know Another Person.
 
@@ -81,3 +86,7 @@ Pipher's philosophy as a therapist: Vulnerable, love-seeking people sometimes ar
 3. The rut - achieving mastery (usually in 30's and 40's)
 4. The generative 
 4. Achieve integrity and avoid despair
+
+These questions are so great, and precious, I felt like Brooks was giving away the shortcuts that a master like himself worked hard to accumulate between the Wall Street Journal, NY Times, and his current projects.  
+
+*(David, never teach the secrets of the Wu Tang Clan!)* LOL. 
