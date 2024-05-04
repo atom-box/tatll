@@ -352,7 +352,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/activism/</loc>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -362,12 +362,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/management/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <loc>https://tatll.me/tags/books/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -377,7 +372,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/books/</loc>
+    <loc>https://tatll.me/tags/activism/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/management/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -412,12 +412,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/gtd/</loc>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
+    <loc>https://tatll.me/tags/gtd/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -444,5 +444,15 @@
   <url>
     <loc>https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/</loc>
     <lastmod>2024-02-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/packing-list-for-spring-USA/</loc>
+    <lastmod>2024-04-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/books%20-%20all%20podcasts/</loc>
+    <lastmod>2024-04-20</lastmod>
   </url>
 </urlset>
