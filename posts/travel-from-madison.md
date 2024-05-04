@@ -27,6 +27,25 @@ Shanghai 1200 rt
 Kigali Rwanda 1500 rt 
 Indonesia 1500 rt
 
+## Brainstorming
+
+### Paleolithic France 
+Travel to archive in tatll  
+
+Visits to forager art:  
+Lascaux  
+https://archeologie.culture.gouv.fr/lascaux/en/visit-cave  
+https://lascaux.fr/en/  
+  
+Chauvet  
+https://archeologie.culture.gouv.fr/chauvet/en  
+  
+  
+Altamira   
+https://www.spainthisway.com/places/altamiracaves.php  
+https://www.spain.info/en/places-of-interest/national-museum-research-centre-altamira/  
+
+
 
 
 
