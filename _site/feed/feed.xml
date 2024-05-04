@@ -5,7 +5,7 @@
 	
 	<link href="https://tatll.me/feed/feed.xml" rel="self"/>
 	<link href="https://tatll.me/"/>
-	<updated>2024-02-26T00:00:00Z</updated>
+	<updated>2024-04-20T00:00:00Z</updated>
 	<id>https://tatll.me/</id>
 	<author>
 		<name>Evan Genest</name>
@@ -13,36 +13,167 @@
 	</author>
 	
 	<entry>
-		<title>Booknotes Questions to ask to know another person</title>
+		<title>List of Podcasts</title>
+		<link href="https://tatll.me/posts/books%20-%20all%20podcasts/"/>
+		<updated>2024-04-20T00:00:00Z</updated>
+		<id>https://tatll.me/posts/books%20-%20all%20podcasts/</id>
+		<content type="html">&lt;h2 id=&quot;decade-list&quot; tabindex=&quot;-1&quot;&gt;Decade List &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/books%20-%20all%20podcasts/#decade-list&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Podcasts I have been listening to for ten years or thirty episodes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Astronomy Podcast (science)&lt;/li&gt;
+&lt;li&gt;The Brian Lehrer Show (WNYC general topics)&lt;/li&gt;
+&lt;li&gt;The Changelog (software and web developer issues)&lt;/li&gt;
+&lt;li&gt;Chopped Bard (Shakespeare analysis)&lt;/li&gt;
+&lt;li&gt;Dirtbag Diaries (tales of skiing, climbing, hiking, running)&lt;/li&gt;
+&lt;li&gt;In Our Time (101 everything)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;all-titles&quot; tabindex=&quot;-1&quot;&gt;All Titles &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/books%20-%20all%20podcasts/#all-titles&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;At Liberty - ACLU&lt;/li&gt;
+&lt;li&gt;City Arts and Lectures - from San Francisco (like a Califonia 92nd Street Y)&lt;/li&gt;
+&lt;li&gt;Changelog Podcast - Changelog Media&lt;/li&gt;
+&lt;li&gt;Coaching Real Leaders - Harvard Business Review&lt;/li&gt;
+&lt;li&gt;Created Equal - WHYY FM&lt;/li&gt;
+&lt;li&gt;Dirtbag Diaries - Duct Tape Then Beer&lt;/li&gt;
+&lt;li&gt;Front Burner - CBC&lt;/li&gt;
+&lt;li&gt;How I Built This - Wondery&lt;/li&gt;
+&lt;li&gt;In Our Time - BBC&lt;/li&gt;
+&lt;li&gt;Invisibilia - NPR&lt;/li&gt;
+&lt;li&gt;Just One Thing - BBC&lt;/li&gt;
+&lt;li&gt;Kara Swisher - Vox&lt;/li&gt;
+&lt;li&gt;Most Innovative Companies - Fast Company magazine&lt;/li&gt;
+&lt;li&gt;New Books in Public Policy - New Books Network&lt;/li&gt;
+&lt;li&gt;Outside - Outside Magazine&lt;/li&gt;
+&lt;li&gt;Possibly Podcast - The Public&#39;s Radio&lt;/li&gt;
+&lt;li&gt;Princeton UP Ideas Podcast - New Books Network&lt;/li&gt;
+&lt;li&gt;Resistance - Spotify&lt;/li&gt;
+&lt;li&gt;The Brave Technologist (marketing) - Brave Software&lt;/li&gt;
+&lt;li&gt;The Brian Lehrer Show - WNYC&lt;/li&gt;
+&lt;li&gt;The Global Story - BBC&lt;/li&gt;
+&lt;li&gt;The Nation - The Nation Magazine&lt;/li&gt;
+&lt;li&gt;The Official SaaStr Podcast (business) - SaaStr&lt;/li&gt;
+&lt;li&gt;The Run Up - New York Times&lt;/li&gt;
+&lt;li&gt;This is Uncomfortable - Marketplace&lt;/li&gt;
+&lt;li&gt;What&#39;s Left of Philosophy - Lillian Cicerchia&lt;/li&gt;
+&lt;li&gt;Women at Work - Harvard Business Review&lt;/li&gt;
+&lt;li&gt;WORT Local Daily News - WORT Community Radio in Madison Wisconsin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;all-networks&quot; tabindex=&quot;-1&quot;&gt;All Networks &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/books%20-%20all%20podcasts/#all-networks&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ACLU - At Liberty&lt;/li&gt;
+&lt;li&gt;BBC - In Our Time&lt;/li&gt;
+&lt;li&gt;BBC - Just One Thing&lt;/li&gt;
+&lt;li&gt;BBC - The Global Story&lt;/li&gt;
+&lt;li&gt;Brave Software - The Brave Technologist (marketing)&lt;/li&gt;
+&lt;li&gt;CBC - Front Burner&lt;/li&gt;
+&lt;li&gt;Changelog Media - Changelog Podcast&lt;/li&gt;
+&lt;li&gt;Duct Tape Then Beer - Dirtbag Diaries&lt;/li&gt;
+&lt;li&gt;Fast Company magazine - Most Innovative Companies&lt;/li&gt;
+&lt;li&gt;Harvard Business Review - Coaching Real Leaders&lt;/li&gt;
+&lt;li&gt;Harvard Business Review - Women at Work&lt;/li&gt;
+&lt;li&gt;Lillian Cicerchia - What&#39;s Left of Philosophy&lt;/li&gt;
+&lt;li&gt;Marketplace - This is Uncomfortable&lt;/li&gt;
+&lt;li&gt;New Books Network - New Books in Public Policy&lt;/li&gt;
+&lt;li&gt;New Books Network - Princeton UP Ideas Podcast&lt;/li&gt;
+&lt;li&gt;New York Times - The Run Up&lt;/li&gt;
+&lt;li&gt;NPR - Invisibilia&lt;/li&gt;
+&lt;li&gt;Outside Magazine - Outside&lt;/li&gt;
+&lt;li&gt;SaaStr - The Official SaaStr Podcast (business)&lt;/li&gt;
+&lt;li&gt;Spotify - Resistance&lt;/li&gt;
+&lt;li&gt;The Nation Magazine - The Nation&lt;/li&gt;
+&lt;li&gt;The Public&#39;s Radio - Possibly Podcast&lt;/li&gt;
+&lt;li&gt;Vox - Kara Swisher&lt;/li&gt;
+&lt;li&gt;WHYY FM - Created Equal&lt;/li&gt;
+&lt;li&gt;WNYC - The Brian Lehrer Show&lt;/li&gt;
+&lt;li&gt;Wondery - How I Built This&lt;/li&gt;
+&lt;li&gt;WORT  Community Radio - Local Daily News for Madison Wisconsin&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Packing list for a spring in the USA</title>
+		<link href="https://tatll.me/posts/packing-list-for-spring-USA/"/>
+		<updated>2024-04-02T00:00:00Z</updated>
+		<id>https://tatll.me/posts/packing-list-for-spring-USA/</id>
+		<content type="html">&lt;h2 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/packing-list-for-spring-USA/#introduction&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The following list is for a one week car camping trip to Arkansas. Highs 78 F, Lows 40 F, with some rain.&lt;/p&gt;
+&lt;p&gt;&amp;amp;&amp;amp; = wear on the way there&lt;/p&gt;
+&lt;h2 id=&quot;duffel&quot; tabindex=&quot;-1&quot;&gt;Duffel &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/packing-list-for-spring-USA/#duffel&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;3-pairs-of-underpants!laundry-bag-for-dirty-clothespuffy-nylon-zip-uppajamas-longsun-hat3-pairs-of-socks1-pair-short-pants1-long-pants-andand1-long-pants2-short-sleeved-button-up-shirts-(1-black-1-&amp;quot;microfiber&amp;quot;-from-14th-street)1-long-sleeve-kuhl-shirt1-long-sleeve-corduroy-or-flannel-andand1-vest-(mainly-for-pockets-in-car-situations)2-long-sleeved-button-up-shirts-(1-camping-1-nice)long-sleeve-pullover-synthetic-mesh-(nike-dry-fit-undershirt)super-thin-sunshirt-(with-hood-pullover-style-outdoor-research)2-cotton-tshirts-(mostly-for-sleeping-but-also-for-conversation-starters)1-thin-wool-(e.g.-v-neck)1-rain-pants-bottom-(top-but-might-consider-rain-pants-bottom-too-if-rainier-season.-but-in-tropics-getting-damp-isn&#39;t-life-threatening)keen-water-sandals-andandthe-rainbow-merrel-shoesbathing-trunksgoggleswristwatch-(more-useful-than-in-normal-life)-andand&quot; tabindex=&quot;-1&quot;&gt;3 pairs of underpants!&lt;br /&gt;
+laundry bag for dirty clothes&lt;br /&gt;
+puffy nylon zip up&lt;br /&gt;
+Pajamas long&lt;br /&gt;
+sun hat&lt;br /&gt;
+3 pairs of socks&lt;br /&gt;
+1 pair short pants&lt;br /&gt;
+1 long pants &amp;amp;&amp;amp;&lt;br /&gt;
+1 long pants&lt;br /&gt;
+2 short sleeved, button up shirts (1 black, 1 &amp;quot;microfiber&amp;quot; from 14th Street),&lt;br /&gt;
+1 long sleeve Kuhl shirt&lt;br /&gt;
+1 long sleeve corduroy or flannel &amp;amp;&amp;amp;&lt;br /&gt;
+1 vest (mainly for pockets in car situations)&lt;br /&gt;
+2 long sleeved, button up shirts (1 camping, 1 nice)&lt;br /&gt;
+long sleeve pullover, synthetic mesh (Nike dry-fit undershirt)&lt;br /&gt;
+super thin sunshirt (with hood, pullover style, Outdoor Research)&lt;br /&gt;
+2 cotton tshirts (mostly for sleeping, but also for conversation starters)&lt;br /&gt;
+1 thin wool (e.g. v neck)&lt;br /&gt;
+1 rain pants bottom (top - but might consider rain pants bottom too if rainier season. But in tropics, getting damp isn&#39;t life threatening)&lt;br /&gt;
+Keen water sandals &amp;amp;&amp;amp;&lt;br /&gt;
+the rainbow Merrel shoes&lt;br /&gt;
+bathing trunks&lt;br /&gt;
+goggles&lt;br /&gt;
+wristwatch (more useful than in normal life)  &amp;amp;&amp;amp; &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/packing-list-for-spring-USA/#3-pairs-of-underpants!laundry-bag-for-dirty-clothespuffy-nylon-zip-uppajamas-longsun-hat3-pairs-of-socks1-pair-short-pants1-long-pants-andand1-long-pants2-short-sleeved-button-up-shirts-(1-black-1-%22microfiber%22-from-14th-street)1-long-sleeve-kuhl-shirt1-long-sleeve-corduroy-or-flannel-andand1-vest-(mainly-for-pockets-in-car-situations)2-long-sleeved-button-up-shirts-(1-camping-1-nice)long-sleeve-pullover-synthetic-mesh-(nike-dry-fit-undershirt)super-thin-sunshirt-(with-hood-pullover-style-outdoor-research)2-cotton-tshirts-(mostly-for-sleeping-but-also-for-conversation-starters)1-thin-wool-(e.g.-v-neck)1-rain-pants-bottom-(top-but-might-consider-rain-pants-bottom-too-if-rainier-season.-but-in-tropics-getting-damp-isn&#39;t-life-threatening)keen-water-sandals-andandthe-rainbow-merrel-shoesbathing-trunksgoggleswristwatch-(more-useful-than-in-normal-life)-andand&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;photocopy of the passport&lt;br /&gt;
+electric toothbrush + charger&lt;br /&gt;
+!important Power Cord for laptop !!&lt;br /&gt;
+charger cables: phone, mp3&lt;br /&gt;
+two flashlights (or one headlamp)&lt;br /&gt;
+ibuprofen&lt;br /&gt;
+toothbrush manual&lt;br /&gt;
+decongestent&lt;br /&gt;
+3 pens&lt;br /&gt;
+1 pocket journal &amp;amp;&amp;amp;&lt;br /&gt;
+cord for clothesline&lt;/p&gt;
+&lt;h2 id=&quot;day-pack&quot; tabindex=&quot;-1&quot;&gt;Day pack &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/packing-list-for-spring-USA/#day-pack&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;rain-pack-cover&lt;br /&gt;
+little neck gaiter&lt;br /&gt;
+Working Families cap&lt;br /&gt;
+black nylon fur lined winter cap &amp;amp;&amp;amp;&lt;br /&gt;
+1 rain shell top&lt;br /&gt;
+laptop - for taxes and email&lt;br /&gt;
+print out daily mileage, time in AZ notebook + snapshot it&lt;br /&gt;
+get the accomodations addresses&lt;br /&gt;
+2 small mp3 players ($30 style) with Chop Bard podcasts&lt;br /&gt;
+cell phone  &amp;amp;&amp;amp;&lt;br /&gt;
+headphones (plugin, not blue tooth)&lt;br /&gt;
+2 books (one each fiction, non-fiction, the latter with paper for taking notes)&lt;br /&gt;
+chewing gum 2 packs&lt;br /&gt;
+can opener&lt;/p&gt;
+&lt;h2 id=&quot;things&quot; tabindex=&quot;-1&quot;&gt;Things &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/packing-list-for-spring-USA/#things&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;a stack of cash ~400&lt;br /&gt;
+toiletries: bar of soap, deoderant, nail clippers, floss, disinfectent ointment, razor)&lt;br /&gt;
+sunglasses&lt;/p&gt;
+&lt;h2 id=&quot;camping-stuff&quot; tabindex=&quot;-1&quot;&gt;Camping stuff &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/packing-list-for-spring-USA/#camping-stuff&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;(This is not complete.)&lt;br /&gt;
+Tent&lt;br /&gt;
+important matches !!&lt;br /&gt;
+Stove + Fuel&lt;br /&gt;
+Sleeping pad&lt;br /&gt;
+Sleeping bag&lt;br /&gt;
+(Noah&#39;s Tarp is DOA)&lt;br /&gt;
+Binoculars&lt;br /&gt;
+tarp if 50% chance of rain camp&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Questions to ask to know another person</title>
 		<link href="https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/"/>
 		<updated>2024-02-26T00:00:00Z</updated>
 		<id>https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/</id>
 		<content type="html">&lt;h1 id=&quot;lists-of-conversation-starters&quot; tabindex=&quot;-1&quot;&gt;Lists of conversation starters &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#lists-of-conversation-starters&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;In the book How to Know Another Person, David Brooks gives many suggestions for how to ask meaningful questions. If you dislike small talk, and are ready to be warm, real, and human, get ready to &amp;quot;listen&amp;quot; like David, with the following 54(!) questions.&lt;/p&gt;
-&lt;h2 id=&quot;questions-he-got-from-therapist-mary-pipher-page-41&quot; tabindex=&quot;-1&quot;&gt;Questions he got from therapist Mary Pipher, page 41 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#questions-he-got-from-therapist-mary-pipher-page-41&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Isn&#39;t it time you forgave yourself for that?&lt;/li&gt;
-&lt;li&gt;when you and your parents are close again, what will you want them to understand about this time in your life?&lt;/li&gt;
-&lt;li&gt;How do you treat others?&lt;/li&gt;
-&lt;li&gt;How does that make you feel?&lt;/li&gt;
-&lt;li&gt;How do you make them feel?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Pipher&#39;s philosophy as a therapist: Vulnerable, love-seeking people sometimes are caught in bad situations.&lt;/p&gt;
-&lt;h2 id=&quot;ways-to-invite-someone-to-talk-page-74&quot; tabindex=&quot;-1&quot;&gt;Ways to invite someone to talk, page 74 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#ways-to-invite-someone-to-talk-page-74&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Listening is a binary act. Like pregnancy. Give attention as an on/off switch, not a dimmer.&lt;/li&gt;
-&lt;li&gt;SLANT is a version of the above: sit up, lean forward, ask questions, nod your head, track the speaker.&lt;/li&gt;
-&lt;li&gt;Be a loud listener. Consider Oprah Winfrey - listens like she&#39;s trying to burn calories doing it.&lt;/li&gt;
-&lt;li&gt;Favor familiarity. Avoid the novelty-penalty. You won&#39;t go wrong mentioning the club logo on their shirt or something close at hand.&lt;/li&gt;
-&lt;li&gt;Make them authors, not witnesses.  People aren&#39;t specific enough when they tell their stories. Be the editor to their story submission. Ask &amp;quot;where was your boss sitting when she said that?&amp;quot;&lt;/li&gt;
-&lt;li&gt;First ask for the same thing, but as a story. Then go back for a playback and get their feelings during that story&lt;/li&gt;
-&lt;li&gt;Don&#39;t fear the pause. You may have to hold up your hand, to get the person to pause at the end of their statement, to hold the space, for at least a beat.curiousity&lt;/li&gt;
-&lt;li&gt;Do the looping. &amp;quot;So to clarify, this was a bad thing? You&#39;re saying XYZ...&amp;quot;  They may clarify. Or just nod Yep.&lt;/li&gt;
-&lt;li&gt;Conversation is midwifery. You are not there to give birth, you are there to get the other person to deliver a cogent, choate narrative. The candidate for the job talked to her Quaker Clearness Committee.  She gave so many complaints that they made her realize: &amp;quot;There are easier ways to get a big name plate on your office door.&amp;quot;&lt;/li&gt;
-&lt;li&gt;Keep the gem statement at the center. It may be necessary during divergence to come back to the part you both agree on and gin up further enthusiasm for your mutual bromance on this part before resuming the &amp;quot;discussion&amp;quot;.&lt;/li&gt;
-&lt;li&gt;Find the disagreement under the disagreement.  At heart, what are we really disagreeing about?&lt;/li&gt;
-&lt;li&gt;Don&#39;t be a Topper&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;,&lt;/p&gt;
 &lt;h2 id=&quot;ask-questions-like-a-journalist-page-85&quot; tabindex=&quot;-1&quot;&gt;Ask questions like a journalist page 85 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#ask-questions-like-a-journalist-page-85&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -77,6 +208,48 @@
 &lt;li&gt;Where&#39;d you grow up?&lt;/li&gt;
 &lt;li&gt;When did you get the notion to spend the rest of your life this way?&lt;/li&gt;
 &lt;li&gt;(What are your intentions and goals?) I&#39;m not sure how to really ask this ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;questions-from-diane-mitchell&quot; tabindex=&quot;-1&quot;&gt;Questions from Diane Mitchell &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#questions-from-diane-mitchell&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What are some lifetime events you definitely remember where you were when _______.&lt;/li&gt;
+&lt;li&gt;How are you like your dad? Your mom?&lt;/li&gt;
+&lt;li&gt;What was an interesting job you had when younger?&lt;/li&gt;
+&lt;li&gt;What do you remember doing with your siblings?&lt;/li&gt;
+&lt;li&gt;What&#39;s a major purchase you made when young?&lt;/li&gt;
+&lt;li&gt;How have you grown and changed?&lt;/li&gt;
+&lt;li&gt;How have you found some of your jobs?&lt;/li&gt;
+&lt;li&gt;Any relationship lessons you have come to learn, vis a vis your partner, your kids, your folks?&lt;/li&gt;
+&lt;li&gt;What&#39;s health advice you follow and where did you learn it?&lt;/li&gt;
+&lt;li&gt;What were some of your first big trips?&lt;/li&gt;
+&lt;li&gt;What were you famous for in high school?&lt;/li&gt;
+&lt;li&gt;If you were to do it over what would you do differently?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;questions-he-got-from-therapist-mary-pipher-page-41&quot; tabindex=&quot;-1&quot;&gt;Questions he got from therapist Mary Pipher, page 41 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#questions-he-got-from-therapist-mary-pipher-page-41&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Isn&#39;t it time you forgave yourself for that?&lt;/li&gt;
+&lt;li&gt;when you and your parents are close again, what will you want them to understand about this time in your life?&lt;/li&gt;
+&lt;li&gt;How do you treat others?&lt;/li&gt;
+&lt;li&gt;How does that make you feel?&lt;/li&gt;
+&lt;li&gt;How do you make them feel?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pipher&#39;s philosophy as a therapist: Vulnerable, love-seeking people sometimes are caught in bad situations.&lt;/p&gt;
+&lt;h2 id=&quot;ways-to-invite-someone-to-talk-page-74&quot; tabindex=&quot;-1&quot;&gt;Ways to invite someone to talk, page 74 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#ways-to-invite-someone-to-talk-page-74&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First ask for the same thing, but as a story. Then go back for a playback and get their feelings during that story&lt;/li&gt;
+&lt;li&gt;Be a loud listener. Consider Oprah Winfrey - listens like she&#39;s trying to burn calories doing it.&lt;/li&gt;
+&lt;li&gt;Find the disagreement under the disagreement.  At heart, what are we really disagreeing about?&lt;/li&gt;
+&lt;li&gt;Make them authors, not witnesses.  People aren&#39;t specific enough when they tell their stories. Be the editor to their story submission. Ask &amp;quot;where was your boss sitting when she said that?&amp;quot;&lt;/li&gt;
+&lt;li&gt;Don&#39;t fear the pause. You may have to hold up your hand, to get the person to pause at the end of their statement, to hold the space, for at least a beat.curiousity&lt;/li&gt;
+&lt;li&gt;Do the looping. &amp;quot;So to clarify, this was a bad thing? You&#39;re saying XYZ...&amp;quot;  They may clarify. Or just nod Yep.&lt;/li&gt;
+&lt;li&gt;Keep the gem statement at the center. It may be necessary during divergence to come back to the part you both agree on and gin up further enthusiasm for your mutual bromance on this part before resuming the &amp;quot;discussion&amp;quot;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;continued-page-74&quot; tabindex=&quot;-1&quot;&gt;Continued, page 74 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#continued-page-74&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Favor familiarity. Avoid the novelty-penalty. You won&#39;t go wrong mentioning the club logo on their shirt or something close at hand.&lt;/li&gt;
+&lt;li&gt;Conversation is midwifery. You are not there to give birth, you are there to get the other person to deliver a cogent, choate narrative. The candidate for the job talked to her Quaker Clearness Committee.  She gave so many complaints that they made her realize: &amp;quot;There are easier ways to get a big name plate on your office door.&amp;quot;&lt;/li&gt;
+&lt;li&gt;Listening is a binary act. Like pregnancy. Give attention as an on/off switch, not a dimmer.&lt;/li&gt;
+&lt;li&gt;SLANT is a version of the above: sit up, lean forward, ask questions, nod your head, track the speaker.&lt;/li&gt;
+&lt;li&gt;Don&#39;t be a Topper&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;your-story-not-a-story-p-218ish&quot; tabindex=&quot;-1&quot;&gt;Your story, not a story p 218ish &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/#your-story-not-a-story-p-218ish&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -120,6 +293,18 @@ Taipei 1300 rt (don&#39;t go in summer, prices higher)&lt;br /&gt;
 Shanghai 1200 rt&lt;br /&gt;
 Kigali Rwanda 1500 rt&lt;br /&gt;
 Indonesia 1500 rt&lt;/p&gt;
+&lt;h2 id=&quot;brainstorming&quot; tabindex=&quot;-1&quot;&gt;Brainstorming &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/travel-from-madison/#brainstorming&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;paleolithic-france&quot; tabindex=&quot;-1&quot;&gt;Paleolithic France &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/travel-from-madison/#paleolithic-france&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Travel to archive in tatll&lt;/p&gt;
+&lt;p&gt;Visits to forager art:&lt;br /&gt;
+Lascaux&lt;br /&gt;
+&lt;a href=&quot;https://archeologie.culture.gouv.fr/lascaux/en/visit-cave&quot;&gt;https://archeologie.culture.gouv.fr/lascaux/en/visit-cave&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://lascaux.fr/en/&quot;&gt;https://lascaux.fr/en/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chauvet&lt;br /&gt;
+&lt;a href=&quot;https://archeologie.culture.gouv.fr/chauvet/en&quot;&gt;https://archeologie.culture.gouv.fr/chauvet/en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Altamira&lt;br /&gt;
+&lt;a href=&quot;https://www.spainthisway.com/places/altamiracaves.php&quot;&gt;https://www.spainthisway.com/places/altamiracaves.php&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.spain.info/en/places-of-interest/national-museum-research-centre-altamira/&quot;&gt;https://www.spain.info/en/places-of-interest/national-museum-research-centre-altamira/&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
