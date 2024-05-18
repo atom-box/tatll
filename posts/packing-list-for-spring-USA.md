@@ -1,5 +1,5 @@
 ---
-title: Packing list for a spring in the USA
+title: Packing list for Arkansas half tenting half hosted
 description:
 date: 2024-04-02
 tags:
@@ -8,47 +8,47 @@ layout: layouts/post.njk
 ---
 
 ## Introduction  
+
 The following list is for a one week car camping trip to Arkansas. Highs 78 F, Lows 40 F, with some rain.
   
-&& = wear on the way there  
-  
-## Duffel  
-3 pairs of underpants!
-laundry bag for dirty clothes
-puffy nylon zip up
-Pajamas long
-sun hat    
-3 pairs of socks  
-1 pair short pants  
-1 long pants &&  
-1 long pants  
-2 short sleeved, button up shirts (1 black, 1 "microfiber" from 14th Street),   
-1 long sleeve Kuhl shirt
-1 long sleeve corduroy or flannel &&
-1 vest (mainly for pockets in car situations)
-2 long sleeved, button up shirts (1 camping, 1 nice)   
-long sleeve pullover, synthetic mesh (Nike dry-fit undershirt)  
-super thin sunshirt (with hood, pullover style, Outdoor Research)  
-2 cotton tshirts (mostly for sleeping, but also for conversation starters)  
-1 thin wool (e.g. v neck)
-1 rain pants bottom (top - but might consider rain pants bottom too if rainier season. But in tropics, getting damp isn't life threatening)  
-Keen water sandals &&
-the rainbow Merrel shoes 
-bathing trunks  
-goggles
-wristwatch (more useful than in normal life)  &&
+## Duffel 
+   
+laundry bag for dirty clothes  
+puffy nylon zip up  
+Pajamas long  
+sun hat      
+three pairs of underpants  
+3 pairs of socks    
+1 pair short pants    
+1 long pants &&    
+1 long pants    
+2 short sleeved, button up shirts (1 black, 1 "microfiber" from 14th Street),     
+1 long sleeve Kuhl shirt  
+1 long sleeve corduroy or flannel &&  
+1 vest (mainly for pockets in car situations)  
+long sleeve pullover, synthetic mesh (Nike dry-fit undershirt)    
+super thin sunshirt (with hood, pullover style, Outdoor Research)    
+2 cotton tshirts (mostly for sleeping, but also for conversation starters)    
+1 thin wool (e.g. v neck)  
+1 rain pants bottom (top - but might consider rain pants bottom too if rainier season. But in tropics, getting damp isn't life threatening)    
+Keen water sandals &&  
+the rainbow Merrel shoes   
+bathing trunks    
+goggles  
+wristwatch (more useful than in normal life)  &&  
+
 ---
-photocopy of the passport  
-electric toothbrush + charger
-!important Power Cord for laptop !!
-charger cables: phone, mp3
-two flashlights (or one headlamp)  
-ibuprofen  
-toothbrush manual
-decongestent
-3 pens  
-1 pocket journal &&
-cord for clothesline  
+photocopy of the passport    
+electric toothbrush + charger  
+!important Power Cord for laptop !!  
+charger cables: phone, mp3  
+two flashlights (or one headlamp)    
+ibuprofen    
+toothbrush manual  
+decongestent  
+3 pens    
+1 pocket journal &&  
+cord for clothesline    
 
 ## Day pack
 rain-pack-cover

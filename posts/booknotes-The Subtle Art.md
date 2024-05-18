@@ -4,6 +4,7 @@ description:  Book review
 date: 2023-12-10
 tags:
   - books
+  - efficiency
 layout: layouts/post.njk
 ---
 The Subtle Art of Not Giving a F*ck  
