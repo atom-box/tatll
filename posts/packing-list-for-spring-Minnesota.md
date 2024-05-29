@@ -28,6 +28,7 @@ puffy nylon zip up
 2 cotton tshirts (mostly for sleeping, but also for conversation starters)    
 Birkenstokks
 the rainbow Merrel shoes &&  
+real leather shoes
 bathing trunks    
 goggles  
 wristwatch (more useful than in normal life)  &&  
