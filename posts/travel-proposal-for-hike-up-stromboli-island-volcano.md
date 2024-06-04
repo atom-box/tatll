@@ -7,6 +7,15 @@ tags:
 layout: layouts/post.njk
 ---
 
+## Possible Seven Day Itinerary
+1. Fly to Napoli Italy. (700USD round trip.) Sleep
+2. See Pompeii (or Herculaneum) Eat Margarita and house wine for dinner.
+3. See a professional soccer game: Milan vs Napoli. Find where to buy tickets. Board ferry at dusk.
+4. Arrive at Stromoboli at sunup. Disembark. Climb volcano. Spend night on Napoli or get next ferry.
+5. Optionals: next ferry can go to Tunisia from here (Star Wars Episode 4), Palermo, or back to Napoli
+6. Napoli day: National Museum of Archaeology
+7. Home 
+
 ## Places mentioned in this guide    
 
 * Stromboli - an island rising from nowhere, way out in the ocean, near Italy
