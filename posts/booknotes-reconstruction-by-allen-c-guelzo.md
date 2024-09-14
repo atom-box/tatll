@@ -1,5 +1,5 @@
 ---
-title: Booknotes - Reconstruction; A Concise History  
+title: What I Learned From Reading - Reconstruction; A Concise History  
 description:  Book review of a short, excellent history book  
 date: 2022-09-27
 tags:

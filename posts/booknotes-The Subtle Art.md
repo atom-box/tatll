@@ -1,5 +1,5 @@
 ---
-title: Booknotes - The Subtle Art of Not Giving a F; A Counterintuitive Approach to Living a Good Life 
+title: What I Learned From Mark Manson's The Subtle Art of Not Giving a F; A Counterintuitive Approach to Living a Good Life 
 description:  Book review
 date: 2023-12-10
 tags:

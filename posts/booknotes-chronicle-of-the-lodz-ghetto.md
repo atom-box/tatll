@@ -1,5 +1,5 @@
 ---
-title: Booknotes Chronicle of the Lodz Ghetto
+title: What I Learned from Reading Chronicle of the Lodz Ghetto
 description:
 date: 2023-01-04
 tags:

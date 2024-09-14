@@ -5,7 +5,7 @@
 	
 	<link href="https://tatll.me/feed/feed.xml" rel="self"/>
 	<link href="https://tatll.me/"/>
-	<updated>2024-09-05T00:00:00Z</updated>
+	<updated>2024-09-14T00:00:00Z</updated>
 	<id>https://tatll.me/</id>
 	<author>
 		<name>Evan Genest</name>
@@ -13,40 +13,53 @@
 	</author>
 	
 	<entry>
-		<title>Coursera - Generative AI for Everyone</title>
-		<link href="https://tatll.me/posts/Coursera-GenerativeAIforEveryone/"/>
-		<updated>2024-09-05T00:00:00Z</updated>
-		<id>https://tatll.me/posts/Coursera-GenerativeAIforEveryone/</id>
-		<content type="html">&lt;h2 id=&quot;source&quot; tabindex=&quot;-1&quot;&gt;Source &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#source&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://coursera.org/&quot;&gt;https://coursera.org&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;prompts-examples&quot; tabindex=&quot;-1&quot;&gt;Prompts Examples &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#prompts-examples&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Write three captions for a social post about our new line of sunglasses for robots&lt;br /&gt;
-Give me three ideas for tshirt graphics that would appeal to llamas&lt;br /&gt;
-Find me some recipes for hungry pirates&lt;br /&gt;
-(coding)&lt;/p&gt;
-&lt;h2 id=&quot;examples&quot; tabindex=&quot;-1&quot;&gt;Examples &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#examples&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Credit card fraud behavior&lt;br /&gt;
-Recommender systems&lt;br /&gt;
-Video and voice of the professor Andrew Ng&lt;/p&gt;
-&lt;h2 id=&quot;actions-(in-descending-order-of-relevance-to-me)&quot; tabindex=&quot;-1&quot;&gt;Actions (in descending order of relevance to me) &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#actions-(in-descending-order-of-relevance-to-me)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Supervised learning (labeling things)&lt;br /&gt;
-Generative AI&lt;br /&gt;
-Unsupervised learning&lt;br /&gt;
-Reinforcement learning&lt;/p&gt;
-&lt;h2 id=&quot;how-llms-work&quot; tabindex=&quot;-1&quot;&gt;How LLMs Work &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#how-llms-work&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;(Large Language Models)&lt;br /&gt;
-Predictive text is a clear example of this.&lt;br /&gt;
-The number of inputs it had, to lead to this, are&lt;br /&gt;
-nearly a trillion input examples.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Canvassing Tips</title>
 		<link href="https://tatll.me/posts/Canvassing%20Tips/"/>
-		<updated>2024-08-24T00:00:00Z</updated>
+		<updated>2024-09-14T00:00:00Z</updated>
 		<id>https://tatll.me/posts/Canvassing%20Tips/</id>
-		<content type="html">&lt;h1 id=&quot;video-1&quot; tabindex=&quot;-1&quot;&gt;Video 1 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#video-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+		<content type="html">&lt;h1 id=&quot;generic-script&quot; tabindex=&quot;-1&quot;&gt;Generic script &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#generic-script&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This is a bit better opening than the one given to me by my Madtown O&#39;s&lt;/p&gt;
+&lt;h2 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#introduction&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;greet-the-person-warmly.&quot; tabindex=&quot;-1&quot;&gt;Greet the person warmly. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#greet-the-person-warmly.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;Hello! How are you today?&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;introduce-yourself-and-the-campaign.&quot; tabindex=&quot;-1&quot;&gt;Introduce yourself and the campaign. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#introduce-yourself-and-the-campaign.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;My name is [Your Name], and I’m volunteering with [Candidate&#39;s Name]&#39;s presidential campaign. We’re out today talking to voters about the upcoming election. Do you have a few minutes to chat?&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;engage-with-the-voter&quot; tabindex=&quot;-1&quot;&gt;Engage with the Voter &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#engage-with-the-voter&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ask-if-they&#39;re-familiar-with-the-candidate.&quot; tabindex=&quot;-1&quot;&gt;Ask if they’re familiar with the candidate. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#ask-if-they&#39;re-familiar-with-the-candidate.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;Are you familiar with [Candidate&#39;s Name]?&amp;quot;
+    If yes: &amp;quot;Great! What do you think about the campaign so far?&amp;quot;
+    If no or unsure: &amp;quot;No worries! I’d love to share a little about [Candidate&#39;s Name] and why we believe [he/she/they] is the right choice for president.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;briefly-highlight-the-candidate&#39;s-key-messages.&quot; tabindex=&quot;-1&quot;&gt;Briefly highlight the candidate’s key messages. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#briefly-highlight-the-candidate&#39;s-key-messages.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;One of the reasons I support [Candidate&#39;s Name] is because [he/she/they] are fighting for [policy 1, e.g., healthcare reform, job creation, climate action]. [Candidate&#39;s Name] also stands for [policy 2, e.g., affordable education, protecting voting rights, etc.]. Do any of these issues resonate with you?&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;listen-to-their-concerns&quot; tabindex=&quot;-1&quot;&gt;Listen to Their Concerns &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#listen-to-their-concerns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ask-about-issues-they-care-about.&quot; tabindex=&quot;-1&quot;&gt;Ask about issues they care about. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#ask-about-issues-they-care-about.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;What are some of the issues that are most important to you this election?&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;acknowledge-and-align-with-their-concerns.&quot; tabindex=&quot;-1&quot;&gt;Acknowledge and align with their concerns. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#acknowledge-and-align-with-their-concerns.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;That’s such an important issue. [Candidate&#39;s Name] is really focused on [related policy], and [he/she/they] have a detailed plan to address that by [mention a relevant policy action].&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;call-to-action&quot; tabindex=&quot;-1&quot;&gt;Call to Action &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#call-to-action&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ask-for-their-support.&quot; tabindex=&quot;-1&quot;&gt;Ask for their support. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#ask-for-their-support.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;Can we count on your support for [Candidate&#39;s Name] in the upcoming election?&amp;quot;
+    If yes: &amp;quot;That’s wonderful! Every vote is critical this year, and we really appreciate your support.&amp;quot;
+    If unsure: &amp;quot;I understand it’s a big decision. If you’d like more information, I can provide you with a website where you can learn more about [Candidate&#39;s Name] and the campaign.&amp;quot;
+    If no: &amp;quot;Thank you for your time! I really appreciate hearing your perspective.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;encourage-further-involvement.&quot; tabindex=&quot;-1&quot;&gt;Encourage further involvement. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#encourage-further-involvement.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;We’re also looking for more people to join us in getting the word out. Would you be interested in volunteering or helping spread the word about [Candidate&#39;s Name]?&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;remind-them-about-voting.&quot; tabindex=&quot;-1&quot;&gt;Remind them about voting. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#remind-them-about-voting.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;Will you be voting in the upcoming election? If you need any information about where or how to vote, I’d be happy to help with that too.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;closing&quot; tabindex=&quot;-1&quot;&gt;Closing &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#closing&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;thank-them-for-their-time.&quot; tabindex=&quot;-1&quot;&gt;Thank them for their time. &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#thank-them-for-their-time.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;Thanks so much for your time today. I hope you have a great day, and please don’t hesitate to reach out if you have any more questions about [Candidate&#39;s Name].&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&quot;video-1&quot; tabindex=&quot;-1&quot;&gt;Video 1 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#video-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Title: Canvassing Training Video by Seasoned Media Vets for Change&lt;br /&gt;
 Time: 5:49&lt;br /&gt;
 Link: &lt;a href=&quot;https://www.youtube.com/watch?v=-ogRCE3c47w&quot;&gt;https://www.youtube.com/watch?v=-ogRCE3c47w&lt;/a&gt;&lt;/p&gt;
@@ -65,7 +78,7 @@ Your not here to sell a product your here because of an important election, beca
 &lt;h4 id=&quot;close-the-deal-when-you-see-the-nod-of-understanding&quot; tabindex=&quot;-1&quot;&gt;Close the deal - When you  see the nod of understanding &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#close-the-deal-when-you-see-the-nod-of-understanding&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Can I get you to register by mail?  If you vote by mail you can drop it off, and skip the line.&lt;/p&gt;
 &lt;p&gt;It&#39;s been nice to meet you.  Hey would you like a lawn sign?&lt;/p&gt;
-&lt;h2 id=&quot;notes-from-video-2&quot; tabindex=&quot;-1&quot;&gt;Notes from video 2 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#notes-from-video-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h1 id=&quot;notes-from-video-2&quot; tabindex=&quot;-1&quot;&gt;Notes from video 2 &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Canvassing%20Tips/#notes-from-video-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Title: Canvassing 101 - Learn How to Knock Doors&lt;br /&gt;
 Time: 13:36&lt;br /&gt;
 Link: &lt;a href=&quot;https://www.youtube.com/watch?v=2LfJgp227Kc&quot;&gt;https://www.youtube.com/watch?v=2LfJgp227Kc&lt;/a&gt;&lt;br /&gt;
@@ -94,7 +107,51 @@ So I will encourage you to vote.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Deep Canvassing Helped Elect Democrat Max Rose in Staten Island | NowThis&lt;/li&gt;
 &lt;li&gt;A dying breed: John Harris goes canvasing with Labour&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XT17LbjwlSc&quot;&gt;https://www.youtube.com/watch?v=XT17LbjwlSc&lt;/a&gt;  Why We Canvass&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>What I Learned From Coursera&#39;s - Generative AI for Everyone</title>
+		<link href="https://tatll.me/posts/Coursera-GenerativeAIforEveryone/"/>
+		<updated>2024-09-05T00:00:00Z</updated>
+		<id>https://tatll.me/posts/Coursera-GenerativeAIforEveryone/</id>
+		<content type="html">&lt;h2 id=&quot;source&quot; tabindex=&quot;-1&quot;&gt;Source &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#source&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://coursera.org/&quot;&gt;https://coursera.org&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;prompts-examples&quot; tabindex=&quot;-1&quot;&gt;Prompts Examples &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#prompts-examples&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Write three captions for a social post about our new line of sunglasses for robots&lt;br /&gt;
+Give me three ideas for tshirt graphics that would appeal to llamas&lt;br /&gt;
+Find me some recipes for hungry pirates&lt;br /&gt;
+(coding)&lt;/p&gt;
+&lt;h2 id=&quot;examples&quot; tabindex=&quot;-1&quot;&gt;Examples &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#examples&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Credit card fraud behavior&lt;br /&gt;
+Recommender systems&lt;br /&gt;
+Video and voice of the professor Andrew Ng&lt;/p&gt;
+&lt;h2 id=&quot;actions-(in-descending-order-of-relevance-to-me)&quot; tabindex=&quot;-1&quot;&gt;Actions (in descending order of relevance to me) &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#actions-(in-descending-order-of-relevance-to-me)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Supervised learning (labeling things)&lt;br /&gt;
+Generative AI&lt;br /&gt;
+Unsupervised learning&lt;br /&gt;
+Reinforcement learning&lt;/p&gt;
+&lt;h2 id=&quot;contrast-these-two-terms&quot; tabindex=&quot;-1&quot;&gt;Contrast these two terms &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#contrast-these-two-terms&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;LLM vs Generative AI&lt;br /&gt;
+GAI - can make the three things: text, images, sound&lt;br /&gt;
+LLM is a subset; it is predictive text, basically, as opposed to filtering, which is how images are made&lt;/p&gt;
+&lt;h2 id=&quot;how-llms-work&quot; tabindex=&quot;-1&quot;&gt;How LLMs Work &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#how-llms-work&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;(Large Language Models)&lt;br /&gt;
+Predictive text is a clear example of this.&lt;br /&gt;
+The number of inputs it had, to lead to this, are&lt;br /&gt;
+nearly a trillion input examples.&lt;/p&gt;
+&lt;h2 id=&quot;prompts-to-write&quot; tabindex=&quot;-1&quot;&gt;Prompts to write &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#prompts-to-write&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Rewrite this for clarity:&lt;br /&gt;
+wyxy&lt;/p&gt;
+&lt;p&gt;Write a 300 word story for ___ audience to encourage them to ____.&lt;/p&gt;
+&lt;h2 id=&quot;explaining-a.i.-to-a-newbie&quot; tabindex=&quot;-1&quot;&gt;Explaining A.I. to a newbie &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#explaining-a.i.-to-a-newbie&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;What is AI good for?&lt;br /&gt;
+The answer is difficult for the same reason that Electricity or Computers are complicated.&lt;/p&gt;
+&lt;h2 id=&quot;not-practical-as-web-interface-do-lm-app-instead&quot; tabindex=&quot;-1&quot;&gt;Not practical as web-interface; do LM app, instead &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/Coursera-GenerativeAIforEveryone/#not-practical-as-web-interface-do-lm-app-instead&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Read several (hundreds?) of eails and sort it into a bin or find the category.&lt;br /&gt;
+TODO: WHAT ARE THE CATEGORIES OF HELPSCOUT EMAILS??&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -549,7 +606,7 @@ Worchestershire Sauce (1 Tablespoon)&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>Booknotes - The Subtle Art of Not Giving a F; A Counterintuitive Approach to Living a Good Life</title>
+		<title>What I Learned From Mark Manson&#39;s The Subtle Art of Not Giving a F; A Counterintuitive Approach to Living a Good Life</title>
 		<link href="https://tatll.me/posts/booknotes-The%20Subtle%20Art/"/>
 		<updated>2023-12-10T00:00:00Z</updated>
 		<id>https://tatll.me/posts/booknotes-The%20Subtle%20Art/</id>
@@ -1109,7 +1166,7 @@ below, all located in the /etc/apache2/ directory:&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>Booknotes 7 Simple Steps by Jessica Hagy</title>
+		<title>What I Learned from Reading 7 Simple Steps by Jessica Hagy</title>
 		<link href="https://tatll.me/posts/booknotes-How-to-be-fearless-by-Jessica-Hagy/"/>
 		<updated>2023-01-18T00:00:00Z</updated>
 		<id>https://tatll.me/posts/booknotes-How-to-be-fearless-by-Jessica-Hagy/</id>
@@ -1276,7 +1333,7 @@ Zend Engine v4.1.14, Copyright (c) Zend Technologies
 	</entry>
 	
 	<entry>
-		<title>Booknotes Chronicle of the Lodz Ghetto</title>
+		<title>What I Learned from Reading Chronicle of the Lodz Ghetto</title>
 		<link href="https://tatll.me/posts/booknotes-chronicle-of-the-lodz-ghetto/"/>
 		<updated>2023-01-04T00:00:00Z</updated>
 		<id>https://tatll.me/posts/booknotes-chronicle-of-the-lodz-ghetto/</id>
@@ -1596,7 +1653,7 @@ I would do it again.  For me, the excitement was similar to the first time I eve
 	</entry>
 	
 	<entry>
-		<title>Booknotes - Reconstruction; A Concise History</title>
+		<title>What I Learned From Reading - Reconstruction; A Concise History</title>
 		<link href="https://tatll.me/posts/booknotes-reconstruction-by-allen-c-guelzo/"/>
 		<updated>2022-09-27T00:00:00Z</updated>
 		<id>https://tatll.me/posts/booknotes-reconstruction-by-allen-c-guelzo/</id>
@@ -1630,7 +1687,7 @@ Educational levels varied. Some black leaders were Oberlin grads, or the fellow 
 	</entry>
 	
 	<entry>
-		<title>Medicare for Dummies</title>
+		<title>What I Learned from Reading Medicare for Dummies</title>
 		<link href="https://tatll.me/posts/booknotes-medicare-for-dummies/"/>
 		<updated>2022-09-01T00:00:00Z</updated>
 		<id>https://tatll.me/posts/booknotes-medicare-for-dummies/</id>
