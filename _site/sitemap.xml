@@ -352,11 +352,6 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/management/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/books/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
@@ -368,6 +363,11 @@
   
   <url>
     <loc>https://tatll.me/tags/travel/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/management/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -397,7 +397,22 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/sql/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/jobs/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/matomo/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/hacktoberfest/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -408,21 +423,6 @@
   
   <url>
     <loc>https://tatll.me/tags/javascript/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/hacktoberfest/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/sql/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -477,7 +477,17 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/posts/podcastnotes-Jennifer-Berkshire-Jack-Schneider/</loc>
+    <lastmod>2024-09-12</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/Canvassing%20Tips/</loc>
     <lastmod>2024-09-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/podcast-notes-%20Ejieme%20Eromosele/</loc>
+    <lastmod>2024-09-19</lastmod>
   </url>
 </urlset>
