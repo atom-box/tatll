@@ -1,5 +1,5 @@
 ---
-title:  Booknotes - Recapture the American Spirit
+title:  What I Learned From - Recapture the American Spirit
 description: Foo bar baz.
 date: 2023-01-12
 tags:
