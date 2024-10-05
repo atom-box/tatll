@@ -6,6 +6,7 @@ tags:
   - travel  
 layout: layouts/post.njk
 ---
+# Flights 
 
 ## Cheap from Madison
 Orlando 240 rt  
@@ -27,7 +28,36 @@ Shanghai 1200 rt
 Kigali Rwanda 1500 rt 
 Indonesia 1500 rt
 
-## Brainstorming
+# Costs of entire trips
+
+## Albuqurque + Tucson
+__2400USD Total__    
+600USD lodging (1 x 130, 6 x 60, 1 x 100)  
+120USD bus to Ohare  
+607USD flights to Phoenix - ORD  
+900USD car rental incl gas  
+  
+## Albuqurque + Tucson if we just drove all that way
+3 days out, 3 days back  
+__1800USD Total__  
+600USD hotels while driving  
+600USD lodging while there  
+600USD car and gas  
+
+## Cruise for 2, Carribbean, 7 days  
+Just guessing actually  
+__1600USD Total__  
+400USD flights  
+1200USD two lowest price berths, (with food?)
+
+## Go couch surf East Coast friends  
+__600USD Total__  
+120USD Bus  
+300USD Flight  
+180USD intangibles  
+
+
+# Brainstorming
 
 ### Paleolithic France 
 Travel to archive in tatll  
