@@ -1,7 +1,7 @@
 ---
-title: Questions to ask to know another person 
-description:
-date: 2024-02-26
+title: What I Learned From - David Brooks How to Know Another Person   
+description: books, David Brooks, facilitation, listening, canvassing
+date: 2024-09-26
 tags:
   - books
 layout: layouts/post.njk
@@ -11,7 +11,9 @@ layout: layouts/post.njk
 
 # Lists of conversation starters
 
-In the book How to Know Another Person, David Brooks gives many suggestions for how to ask meaningful questions. If you dislike small talk, and are ready to be warm, real, and human, get ready to "listen" like David, with the following 54(!) questions.
+In the book How to Know Another Person, David Brooks gives many suggestions for how to ask meaningful questions.   
+  
+If you dislike small talk, and are ready to be warm, real, and human, then get ready to *listen* like David, with the following 54(!) questions.  
 
 
 , 
