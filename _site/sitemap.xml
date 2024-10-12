@@ -307,6 +307,11 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/posts/packing-list-october-car-camping/</loc>
+    <lastmod>2023-10-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/packing-list-business-domestic-cold-climate/</loc>
     <lastmod>2023-11-13</lastmod>
   </url>
@@ -352,52 +357,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/linux/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/drupal/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/books/</loc>
+    <loc>https://tatll.me/tags/efficiency/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -407,7 +372,37 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/management/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/books/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/drupal/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -417,7 +412,17 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/hacktoberfest/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -459,6 +464,11 @@
   <url>
     <loc>https://tatll.me/posts/packing-list-for-spring-Minnesota/</loc>
     <lastmod>2024-05-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/linux-CLI-best-bash-commands/</loc>
+    <lastmod>2024-06-01</lastmod>
   </url>
   
   <url>
