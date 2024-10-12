@@ -1,14 +1,14 @@
 ---
 title: Packing 2.0 - a list for October car camping
-description:
-date: 2023-10-11
+description: packing lists, camping, travel preparation, organizing
+date: 2024-10-11
 tags:
   - travel
 layout: layouts/post.njk
 ---
 
 ## Introduction  
-The following list is everything I packed for a Wisconsin tent camping with Meg in a car in October.  
+How to pack for Wisconsin tent camping with Meg in a car in October.  
   
 ## The days before
 * contact cat guardians  
@@ -57,9 +57,7 @@ peanut butter
 
 ## clothing
 
-This INCLUDES what is worn on the first day of the trip, as you walk out the door. In other words, leave some of this out of your duffel.   
-  
-Listed in order of where everything is found in our home, east to west, while packing:  
+Listed in order of where everything will be found in our home, east to west, while packing:  
   
 * bathing trunks
 * socks, 3 pairs of 
@@ -82,6 +80,10 @@ Listed in order of where everything is found in our home, east to west, while pa
 * shirt, track jacket
 * baseball hat or other sun hat  
 * pants, rain pants
+  
+The list above INCLUDES what is worn on the first day of the trip, as you walk out the door.   
+  
+In other words, don't pack all of it: you're wearing some of these things when you drive the first day.     
 
 
 ## Non-clothing items  
