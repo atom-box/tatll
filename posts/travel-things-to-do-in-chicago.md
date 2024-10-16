@@ -24,10 +24,9 @@ The transformative art exhibit ‘We Will Tell Our Story’ is curated and creat
 
 
 4. Shopping in Logan Square
-Wolfbait & B-girls
+_Wolfbait & B-girls_
 This boutique showcases the work of over 300 local artisans, offering a unique selection of clothing, accessories, and home decor.
-
-Bang Bang Pie & Biscuits (Logan Square bakery)
+_Bang Bang Pie & Biscuits_ (Logan Square bakery)
 If you have a sweet tooth, Bang Bang Pie & Biscuits is the place to be. Known for their mouth-watering pies and buttery biscuits, this is a cozy bakery.
 
 
@@ -42,8 +41,6 @@ Drawing from across the breadth and depth of the collection
 
 6. Archeology Film Festival 
 [The Arkhaios Fest](https://arkhaiosfilmfestival.org/about-arkhaios) 
-
- 
 7:00 to 9:00 pm 
 -  Neanderthal: the First Artist 
 -  Mesopotamia: The Rise of the Cities 
@@ -55,7 +52,6 @@ Drawing from across the breadth and depth of the collection
 Color Book 
 Directed by  David Fortune with Will Catlett delivering another magnetic and sympathetic portrayal 
 Chicago [Film Festival](https://www.chicagofilmfestival.com/film/color-book/) 
- 
 [The Logan Center](https://www.logancenter.uchicago.edu/visit) at the UofC   
 915 East 60th Street (at Drexel Avenue) Logan Ctr for the arts 
 
@@ -91,11 +87,8 @@ Chicago River Walk
 Former New York Times public editor Margaret Sullivan to survey the volatile course of Election 2024 in the news media.
 Interlocutors: Nora Titone, Director of Programming and Undergraduate Research for the Parrhesia Program for Public Thinking & Rachel Wiseman, Managing Editor of The Point magazine.
 This event is co-sponsored by the Parrhesia Program for Public Thinking, the Chicago Center on Democracy, and the Seminary Co-op Bookstores.
-
 Time 4:00pm - 6:00pm CDT (16:00 - 18:00 EST)
 Location  Hyde Park Campus - Logan Center, Performance Penthouse
-
 [Margaret Sullivan talk](https://events.uchicago.edu/event/240499-election-2024-is-the-news-media-up-for-the-job) 
-
 [All UofC events on Oct 19](https://events.uchicago.edu/day/date/20241019) 
 
