@@ -352,22 +352,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -377,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -387,27 +372,17 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
+    <loc>https://tatll.me/tags/travel/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
+    <loc>https://tatll.me/tags/efficiency/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/drupal/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/books/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/activism/</loc>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -417,12 +392,37 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/activism/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/drupal/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/management/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/books/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/hacktoberfest/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/fitness/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -504,5 +504,10 @@
   <url>
     <loc>https://tatll.me/posts/packing-list-october-car-camping/</loc>
     <lastmod>2024-10-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/travel-things-to-do-in-chicago/</loc>
+    <lastmod>2024-10-20</lastmod>
   </url>
 </urlset>
