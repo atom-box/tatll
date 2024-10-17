@@ -92,3 +92,12 @@ Location  Hyde Park Campus - Logan Center, Performance Penthouse
 [Margaret Sullivan talk](https://events.uchicago.edu/event/240499-election-2024-is-the-news-media-up-for-the-job) 
 [All UofC events on Oct 19](https://events.uchicago.edu/day/date/20241019) 
 
+11. Hyde Park - Chicago Openhouse 
+Keep these lists handy for doing a proper bike tour of these neighborhoods.    
+Scroll down at each link for "explore like a local" restaurant and amenities in Hyde Park, Pilsen, et al.     
+[Hyde Park](https://www.architecture.org/open-house-chicago/neighborhoods/rec76GAebrV98M1qF)
+[Pilsen](https://www.architecture.org/open-house-chicago/neighborhoods/recC4Uhdkpefb5e6A)
+[Pullman](https://www.architecture.org/open-house-chicago/neighborhoods/recQl5Mkaz2FlUayy)
+[South of the Loop](https://www.architecture.org/open-house-chicago/neighborhoods/recduvYbJnBEoveRz)
+[Ukranian Village](https://www.architecture.org/open-house-chicago/neighborhoods/recNhvhagUibUVJLZ)
+[Rogers Park](https://www.architecture.org/open-house-chicago/neighborhoods/recTZm2RazNASv2tf)
