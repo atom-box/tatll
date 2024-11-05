@@ -187,6 +187,11 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/posts/matomo-data-object-in-tag-manager/</loc>
+    <lastmod>2022-03-28</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/error-messages-for-matomo-1/</loc>
     <lastmod>2022-04-03</lastmod>
   </url>
@@ -352,6 +357,31 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/linux/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/activism/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/efficiency/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/web-analytics/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
@@ -362,27 +392,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/books/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/drupal/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/linux/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -392,12 +402,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/hacktoberfest/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <loc>https://tatll.me/tags/drupal/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -417,12 +422,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/activism/</loc>
+    <loc>https://tatll.me/tags/sql/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/sql/</loc>
+    <loc>https://tatll.me/tags/hacktoberfest/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -507,7 +512,22 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/posts/booknotes-never-split-the-difference-chris-voss/</loc>
+    <lastmod>2024-10-18</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/travel-things-to-do-in-chicago/</loc>
     <lastmod>2024-10-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/booknotes-Manage-Emotions-At-Work/</loc>
+    <lastmod>2024-10-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/booknotes-poverty%20by%20america/</loc>
+    <lastmod>2024-10-23</lastmod>
   </url>
 </urlset>

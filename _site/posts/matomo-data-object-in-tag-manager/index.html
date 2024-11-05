@@ -1,0 +1,99 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  The Data Object</title>
+    <meta name="description" content="Welcome to the official website of Evan Genest. Discover his work, biography, and insights into his projects and personal life. This exact page is about the following... Matomo Tag Manager, Javascript objects, customize matomo for Ecommerce, Google Ads">
+    <meta name="keywords" content="Evan Genest, biography, projects, work, personal website, portfolio, blog, about Evan Genest">
+    <meta name="author" content="Evan Genest">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>These are notes to myself. If you discover them and find them useful I would love to hear from you. Most of these are related to travel I did, books I read, or tech notes for Matomo and the LAMP stack.</p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>The Data Object</h1>
+
+<time datetime="2022-03-28">28 Mar 2022</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a>
+
+<h2 id="the-object" tabindex="-1">The object <a class="direct-link" href="#the-object" aria-hidden="true">#</a></h2>
+<p>In Matomo, the data layer is a Javascript object named <code>_mtm</code>.</p>
+<p>This object is used to store and push data for tracking purposes, similar to how other analytics platforms (like Google Tag Manager) utilize a data layer.</p>
+<p>By pushing information into the _mtm object, you can pass various data points to Matomo for tracking user interactions, events, and custom variables.</p>
+<p>Here is an example of the code you would use to interact with the _mtm object in Matomo:</p>
+<pre class="language-javascript"><code class="language-javascript">_mtm<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span> <span class="token string-property property">'event'</span><span class="token operator">:</span> <span class="token string">'customEventName'</span><span class="token punctuation">,</span> <span class="token string-property property">'customVariable'</span><span class="token operator">:</span> <span class="token string">'customValue'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>
+<p>Matomo Tag Manager automatically syncs this _mtm object with the gtm data layer object. However if you do not want this to happen, you can turn it off. In the admin settings of Matomo there is a checkbox to do that.</p>
+<h2 id="the-structure-of-the-mtm-object" tabindex="-1">The structure of the MTM Object <a class="direct-link" href="#the-structure-of-the-mtm-object" aria-hidden="true">#</a></h2>
+<p>I tried to see the object by opening the browser &gt;&gt; devtools &gt;&gt; console. It showed me that <code>_mtm</code> contains this:</p>
+<pre class="language-javascript"><code class="language-javascript"><span class="token punctuation">[</span><br>  <span class="token punctuation">{</span><br>    <span class="token string-property property">"mtm.startTime"</span><span class="token operator">:</span> <span class="token number">1730805033367</span><span class="token punctuation">,</span><br>    <span class="token string-property property">"event"</span><span class="token operator">:</span> <span class="token string">"mtm.Start"</span><br>  <span class="token punctuation">}</span><span class="token punctuation">,</span><br>  <span class="token punctuation">{</span><br>    <span class="token string-property property">"mtm.startTime"</span><span class="token operator">:</span> <span class="token number">1730805033368</span><span class="token punctuation">,</span><br>    <span class="token string-property property">"event"</span><span class="token operator">:</span> <span class="token string">"mtm.Start"</span><br>  <span class="token punctuation">}</span><br><span class="token punctuation">]</span></code></pre>
+<p>When I asked the console to show _mtm, it returned the following, which looks weird to me because</p>
+<ul>
+<li>it's an array, with two objects</li>
+<li>they're one second apart but the second one probably overwrites the first one</li>
+</ul>
+<p>I honestly don't know the answer. I can say that I got it fro a page that has TWO containers. Maybe that Matomo puts the object in an array and that allows there to be multiple containers?  I do know that we get a few emails from folks who organizer their tags by making 2, 3, even 7 containers per page. Maybe an array is how Matomo stores those.</p>
+<h2 id="what-are-examples-of-allowed-values" tabindex="-1">What are examples of allowed values? <a class="direct-link" href="#what-are-examples-of-allowed-values" aria-hidden="true">#</a></h2>
+<p>Here again is a typical script you  might use:</p>
+<pre class="language-javascript"><code class="language-javascript">_mtm<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span> <span class="token string-property property">'event'</span><span class="token operator">:</span> <span class="token string">'customEventName'</span><span class="token punctuation">,</span> <span class="token string-property property">'customVariable'</span><span class="token operator">:</span> <span class="token string">'customValue'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>
+<p>The allowed values for properties like 'event' and custom properties such as 'customVariable' can be strings, numbers, or even complex objects depending on what you want to track.</p>
+<ol>
+<li>Event Tracking ('event' key):</li>
+</ol>
+<ul>
+<li>Page Interaction Events: click, formSubmit, videoPlay, scroll, etc.</li>
+<li>Custom Events: Any custom name you want to give, like productView, newsletterSignup, downloadFile, etc.</li>
+</ul>
+<pre class="language-javascript"><code class="language-javascript"><br>_mtm<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span> <span class="token string-property property">'event'</span><span class="token operator">:</span> <span class="token string">'click'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span><br>_mtm<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span> <span class="token string-property property">'event'</span><span class="token operator">:</span> <span class="token string">'newsletterSignup'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>
+<ol start="2">
+<li>Custom Variables or Dimensions ('customVariable', 'customDimension', etc.):</li>
+</ol>
+<ul>
+<li>Strings: Typically used for names, categories, or text-based values like userType, productCategory, or campaignName.</li>
+<li>Numbers: Useful for quantities, scores, or order totals, such as orderValue, pageDepth, or productQuantity.</li>
+<li>Booleans: Useful for true/false states, like isLoggedIn, isSubscribed, or isFirstVisit.</li>
+<li>Nested Objects or Arrays: For passing more complex data structures when you need multiple properties grouped together.</li>
+</ul>
+<pre class="language-javascript"><code class="language-javascript">_mtm<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span><br>    <span class="token string-property property">'event'</span><span class="token operator">:</span> <span class="token string">'productView'</span><span class="token punctuation">,</span><br>    <span class="token string-property property">'productID'</span><span class="token operator">:</span> <span class="token string">'12345'</span><span class="token punctuation">,</span><br>    <span class="token string-property property">'productCategory'</span><span class="token operator">:</span> <span class="token string">'Electronics'</span><span class="token punctuation">,</span><br>    <span class="token string-property property">'orderValue'</span><span class="token operator">:</span> <span class="token number">299.99</span><span class="token punctuation">,</span><br>    <span class="token string-property property">'isSale'</span><span class="token operator">:</span> <span class="token boolean">true</span><br><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span><br><br>_mtm<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span><br>    <span class="token string-property property">'event'</span><span class="token operator">:</span> <span class="token string">'pageScroll'</span><span class="token punctuation">,</span><br>    <span class="token string-property property">'scrollDepth'</span><span class="token operator">:</span> <span class="token number">50</span><span class="token punctuation">,</span><br>    <span class="token string-property property">'pageSection'</span><span class="token operator">:</span> <span class="token string">'Reviews'</span><br><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>
+
+<hr>
+<ul><li>Next: <a href="/posts/error-messages-for-matomo-1/">Matomo Error Messages, A General Introduction</a></li><li>Previous: <a href="/posts/how-to-snorkel-in-Key-Largo-while tent-camping-in-the-Everglades/">How to do Snorkeling and Tent Camping in Key Largo and the Everglades</a></li>
+</ul>
+
+    </main>
+
+    <footer>
+        <p><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a></p>.
+    </footer>
+
+    <!-- Current page: /posts/matomo-data-object-in-tag-manager/ -->
+  </body>
+</html>
