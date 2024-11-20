@@ -1,0 +1,110 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  Troubleshooting Matomo</title>
+    <meta name="description" content="Welcome to the official website of Evan Genest. Discover his work, biography, and insights into his projects and personal life. This exact page is about the following... Matomo Tag Manager, troubleshooting matomo, devtools network console">
+    <meta name="keywords" content="Evan Genest, biography, projects, work, personal website, portfolio, blog, about Evan Genest">
+    <meta name="author" content="Evan Genest">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+<!-- Matomo 1234-->
+<script src="/css/matomoscript.js"></script>
+<!-- End Matomo Code 1234-->
+
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>These are notes to myself. If you discover them and find them useful I would love to hear from you. Most of these are related to travel I did, books I read, or tech notes for Matomo and the LAMP stack.</p>
+        </em> <br/>Browse my topics 
+       <a href="https://tatll.me/tags/">here</a> </p>
+        
+      </div>
+      <!-- Stop deleting -->
+
+      <h1>Troubleshooting Matomo</h1>
+
+<time datetime="2024-11-11">11 Nov 2024</time><a href="/tags/web-analytics/" class="post-tag">web analytics</a><a href="/tags/matomo/" class="post-tag">matomo</a>
+
+<h2 id="matthieu-talk" tabindex="-1">Matthieu talk <a class="direct-link" href="#matthieu-talk" aria-hidden="true">#</a></h2>
+<p><a href="https://pikl.us/ryrbox21">Matthieu Aubry State of the Innocraft</a></p>
+<p>Our pillars:</p>
+<ol>
+<li>Comprehensive</li>
+<li>Intuitive. Should &quot;just work&quot; out of the box. Work for everyone no matter their expertise.<br>
+This will be the 2025 feel - two UX engineers hiring.</li>
+<li>Private. Secure. We really have no idea what's in your Matomo server.</li>
+<li>Will remain opensource.</li>
+</ol>
+<h2 id="the-founder's-corner" tabindex="-1">The Founder's Corner <a class="direct-link" href="#the-founder's-corner" aria-hidden="true">#</a></h2>
+<p>Enterprise-proven platform. Stable, integratable, meets the needs of large organizations.<br>
+Flexible, through the APIs.</p>
+<p>The future.<br>
+Launching a strategy advisory board.</p>
+<h2 id="ralph-talk-troubleshooting" tabindex="-1">Ralph Talk Troubleshooting <a class="direct-link" href="#ralph-talk-troubleshooting" aria-hidden="true">#</a></h2>
+<p><a href="https://pikl.us/zekval95">Start at 48:00</a></p>
+<h3 id="introductiono-to-six-types-of-troubleshooting-for-matomo-cloud-support-team" tabindex="-1">Introductiono to six types of troubleshooting for Matomo Cloud Support Team <a class="direct-link" href="#introductiono-to-six-types-of-troubleshooting-for-matomo-cloud-support-team" aria-hidden="true">#</a></h3>
+<ul>
+<li>Javascript issues</li>
+<li>double tracking</li>
+<li>tracking code mistakes</li>
+<li>mixing On Premises when they come over to Cloud</li>
+<li>MTM issues: wrong config</li>
+<li>Consent Management Issues (CMP)</li>
+</ul>
+<h3 id="doubletracking" tabindex="-1">Doubletracking <a class="direct-link" href="#doubletracking" aria-hidden="true">#</a></h3>
+<p>What does double tracking look like: in Visits Log will see the spiral 2x in front of each line.  As opposed to yu don't see a split visit.<br>
+More confusing is when only some pages double track. That will look less obvious.</p>
+<h3 id="console-errors" tabindex="-1">Console errors <a class="direct-link" href="#console-errors" aria-hidden="true">#</a></h3>
+<p>Function name is not recognized. Regular expression invalid in MTM sometimes.</p>
+<h3 id="network-tab-http-response-codes" tabindex="-1">Network tab HTTP response codes <a class="direct-link" href="#network-tab-http-response-codes" aria-hidden="true">#</a></h3>
+<p>400 for his example. He looks at the property: value pairs.  His 400 was caused by idsite: 18, for a server where no &quot;18&quot; is configured.</p>
+<h3 id="the-js-code" tabindex="-1">The JS Code <a class="direct-link" href="#the-js-code" aria-hidden="true">#</a></h3>
+<p>Look closely. The actual URLs in the Tracker JS is actually a weird URL or path is weird</p>
+<h3 id="the-payload" tabindex="-1">The Payload <a class="direct-link" href="#the-payload" aria-hidden="true">#</a></h3>
+<p>The parameter might not match. This is laborious detailed work. You have to look at what page your on. Then look at the parameter for page URL. Sometimes does not match.</p>
+<h3 id="mtm" tabindex="-1">MTM <a class="direct-link" href="#mtm" aria-hidden="true">#</a></h3>
+<p>Container: Folks will load a container that is not right container - including they might load the Staging container.<br>
+Or a container does not load. See that in devtools &gt;&gt; network</p>
+<h3 id="variables" tabindex="-1">Variables <a class="direct-link" href="#variables" aria-hidden="true">#</a></h3>
+<p>Folks will set up the variable wrong.<br>
+The tag itself: We recommend to hit Preview/Debug always.<br>
+And regresh the page cache to allow the new container to load: Shift + Reload.</p>
+<h3 id="cookies" tabindex="-1">Cookies <a class="direct-link" href="#cookies" aria-hidden="true">#</a></h3>
+<p>16digitsDOTepochtimestamp<br>
+This appears in the visitor profile, as the very first thing. (Find Visitor Profile by clicking a session in Visits log: Visitor Profile)<br>
+The Matomo cookie is the _pk_id<br>
+The reason to look for that cookie is so you can firmly connect what you see in the browser - - match it to the Visits log session.</p>
+
+<hr>
+<ul><li>Previous: <a href="/posts/booknotes-poverty by america/">What I learned from Poverty, By America</a></li>
+</ul>
+
+    </main>
+
+    <footer>
+        <p><br/>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a></p>.
+    </footer>
+
+    <!-- Current page: /posts/matomo-matomocamp-2024/ -->
+  </body>
+</html>

@@ -5,12 +5,69 @@
 	
 	<link href="https://tatll.me/feed/feed.xml" rel="self"/>
 	<link href="https://tatll.me/"/>
-	<updated>2024-10-23T00:00:00Z</updated>
+	<updated>2024-11-11T00:00:00Z</updated>
 	<id>https://tatll.me/</id>
 	<author>
 		<name>Evan Genest</name>
 		<email>genest.1@osu.edu</email>
 	</author>
+	
+	<entry>
+		<title>Troubleshooting Matomo</title>
+		<link href="https://tatll.me/posts/matomo-matomocamp-2024/"/>
+		<updated>2024-11-11T00:00:00Z</updated>
+		<id>https://tatll.me/posts/matomo-matomocamp-2024/</id>
+		<content type="html">&lt;h2 id=&quot;matthieu-talk&quot; tabindex=&quot;-1&quot;&gt;Matthieu talk &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#matthieu-talk&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://pikl.us/ryrbox21&quot;&gt;Matthieu Aubry State of the Innocraft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our pillars:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Comprehensive&lt;/li&gt;
+&lt;li&gt;Intuitive. Should &amp;quot;just work&amp;quot; out of the box. Work for everyone no matter their expertise.&lt;br /&gt;
+This will be the 2025 feel - two UX engineers hiring.&lt;/li&gt;
+&lt;li&gt;Private. Secure. We really have no idea what&#39;s in your Matomo server.&lt;/li&gt;
+&lt;li&gt;Will remain opensource.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;the-founder&#39;s-corner&quot; tabindex=&quot;-1&quot;&gt;The Founder&#39;s Corner &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#the-founder&#39;s-corner&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Enterprise-proven platform. Stable, integratable, meets the needs of large organizations.&lt;br /&gt;
+Flexible, through the APIs.&lt;/p&gt;
+&lt;p&gt;The future.&lt;br /&gt;
+Launching a strategy advisory board.&lt;/p&gt;
+&lt;h2 id=&quot;ralph-talk-troubleshooting&quot; tabindex=&quot;-1&quot;&gt;Ralph Talk Troubleshooting &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#ralph-talk-troubleshooting&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://pikl.us/zekval95&quot;&gt;Start at 48:00&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;introductiono-to-six-types-of-troubleshooting-for-matomo-cloud-support-team&quot; tabindex=&quot;-1&quot;&gt;Introductiono to six types of troubleshooting for Matomo Cloud Support Team &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#introductiono-to-six-types-of-troubleshooting-for-matomo-cloud-support-team&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Javascript issues&lt;/li&gt;
+&lt;li&gt;double tracking&lt;/li&gt;
+&lt;li&gt;tracking code mistakes&lt;/li&gt;
+&lt;li&gt;mixing On Premises when they come over to Cloud&lt;/li&gt;
+&lt;li&gt;MTM issues: wrong config&lt;/li&gt;
+&lt;li&gt;Consent Management Issues (CMP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;doubletracking&quot; tabindex=&quot;-1&quot;&gt;Doubletracking &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#doubletracking&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;What does double tracking look like: in Visits Log will see the spiral 2x in front of each line.  As opposed to yu don&#39;t see a split visit.&lt;br /&gt;
+More confusing is when only some pages double track. That will look less obvious.&lt;/p&gt;
+&lt;h3 id=&quot;console-errors&quot; tabindex=&quot;-1&quot;&gt;Console errors &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#console-errors&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Function name is not recognized. Regular expression invalid in MTM sometimes.&lt;/p&gt;
+&lt;h3 id=&quot;network-tab-http-response-codes&quot; tabindex=&quot;-1&quot;&gt;Network tab HTTP response codes &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#network-tab-http-response-codes&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;400 for his example. He looks at the property: value pairs.  His 400 was caused by idsite: 18, for a server where no &amp;quot;18&amp;quot; is configured.&lt;/p&gt;
+&lt;h3 id=&quot;the-js-code&quot; tabindex=&quot;-1&quot;&gt;The JS Code &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#the-js-code&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Look closely. The actual URLs in the Tracker JS is actually a weird URL or path is weird&lt;/p&gt;
+&lt;h3 id=&quot;the-payload&quot; tabindex=&quot;-1&quot;&gt;The Payload &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#the-payload&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The parameter might not match. This is laborious detailed work. You have to look at what page your on. Then look at the parameter for page URL. Sometimes does not match.&lt;/p&gt;
+&lt;h3 id=&quot;mtm&quot; tabindex=&quot;-1&quot;&gt;MTM &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#mtm&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Container: Folks will load a container that is not right container - including they might load the Staging container.&lt;br /&gt;
+Or a container does not load. See that in devtools &amp;gt;&amp;gt; network&lt;/p&gt;
+&lt;h3 id=&quot;variables&quot; tabindex=&quot;-1&quot;&gt;Variables &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#variables&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Folks will set up the variable wrong.&lt;br /&gt;
+The tag itself: We recommend to hit Preview/Debug always.&lt;br /&gt;
+And regresh the page cache to allow the new container to load: Shift + Reload.&lt;/p&gt;
+&lt;h3 id=&quot;cookies&quot; tabindex=&quot;-1&quot;&gt;Cookies &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-matomocamp-2024/#cookies&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;16digitsDOTepochtimestamp&lt;br /&gt;
+This appears in the visitor profile, as the very first thing. (Find Visitor Profile by clicking a session in Visits log: Visitor Profile)&lt;br /&gt;
+The Matomo cookie is the _pk_id&lt;br /&gt;
+The reason to look for that cookie is so you can firmly connect what you see in the browser - - match it to the Visits log session.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>What I learned from Poverty, By America</title>
@@ -1800,6 +1857,52 @@ and checkout dive here quickly with a private instructor.&lt;/p&gt;
 	</entry>
 	
 	<entry>
+		<title>The Data Object</title>
+		<link href="https://tatll.me/posts/matomo-data-object-in-tag-manager/"/>
+		<updated>2023-03-28T00:00:00Z</updated>
+		<id>https://tatll.me/posts/matomo-data-object-in-tag-manager/</id>
+		<content type="html">&lt;h2 id=&quot;the-object&quot; tabindex=&quot;-1&quot;&gt;The object &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-data-object-in-tag-manager/#the-object&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In Matomo, the data layer is a Javascript object named &lt;code&gt;_mtm&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;This object is used to store and push data for tracking purposes, similar to how other analytics platforms (like Google Tag Manager) utilize a data layer.&lt;/p&gt;
+&lt;p&gt;By pushing information into the _mtm object, you can pass various data points to Matomo for tracking user interactions, events, and custom variables.&lt;/p&gt;
+&lt;p&gt;Here is an example of the code you would use to interact with the _mtm object in Matomo:&lt;/p&gt;
+&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customEventName&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;customVariable&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customValue&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Matomo Tag Manager automatically syncs this _mtm object with the gtm data layer object. However if you do not want this to happen, you can turn it off. In the admin settings of Matomo there is a checkbox to do that.&lt;/p&gt;
+&lt;h2 id=&quot;the-structure-of-the-mtm-object&quot; tabindex=&quot;-1&quot;&gt;The structure of the MTM Object &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-data-object-in-tag-manager/#the-structure-of-the-mtm-object&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I tried to see the object by opening the browser &amp;gt;&amp;gt; devtools &amp;gt;&amp;gt; console. It showed me that &lt;code&gt;_mtm&lt;/code&gt; contains this:&lt;/p&gt;
+&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;mtm.startTime&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1730805033367&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;event&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mtm.Start&quot;&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;mtm.startTime&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1730805033368&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;event&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mtm.Start&quot;&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When I asked the console to show _mtm, it returned the following, which looks weird to me because&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it&#39;s an array, with two objects&lt;/li&gt;
+&lt;li&gt;they&#39;re one second apart but the second one probably overwrites the first one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I honestly don&#39;t know the answer. I can say that I got it fro a page that has TWO containers. Maybe that Matomo puts the object in an array and that allows there to be multiple containers?  I do know that we get a few emails from folks who organizer their tags by making 2, 3, even 7 containers per page. Maybe an array is how Matomo stores those.&lt;/p&gt;
+&lt;h2 id=&quot;what-are-examples-of-allowed-values&quot; tabindex=&quot;-1&quot;&gt;What are examples of allowed values? &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-data-object-in-tag-manager/#what-are-examples-of-allowed-values&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Here again is a typical script you  might use:&lt;/p&gt;
+&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customEventName&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;customVariable&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customValue&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The allowed values for properties like &#39;event&#39; and custom properties such as &#39;customVariable&#39; can be strings, numbers, or even complex objects depending on what you want to track.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Event Tracking (&#39;event&#39; key):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Page Interaction Events: click, formSubmit, videoPlay, scroll, etc.&lt;/li&gt;
+&lt;li&gt;Custom Events: Any custom name you want to give, like productView, newsletterSignup, downloadFile, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;br /&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;click&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;newsletterSignup&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Custom Variables or Dimensions (&#39;customVariable&#39;, &#39;customDimension&#39;, etc.):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Strings: Typically used for names, categories, or text-based values like userType, productCategory, or campaignName.&lt;/li&gt;
+&lt;li&gt;Numbers: Useful for quantities, scores, or order totals, such as orderValue, pageDepth, or productQuantity.&lt;/li&gt;
+&lt;li&gt;Booleans: Useful for true/false states, like isLoggedIn, isSubscribed, or isFirstVisit.&lt;/li&gt;
+&lt;li&gt;Nested Objects or Arrays: For passing more complex data structures when you need multiple properties grouped together.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;productView&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;productID&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;12345&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;productCategory&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;Electronics&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;orderValue&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;299.99&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;isSale&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;pageScroll&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;scrollDepth&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;pageSection&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;Reviews&#39;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Just the Song Titles from Ani DiFranco No Walls</title>
 		<link href="https://tatll.me/posts/booknotes-No-Walls-Ani-DiFranco/"/>
 		<updated>2023-03-01T00:00:00Z</updated>
@@ -2498,52 +2601,6 @@ This was also solved when the interface suggested I use&lt;/li&gt;
 This is the classic one we receive once a day at work in Contact Matomo inbox.&lt;br /&gt;
 Solve with &lt;code&gt;$ sudo chown -R www-data:www-data /var/www/littlefurnace.com/matomo/tmp/*&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>The Data Object</title>
-		<link href="https://tatll.me/posts/matomo-data-object-in-tag-manager/"/>
-		<updated>2022-03-28T00:00:00Z</updated>
-		<id>https://tatll.me/posts/matomo-data-object-in-tag-manager/</id>
-		<content type="html">&lt;h2 id=&quot;the-object&quot; tabindex=&quot;-1&quot;&gt;The object &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-data-object-in-tag-manager/#the-object&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;In Matomo, the data layer is a Javascript object named &lt;code&gt;_mtm&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;This object is used to store and push data for tracking purposes, similar to how other analytics platforms (like Google Tag Manager) utilize a data layer.&lt;/p&gt;
-&lt;p&gt;By pushing information into the _mtm object, you can pass various data points to Matomo for tracking user interactions, events, and custom variables.&lt;/p&gt;
-&lt;p&gt;Here is an example of the code you would use to interact with the _mtm object in Matomo:&lt;/p&gt;
-&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customEventName&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;customVariable&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customValue&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Matomo Tag Manager automatically syncs this _mtm object with the gtm data layer object. However if you do not want this to happen, you can turn it off. In the admin settings of Matomo there is a checkbox to do that.&lt;/p&gt;
-&lt;h2 id=&quot;the-structure-of-the-mtm-object&quot; tabindex=&quot;-1&quot;&gt;The structure of the MTM Object &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-data-object-in-tag-manager/#the-structure-of-the-mtm-object&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I tried to see the object by opening the browser &amp;gt;&amp;gt; devtools &amp;gt;&amp;gt; console. It showed me that &lt;code&gt;_mtm&lt;/code&gt; contains this:&lt;/p&gt;
-&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;mtm.startTime&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1730805033367&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;event&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mtm.Start&quot;&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;mtm.startTime&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1730805033368&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&quot;event&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;mtm.Start&quot;&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;When I asked the console to show _mtm, it returned the following, which looks weird to me because&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;it&#39;s an array, with two objects&lt;/li&gt;
-&lt;li&gt;they&#39;re one second apart but the second one probably overwrites the first one&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I honestly don&#39;t know the answer. I can say that I got it fro a page that has TWO containers. Maybe that Matomo puts the object in an array and that allows there to be multiple containers?  I do know that we get a few emails from folks who organizer their tags by making 2, 3, even 7 containers per page. Maybe an array is how Matomo stores those.&lt;/p&gt;
-&lt;h2 id=&quot;what-are-examples-of-allowed-values&quot; tabindex=&quot;-1&quot;&gt;What are examples of allowed values? &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/matomo-data-object-in-tag-manager/#what-are-examples-of-allowed-values&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Here again is a typical script you  might use:&lt;/p&gt;
-&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customEventName&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;customVariable&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;customValue&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The allowed values for properties like &#39;event&#39; and custom properties such as &#39;customVariable&#39; can be strings, numbers, or even complex objects depending on what you want to track.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Event Tracking (&#39;event&#39; key):&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Page Interaction Events: click, formSubmit, videoPlay, scroll, etc.&lt;/li&gt;
-&lt;li&gt;Custom Events: Any custom name you want to give, like productView, newsletterSignup, downloadFile, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;br /&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;click&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;newsletterSignup&#39;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;Custom Variables or Dimensions (&#39;customVariable&#39;, &#39;customDimension&#39;, etc.):&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Strings: Typically used for names, categories, or text-based values like userType, productCategory, or campaignName.&lt;/li&gt;
-&lt;li&gt;Numbers: Useful for quantities, scores, or order totals, such as orderValue, pageDepth, or productQuantity.&lt;/li&gt;
-&lt;li&gt;Booleans: Useful for true/false states, like isLoggedIn, isSubscribed, or isFirstVisit.&lt;/li&gt;
-&lt;li&gt;Nested Objects or Arrays: For passing more complex data structures when you need multiple properties grouped together.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;productView&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;productID&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;12345&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;productCategory&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;Electronics&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;orderValue&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;299.99&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;isSale&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;_mtm&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;event&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;pageScroll&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;scrollDepth&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;    &lt;span class=&quot;token string-property property&quot;&gt;&#39;pageSection&#39;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&#39;Reviews&#39;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
 	</entry>
 	

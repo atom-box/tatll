@@ -1,9 +1,10 @@
 ---
 title: The Data Object
 description: Matomo Tag Manager, Javascript objects, customize matomo for Ecommerce, Google Ads 
-date: 2022-03-28
+date: 2023-03-28
 tags:
   - web analytics
+  - matomo
 layout: layouts/post.njk
 ---
 
