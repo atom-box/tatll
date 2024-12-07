@@ -1,6 +1,6 @@
 ---
 title:  Matomo Tag Manager How to set up
-description: Foo bar baz.
+description: Matomo, web analytics, data software, New Zealand.
 date: 2023-01-13
 tags:
   - web analytics

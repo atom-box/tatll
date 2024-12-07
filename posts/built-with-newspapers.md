@@ -1,6 +1,6 @@
 ---
 title: Newspapers Have to Make Money Somehow
-description: foo bar and baz
+description: Cookies and martech
 date: 2022-02-02
 tags:
   - web analytics

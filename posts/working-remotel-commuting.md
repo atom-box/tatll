@@ -1,6 +1,6 @@
 ---
 title: Working Remotely - Commuting
-description: Foo bar baz.
+description: Exercising when working, work-life balance, ageing in place
 date: 2024-11-12
 tags:
   - efficiency
@@ -8,9 +8,15 @@ layout: layouts/post.njk
 ---
 
 ## Introduction
-When your place of work is outside of your home, the physical movement from home to work is called commuting. But what if your office and bedroom are 10 feet away from each other? Or are in fact the same room?
+When your place of work is outside of your home, the physical movement from home to work is called commuting. But what if your workplace and bedroom are 10 feet away from each other? Or are in fact the same room?
   
-In that case, it is still important to commute. And I can tell you why. 
+In that case, it is still important to commute. And I can tell you why and how. 
+
+## How
+The commute is circular or semi-circular if your work from home. If you and your partner both work from home, you can bookend the day with a neighborhood loop on foot or on bikes to a light errand, such as buying milk or to the bakery.
+
+A semicircular commute when working from home can be to walk to a cafe, McDonalds, or library for the morning, bringing your laptop.  I have even done fine Zoom meetings at those places, using cheap noise cancelling headphones (30USD). 
+
 
 ## Partner Time
 Walking while both facing forward is like time spent in a car. The conversation is different. If you or your partner are male, you might really know what I mean with this one. It's a different kind of conversation.

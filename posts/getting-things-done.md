@@ -1,6 +1,6 @@
 ---
 title: Getting Things Done
-description: Foo bar baz.
+description: Time management, Getting Things Done, Lists.
 date: 2022-01-12
 tags:
   - efficiency

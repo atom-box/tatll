@@ -1,6 +1,6 @@
 ---
 title:  What I Learned From - Recapture the American Spirit
-description: Foo bar baz.
+description: Senators, democrats, Tim Ryan
 date: 2023-01-12
 tags:
   - books
