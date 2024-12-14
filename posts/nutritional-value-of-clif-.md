@@ -4,6 +4,8 @@ description: Reading labels on some bars I started eating
 date: 2021-09-14
 tags:
   - efficiency
+  - fitness
+  
 layout: layouts/post.njk
 ---
 

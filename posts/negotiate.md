@@ -3,7 +3,7 @@ title: What I learned from Never Split the Difference
 description: Negotiating, canvassing, listening, facilitating
 date: 2024-10-18
 tags:
-  - activism
+  - meetings
 layout: layouts/post.njk
 ---
 ## The Book

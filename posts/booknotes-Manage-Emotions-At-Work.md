@@ -3,7 +3,7 @@ title: The Right Way to Manage Emotions at Work
 description: emotions, management, Harvard Business Review, HBR Podcast
 date: 2024-10-22
 tags:
-  - activism
+  - meetings
 layout: layouts/post.njk
 ---
 ## The Episode
