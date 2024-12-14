@@ -4,6 +4,7 @@ description:  Announcement for a new online book club forming
 date: 2024-12-14
 tags:
   - books
+  - gang 
 layout: layouts/post.njk
 ---
 
