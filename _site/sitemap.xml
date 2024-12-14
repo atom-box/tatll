@@ -192,12 +192,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/booknotes-medicare-for-dummies/</loc>
+    <loc>https://tatll.me/posts/medicare/</loc>
     <lastmod>2022-09-01</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/booknotes-reconstruction-by-allen-c-guelzo/</loc>
+    <loc>https://tatll.me/posts/reconstruction/</loc>
     <lastmod>2022-09-27</lastmod>
   </url>
   
@@ -247,7 +247,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/booknotes-chronicle-of-the-lodz-ghetto/</loc>
+    <loc>https://tatll.me/posts/lodz/</loc>
     <lastmod>2023-01-04</lastmod>
   </url>
   
@@ -267,7 +267,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/booknotes-How-to-be-fearless-by-Jessica-Hagy/</loc>
+    <loc>https://tatll.me/posts/fearless/</loc>
     <lastmod>2023-01-18</lastmod>
   </url>
   
@@ -357,42 +357,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/books/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/drupal/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/linux/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -402,12 +367,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
+    <loc>https://tatll.me/tags/books/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -417,12 +377,52 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/activism/</loc>
+    <loc>https://tatll.me/tags/fitness/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/sql/</loc>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/efficiency/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/linux/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/jobs/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/drupal/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/meetings/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/activism/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -432,7 +432,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/booknotes-The%20Subtle%20Art/</loc>
+    <loc>https://tatll.me/tags/sql/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/kcuf/</loc>
     <lastmod>2023-12-10</lastmod>
   </url>
   
@@ -482,6 +487,11 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/posts/booknotes-Manage-Emotions-At-Work%20copy/</loc>
+    <lastmod>2024-07-22</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/Coursera-GenerativeAIforEveryone/</loc>
     <lastmod>2024-09-05</lastmod>
   </url>
@@ -507,7 +517,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/booknotes-how-to-know-another-person-brooks/</loc>
+    <loc>https://tatll.me/posts/brooks/</loc>
     <lastmod>2024-09-26</lastmod>
   </url>
   
@@ -517,7 +527,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/booknotes-never-split-the-difference-chris-voss/</loc>
+    <loc>https://tatll.me/posts/negotiate/</loc>
     <lastmod>2024-10-18</lastmod>
   </url>
   
@@ -544,5 +554,25 @@
   <url>
     <loc>https://tatll.me/posts/working-remotel-commuting/</loc>
     <lastmod>2024-11-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/productivity-actionables/</loc>
+    <lastmod>2024-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/meetings-icebreakers/</loc>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/booknotes-louise-ehrdrichs-booklist-tookie-miigwech/</loc>
+    <lastmod>2024-12-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/book/</loc>
+    <lastmod>2024-12-14</lastmod>
   </url>
 </urlset>

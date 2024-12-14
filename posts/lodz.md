@@ -1,6 +1,6 @@
 ---
 title: What I Learned from Reading Chronicle of the Lodz Ghetto
-description:
+description: fascism, murder
 date: 2023-01-04
 tags:
   - books
