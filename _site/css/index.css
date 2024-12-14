@@ -250,4 +250,5 @@ a[href].direct-link:focus:visited,
 
 .hackborder {
   margin: 12em;
+  border: 5px solid red;
 }
