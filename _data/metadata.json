@@ -2,7 +2,7 @@
   "title": "Evan Genest's Learning Log",
   "url": "https://tatll.me/",
   "language": "en",
-  "description": "These are notes to myself. If you discover them and find them useful I would love to hear from you. Most of these are related to travel I did, books I read, or tech notes for Matomo and the LAMP stack.",
+  "description": "These are notes to myself.",
   "feed": {
     "subtitle": "Try again; fail better!",
     "filename": "feed.xml",
