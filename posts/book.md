@@ -7,19 +7,18 @@ tags:
   - gang 
 layout: layouts/post.njk
 ---
+   
+## The Idea  
+We could try reading one short story from The Penguin Book of the Modern American Short Story.  
 
-## Where    
-The meeting platform will open in any web browser using a free, encrypted platform called Brave Talk. 
-[LINK]( https://pikl.us/catdec01)
-    
-## What  
-We are reading a short story per month from The Penguin Book of the Modern American Short Story.  
+For example, we could read the short story by Raymond Carver. 
 
-If you want to try this, our first meeting could be to discuss the short story by Raymond Carver. 
-
-## Day
+## The Day
 Would any of these days work:
 December 20, 21, 26, 27?
   
-I made a doodle poll for available time at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
+If you want to put in a time that works for you, here's a doodle poll for available time at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
 
+## Where    
+The meeting platform opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
+[LINK]( https://pikl.us/catdec01)
