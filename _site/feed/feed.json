@@ -4,7 +4,7 @@
   "language": "en",
   "home_page_url": "https://tatll.me/",
   "feed_url": "https://tatll.me/feed/feed.json",
-  "description": "These are notes I am organizing in Eleventy. Most of these are related to travel, work, or books.",
+  "description": "I keep notes here. Most of these are related to travel, work, or books.",
   "author": {
     "name": "Evan Genest",
     "url": "https://littlefurnace.com/"
