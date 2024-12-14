@@ -2,7 +2,7 @@
   "title": "Evan Genest's Learning Log",
   "url": "https://tatll.me/",
   "language": "en",
-  "description": "These are notes to myself.",
+  "description": "These are notes I am organizing in Eleventy. Most of these are related to travel, work, or books.",
   "feed": {
     "subtitle": "Try again; fail better!",
     "filename": "feed.xml",
