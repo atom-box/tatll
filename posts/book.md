@@ -21,5 +21,5 @@ If you want to try this, our first meeting could be to discuss the short story b
 Would any of these days work:
 December 20, 21, 26, 27?
   
-I made a doodle poll for available time at Crab Fit: [](https://crab.fit/gang-penguinshortstories-book-club-384763)
+I made a doodle poll for available time at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
 
