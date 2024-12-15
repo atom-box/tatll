@@ -1,5 +1,5 @@
 ---
-title:  Penguin Anthology of Short Stories - the book club   
+title:  The Short Stories Book Club   
 description:  Announcement for a new online book club forming  
 date: 2024-12-14
 tags:
@@ -7,18 +7,49 @@ tags:
   - gang 
 layout: layouts/post.njk
 ---
-   
-## The Idea  
-We could try reading one short story from The Penguin Book of the Modern American Short Story.  
-
-For example, we could read the short story by Raymond Carver. 
-
-## The Day
-Would any of these days work:
-December 20, 21, 26, 27?
+## Introduction
   
-If you want to put in a time that works for you, here's a doodle poll for available time at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
+This micro-book-club meets once per month. To save time, we don't discuss books, we discuss short stories. Please read one or both of the short stories for that month and then come to the online call to discuss them.  
+  
+It's private: invitation-only. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
 
-## Where    
+## Upcoming meetings
+### December
+From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Raymond Carver__ and __Lauren Groff__.
+ 
+We haven't settled on a day in Decem ber to meet.  Would any of these days work?
+December 20, 21, 26, 27?  
+  
+Please vote which times would work for you at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
+
+My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the meeting. 
+
+### Call link for the December meeting    
 The meeting platform opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
-[LINK]( https://pikl.us/catdec01)
+[LINK]( https://pikl.us/catdec01). I encourage you to click this link now, to see how easily it works.  It works on phone or desktop.
+
+### January 
+From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Louise Erdrich__ and __Stuart Dybek__.
+
+Please vote for your days/time preference at [Crab Fit](https://crab.fit/january2025-penguinshortstories-790710)
+
+My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the meeting. 
+
+### Call link for the January meeting    
+The meeting platform opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
+I will post the meeting link one week before the meeting.
+
+
+## How to get the book
+This book is widely available. My local library has several copies.  
+  
+It's available as an ebook. 
+  
+### Book Details
+
+* 496 pages
+* Published May 4, 2021 by Penguin Press
+* ISBN	9781984877802 (ISBN10: 1984877801)
+* ASIN	1984877801
+* The Penguin Book of the Modern American Short Story
+* John Freeman (Editor)
