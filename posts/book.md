@@ -13,43 +13,41 @@ This micro-book-club meets once per month. To save time, we don't discuss books,
   
 It's private: invitation-only. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
 
-## Upcoming meetings
-### December
-From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Raymond Carver__ and __Lauren Groff__.
- 
-We haven't settled on a day in Decem ber to meet.  Would any of these days work?
-December 20, 21, 26, 27?  
-  
-Please vote which times would work for you at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
-
-My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the meeting. 
-
-### Call link for the December meeting    
-The meeting platform opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
-[LINK]( https://pikl.us/catdec01). I encourage you to click this link now, to see how easily it works.  It works on phone or desktop.
-
-### January 
-From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Louise Erdrich__ and __Stuart Dybek__.
-
-Please vote for your days/time preference at [Crab Fit](https://crab.fit/january2025-penguinshortstories-790710)
-
-My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the meeting. 
-
-### Call link for the January meeting    
-The meeting platform opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
-I will post the meeting link one week before the meeting.
-
-
 ## How to get the book
-This book is widely available. My local library has several copies.  
-  
-It's available as an ebook. 
-  
-### Book Details
+The  The Penguin Book of the Modern American Short Story is widely available. My local library has several copies. It's also available as an ebook. 
 
 * 496 pages
 * Published May 4, 2021 by Penguin Press
 * ISBN	9781984877802 (ISBN10: 1984877801)
 * ASIN	1984877801
-* The Penguin Book of the Modern American Short Story
 * John Freeman (Editor)
+
+
+## Upcoming meetings
+### December
+#### Which stories
+From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Raymond Carver__ and __Lauren Groff__.
+ 
+#### Day and time
+We haven't settled on a day in Decem ber to meet.  Would any of these days work?
+December 20, 21, 26, 27?  
+  
+Please vote which times would work for you at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
+
+#### Questions?
+My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the meeting. 
+
+#### Call link for December    
+The meeting platform opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
+[LINK]( https://pikl.us/catdec01).   
+  
+I encourage you to click this link now, to see how easily it works.  It works on phone or desktop.
+
+### January 
+From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Louise Erdrich__ and __Stuart Dybek__.
+
+Please vote for your January days/time preference at [Crab Fit](https://crab.fit/january2025-penguinshortstories-790710)
+  
+Might just use the same call link as December.
+
+
