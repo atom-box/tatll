@@ -11,16 +11,7 @@ layout: layouts/post.njk
   
 This micro-book-club meets once per month. To save time, we don't discuss books, we discuss short stories. Please read one or both of the short stories for that month and then come to the online call to discuss them.  
   
-It's private: invitation-only. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
-
-## How to get the book
-The  The Penguin Book of the Modern American Short Story is widely available. My local library has several copies. It's also available as an ebook. 
-
-* 496 pages
-* Published May 4, 2021 by Penguin Press
-* ISBN	9781984877802 (ISBN10: 1984877801)
-* ASIN	1984877801
-* John Freeman (Editor)
+It's private: friends and friends of friends. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
 
 
 ## Upcoming meetings
@@ -34,8 +25,6 @@ December 20, 21, 26, 27?
   
 Please vote which times would work for you at [Crab Fit](https://crab.fit/gang-penguinshortstories-book-club-384763)
 
-#### Questions?
-My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the meeting. 
 
 #### Call link for December    
 The meeting platform opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
@@ -51,3 +40,14 @@ Please vote for your January days/time preference at [Crab Fit](https://crab.fit
 Might just use the same call link as December.
 
 
+## How to get the book
+The Penguin Book of the Modern American Short Story is widely available. My local library has several copies. It's also available as an ebook. 
+
+* 496 pages
+* Published May 4, 2021 by Penguin Press
+* ISBN	9781984877802 (ISBN10: 1984877801)
+* ASIN	1984877801
+* John Freeman (Editor)
+
+## Contact
+My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the December meeting. 
