@@ -7,5 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-Thanks for visiting my blog.  Do you have the inclination to write? I like to get email!
+Thanks for visiting my blog.  I will certainly write back. 
 My contact information is at [Little Furnace](https://littlefurnace.com)
