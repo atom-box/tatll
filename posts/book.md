@@ -8,7 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-
 ## Upcoming meetings
 ### December
 From The Penguin Book of the Modern American Short Story, please read the short stories from __Raymond Carver__ and __Lauren Groff__. 
@@ -26,9 +25,10 @@ From The Penguin Book of the Modern American Short Story we will discuss the sho
 From The Penguin Book of the Modern American Short Story we will discuss the short stories from __TBD__  and __TBD__ (vote?).
 Day, time TBD.
 
-## Call link for all meetings    
+## Call link for all meetings  
 You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
-[LINK]( https://pikl.us/catdec01).   
+[LINK](https://pikl.us/nufgyh64 ). 
+NOTE THIS LINK WAS CHANGED ON DECEMBER 26, 2024. DELETE ANY REFERENCE TO THE OLD LINK.  
 I encourage you to click this link now, to see how easily it works.  It works on phone or desktop.
 
 ## How to get the book
@@ -41,7 +41,7 @@ The Penguin Book of the Modern American Short Story is widely available as an eb
 * John Freeman (Editor)
 
 ## Contact
-My contact info is at littlefurnace.com.  I will update this page by December 19 with a day and time for the December meeting. 
+My contact info is at littlefurnace.com. 
 
 ## Et cetera
   

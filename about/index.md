@@ -7,5 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-Thanks for visiting my blog.  I will certainly write back. 
+Thanks for visiting my blog.  Get in touch? 
 My contact information is at [Little Furnace](https://littlefurnace.com)

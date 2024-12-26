@@ -1,5 +1,5 @@
 ---
-title: Packing 2.0 - a list for October car camping
+title: Packing 2.0 - October car camping w/Days Before module
 description: packing lists, camping, travel preparation, organizing
 date: 2024-10-11
 tags:
