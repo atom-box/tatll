@@ -1,7 +1,7 @@
 ---
 title: Christmas in Detroit w/DaysBefore, w/ Family
 description: packing lists, packing for a winter holiday
-date: 2023-12-11
+date: 2024-12-11
 tags:
   - travel
 layout: layouts/post.njk

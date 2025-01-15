@@ -8,22 +8,29 @@ tags:
 layout: layouts/post.njk
 ---
 
-## Upcoming meetings
-### December
-From The Penguin Book of the Modern American Short Story, please read the short stories from __Raymond Carver__ and __Lauren Groff__. 
-We will meet on December 26 at 3pm Eastern (noon Pacific, 9pm in Poland and Netherlands)
-
+## Upcoming Meetings
 ### January 
-From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Rick Bass__  and __Claire Vaye Watkins__.
-Please vote for your January days/time preference at [Crab Fit](https://crab.fit/january2025-penguinshortstories-790710)
+Time and Day: TBD  
+Please vote for time that works for you: [click here](https://crab.fit/januarydays-171363)  
 
+1. The Hermit's Story, by Rick Bass
+2. The Last Thing We Need, by Claire Vaye Watkins
+Both are in The Penguin Book of Modern American Short Stories     
+ 
 ### February 
-Please vote for a day/time preference at [Crab Fit](https://crab.fit/february2025penguinshortstories-625301)
-From The Penguin Book of the Modern American Short Story we will discuss the short stories from __Louise Erdrich__ and __TBD__.
+Time and Day: TBD  
+
+1. The Red Convertible by Louise Erdrich  
+2. The Fix by Percival Everett  
+Both are in The Penguin Book of Modern American Short Stories  
 
 ### March 
-From The Penguin Book of the Modern American Short Story we will discuss the short stories from __TBD__  and __TBD__ (vote?).
-Day, time TBD.
+Time and Day: TBD  
+
+
+### April
+Time and Day: TBD  
+
 
 ## Call link for all meetings  
 You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
@@ -31,20 +38,28 @@ You don't need to install or sign in to anything. The link opens in any web brow
 NOTE THIS LINK WAS CHANGED ON DECEMBER 26, 2024. DELETE ANY REFERENCE TO THE OLD LINK.  
 I encourage you to click this link now, to see how easily it works.  It works on phone or desktop.
 
-## How to get the book
-The Penguin Book of the Modern American Short Story is widely available as an ebook or IRL. My local library has several copies.
+## Current Book  
+*The Penguin Book of the Modern American Short Story* is available as an ebook or IRL. (It seems commmon: my local library has several copies.)
 
+Details  
 * 496 pages
 * Published May 4, 2021 by Penguin Press
 * ISBN	9781984877802 (ISBN10: 1984877801)
 * ASIN	1984877801
 * John Freeman (Editor)
 
-## Contact
-My contact info is at littlefurnace.com. 
+## Next book
+Submit titles of what we should read next.   
+Submit as many as you want:  
+- [books that are collections of short stories](https://datawhimsy.weebly.com/book-club-forum/submit-a-book-idea-collections-of-short-stories)
+- [books that are not collections of short stories](https://datawhimsy.weebly.com/book-club-forum/submit-book-ideas-the-not-short-stories-list)
 
-## Et cetera
+## Past Meetings
+### December
+We discussed the short stories from __Raymond Carver__ and __Lauren Groff__  on December 26 at 3pm Eastern (noon Pacific, 9pm in Poland and Netherlands)
+
+
+## Summary
+This club reads short stories and then once a month we meet. Please read one or both of the short stories for that month and then come to the online call to discuss them.  
   
-This micro-book-club meets once per month. To save time, we don't discuss books, we discuss short stories. Please read one or both of the short stories for that month and then come to the online call to discuss them.  
-  
-It's private: friends and friends of friends. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
+This is a club for friends and friends of friends. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
