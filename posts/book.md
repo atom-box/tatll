@@ -11,8 +11,7 @@ layout: layouts/post.njk
 ## Upcoming Meetings
 ### January 
 Time and Day: TBD  
-Please vote for time that works for you: [click here](https://crab.fit/januarydays-171363)  
-
+Please vote for time that works for you: [click here](https://crab.fit/kingday-795709)  
 1. The Hermit's Story, by Rick Bass
 2. The Last Thing We Need, by Claire Vaye Watkins
 Both are in The Penguin Book of Modern American Short Stories     
