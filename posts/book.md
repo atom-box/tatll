@@ -1,24 +1,27 @@
 ---
 title:  The Short Stories Book Club   
 description:  Announcement for a new online book club forming  
-date: 2024-12-14
+date: 2024-01-20
 tags:
   - books
   - gang 
 layout: layouts/post.njk
 ---
+## Vote!
+
+Please vote for days and times at the following link if you plan to come to our February meeting.  
+  
+The result will be posted here at least one week before the actual meeting day.  
+    
+[https://crab.fit/penguinshortstoriesmeetinginfebruary-266994](https://crab.fit/penguinshortstoriesmeetinginfebruary-266994) 
+
+
 
 ## Upcoming Meetings
-### January 
-Time and Day: TBD  
-Please vote for time that works for you: [click here](https://crab.fit/kingday-795709)  
-1. The Hermit's Story, by Rick Bass
-2. The Last Thing We Need, by Claire Vaye Watkins
-Both are in The Penguin Book of Modern American Short Stories     
  
 ### February 
-Time and Day: TBD  
-
+Time and Day: TBD    
+Readings:  
 1. The Red Convertible by Louise Erdrich  
 2. The Fix by Percival Everett  
 Both are in The Penguin Book of Modern American Short Stories  
@@ -32,10 +35,11 @@ Time and Day: TBD
 
 
 ## Call link for all meetings  
-You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk. 
-[LINK](https://pikl.us/nufgyh64 ). 
-NOTE THIS LINK WAS CHANGED ON DECEMBER 26, 2024. DELETE ANY REFERENCE TO THE OLD LINK.  
-I encourage you to click this link now, to see how easily it works.  It works on phone or desktop.
+You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk.   
+  
+[CLICK HERE TO OPEN THE CALL](https://pikl.us/nufgyh64 ).   
+  
+You can check your tech: click the above link now.  It works on phone or desktop.  
 
 ## Current Book  
 *The Penguin Book of the Modern American Short Story* is available as an ebook or IRL. (It seems commmon: my local library has several copies.)
@@ -56,6 +60,9 @@ Submit as many as you want:
 ## Past Meetings
 ### December
 We discussed the short stories from __Raymond Carver__ and __Lauren Groff__  on December 26 at 3pm Eastern (noon Pacific, 9pm in Poland and Netherlands)
+### January 
+1. The Hermit's Story, by Rick Bass
+2. The Last Thing We Need, by Claire Vaye Watkins
 
 
 ## Summary
