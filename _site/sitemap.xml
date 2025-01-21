@@ -357,32 +357,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/drupal/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/activism/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
+    <loc>https://tatll.me/tags/efficiency/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -397,12 +377,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/meetings/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
+    <loc>https://tatll.me/tags/management/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -412,7 +387,27 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
+    <loc>https://tatll.me/tags/gang/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/meetings/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/drupal/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -422,17 +417,22 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/management/</loc>
+    <loc>https://tatll.me/tags/fitness/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/gang/</loc>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://tatll.me/tags/sql/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -449,6 +449,11 @@
   <url>
     <loc>https://tatll.me/posts/travel-from-madison/</loc>
     <lastmod>2024-01-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/book/</loc>
+    <lastmod>2024-01-20</lastmod>
   </url>
   
   <url>
@@ -577,7 +582,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/book/</loc>
-    <lastmod>2024-12-14</lastmod>
+    <loc>https://tatll.me/posts/how-are-populism-and-authoritarianism-related/</loc>
+    <lastmod>2025-01-20</lastmod>
   </url>
 </urlset>
