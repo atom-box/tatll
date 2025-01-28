@@ -1,37 +1,37 @@
 ---
 title:  The Short Stories Book Club   
 description:  Announcement for a new online book club forming  
-date: 2024-01-20
+date: 2025-01-20
 tags:
   - books
   - gang 
 layout: layouts/post.njk
 ---
-## Vote!
-
-Please vote for days and times at the following link if you plan to come to our February meeting.  
-  
-The result will be posted here at least one week before the actual meeting day.  
-    
-[https://crab.fit/penguinshortstoriesmeetinginfebruary-266994](https://crab.fit/penguinshortstoriesmeetinginfebruary-266994) 
-
-
+A book club that meets on the third Sunday each month to discuss short stories.  
 
 ## Upcoming Meetings
  
 ### February 
-Time and Day: TBD    
+__Day__ Sunday, February 16, 2025   
+__Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
+  
 Readings:  
 1. The Red Convertible by Louise Erdrich  
 2. The Fix by Percival Everett  
 Both are in The Penguin Book of Modern American Short Stories  
 
 ### March 
-Time and Day: TBD  
+__Day__ Sunday, March 16, 2025   
+__Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
+Readings:  
+1. The Things They Carried by Tim O'Brien 
+2. The Ones Who Walk Away from Omelas by Ursula K Le Guin
+Both are in The Penguin Book of Modern American Short Stories  
 
 
 ### April
-Time and Day: TBD  
+__Day__ Sunday, April 20, 2025   
+__Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
 
 
 ## Call link for all meetings  
