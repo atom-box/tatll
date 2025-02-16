@@ -7,7 +7,7 @@ tags:
   - gang 
 layout: layouts/post.njk
 ---
-A book club that meets on the third Sunday each month to discuss short stories.  
+A book club that meets on the third Sunday each month.   
 
 ## Next Meeting: March 16, 2025   
 __Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
@@ -15,16 +15,18 @@ Final encounter with The Penguin Book of Modern American Short Stories  :
 1. The Ones Who Walk Away from Omelas by Ursula K Le Guin
 2. Your choice: read any other story from the Penguin BoMASS and come prepared to share your recommendation/disrecommendation of it. 
   
-## Voting  
-We don't yet have a book for April. 
-Please suggest a few books now. Maybe a soft limit of three-ish, to make the list easier to vote on. The board will be editable, so you can delete and change.  
-[Sortable Book Candidates](https://easyretro.io/publicboard/Fy8PDWt7Y1OkVDkR6RYUF3PJ9GA2/2c24fa73-9308-407b-a338-fe9240862502) 
-Deadline to submit titles is March 16.
-
-
-When we gather on March 16 we can tell a little about the titles we submitted, to help folks decide which to vote for.  
+## Voting for our FUTURE books
+We don't yet have books for April, May, June...  
+   
+* Please suggest a few books.  
+[ [click here to suggest some books](https://easyretro.io/publicboard/Fy8PDWt7Y1OkVDkR6RYUF3PJ9GA2/2c24fa73-9308-407b-a338-fe9240862502) ]   
+Maybe just put ~3 or so, to make the list easier to vote on later. The board will be editable, so you can delete and change until the deadline.  
   
-Between March 16 and March 22 vote for some books, at the same link where we submitted the titles. Each person gets 12 thumbs-up votes that they can distribute in any way they wish, for example a single dot each to twelve books, or 6 + 6 dots given to two books, or lay all 12 dots on one book. 👍🏼      
+* Deadline to __submit__ titles is March 16.
+  
+* When we gather on March 16 we can __tell a little__ about the titles we submitted, to help folks decide which to vote for.  
+  
+* Between March 16 and March 22 __vote for some books__. Starting March 16, if you go to where you submitted your titles, there will be thumbs up icons. Each person gets 12 thumbs-up votes that they can distribute in any way they wish, for example a single dot each to twelve books, or 6 + 6 dots given to two books, or lay all 12 dots on one book. (thumb = dot) 👍🏼      
 Deadline to finish voting is March 22.   
 
 
