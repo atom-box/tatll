@@ -9,31 +9,33 @@ layout: layouts/post.njk
 ---
 A book club that meets on the third Sunday each month to discuss short stories.  
 
-## Upcoming Meetings
- 
-### February 
-__Day__ Sunday, February 16, 2025   
+## Next Meeting: March 16, 2025   
 __Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
+Final encounter with The Penguin Book of Modern American Short Stories  :  
+1. The Ones Who Walk Away from Omelas by Ursula K Le Guin
+2. Your choice: read any other story from the Penguin BoMASS and come prepared to share your recommendation/disrecommendation of it. 
   
-Readings:  
-1. The Red Convertible by Louise Erdrich  
-2. The Fix by Percival Everett  
-Both are in The Penguin Book of Modern American Short Stories  
+## Voting  
+We don't yet have a book for April. 
+Please suggest a few books now. Maybe a soft limit of three-ish, to make the list easier to vote on. The board will be editable, so you can delete and change.  
+[Sortable Book Candidates](https://easyretro.io/publicboard/Fy8PDWt7Y1OkVDkR6RYUF3PJ9GA2/2c24fa73-9308-407b-a338-fe9240862502) 
+Deadline to submit titles is March 16.
 
-### March 
-__Day__ Sunday, March 16, 2025   
-__Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
-Readings:  
-1. The Things They Carried by Tim O'Brien 
-2. The Ones Who Walk Away from Omelas by Ursula K Le Guin
-Both are in The Penguin Book of Modern American Short Stories  
 
+When we gather on March 16 we can tell a little about the titles we submitted, to help folks decide which to vote for.  
+  
+Between March 16 and March 22 vote for some books, at the same link where we submitted the titles. Each person gets 12 thumbs-up votes that they can distribute in any way they wish, for example a single dot each to twelve books, or 6 + 6 dots given to two books, or lay all 12 dots on one book. 👍🏼      
+Deadline to finish voting is March 22.   
+
+
+## Future Meetings  
 
 ### April
 __Day__ Sunday, April 20, 2025   
 __Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
+Reading: not yet chosen...     
 
-
+  
 ## Call link for all meetings  
 You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk.   
   
@@ -41,9 +43,22 @@ You don't need to install or sign in to anything. The link opens in any web brow
   
 You can check your tech: click the above link now.  It works on phone or desktop.  
 
-## Current Book  
-*The Penguin Book of the Modern American Short Story* is available as an ebook or IRL. (It seems commmon: my local library has several copies.)
 
+## Deprecated List
+We will not view the following list. If you submitted book ideas here already, please resubmit, at the link above, in the listing for the March meeting.    
+[Data Whimsy](https://datawhimsy.weebly.com/book-club-forum/submit-book-ideas-the-not-short-stories-list)
+  
+
+
+## Past Meetings
+### December
+We discussed these, from the PBotMASS*    
+1. Raymond Carver: Bicycles, Muscles, Cigarettes   
+2. Lauren Groff: The Midnight Zone    
+on December 26, 2024 at 3pm Eastern (noon Pacific, 9pm in Poland and Netherlands)
+
+*The Penguin Book of the Modern American Short Story* is available as an ebook or IRL. (It seems commmon: my local library has several copies.)
+  
 Details  
 * 496 pages
 * Published May 4, 2021 by Penguin Press
@@ -51,21 +66,17 @@ Details
 * ASIN	1984877801
 * John Freeman (Editor)
 
-## Next book
-Submit titles of what we should read next.   
-Submit as many as you want:  
-- [books that are collections of short stories](https://datawhimsy.weebly.com/book-club-forum/submit-a-book-idea-collections-of-short-stories)
-- [books that are not collections of short stories](https://datawhimsy.weebly.com/book-club-forum/submit-book-ideas-the-not-short-stories-list)
 
-## Past Meetings
-### December
-We discussed the short stories from __Raymond Carver__ and __Lauren Groff__  on December 26 at 3pm Eastern (noon Pacific, 9pm in Poland and Netherlands)
 ### January 
+We discussed  
 1. The Hermit's Story, by Rick Bass
 2. The Last Thing We Need, by Claire Vaye Watkins
+### February 
+We discussed
+Readings:  
+1. The Red Convertible by Louise Erdrich  
+2. The Fix by Percival Everett  
 
 
 ## Summary
-This club reads short stories and then once a month we meet. Please read one or both of the short stories for that month and then come to the online call to discuss them.  
-  
 This is a club for friends and friends of friends. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
