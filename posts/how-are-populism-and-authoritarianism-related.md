@@ -35,6 +35,8 @@ Populism often employs emotional appeals and nationalist rhetoric, which can be 
 
 While not all populists are authoritarians, the ideological and structural overlaps between the two often make populism a fertile ground for authoritarian practices to emerge.
 
+### Sources cited by ChatGPT for this answer
+
 The answer was generated based on the GPT's knowledge, which synthesizes information from political theory, history, and social science as learned during training. Specifically:
 
 1. **Political Theory**: Insights into the concepts of populism and authoritarianism as studied in political science.
@@ -45,3 +47,5 @@ For deeper understanding, explore:
 - **Books**: *Populism: A Very Short Introduction* by Cas Mudde and Cristóbal Rovira Kaltwasser.
 - **Articles**: Works on authoritarianism in *The Journal of Democracy* or similar political science journals.
 - **Historical Analyses**: Case studies of transitions from democracy to authoritarianism.
+
+
