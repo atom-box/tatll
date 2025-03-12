@@ -1,5 +1,5 @@
 ---
-title: What I learned from Democracy is losing the propaganda war
+title: What I learned from Anne Applebaum
 description: Disinformation from malicious nation states has converged and is nurtured by the US Republicans
 date: 2024-08-20
 tags:

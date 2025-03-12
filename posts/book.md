@@ -9,19 +9,22 @@ layout: layouts/post.njk
 ---
 A book club that meets on the third Sunday each month.   
 
-## Next Meeting: March 16, 2025   
-__Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
-Final encounter with The Penguin Book of Modern American Short Stories  :  
-1. The Ones Who Walk Away from Omelas by Ursula K Le Guin
-2. Your choice: read any other story from the Penguin BoMASS and come prepared to share your recommendation/disrecommendation of it. 
-  
-## Voting for our FUTURE books
+## Vote for our next book(s) by March 16
 We don't yet have books for April, May, June...  
    
 * Please suggest a few books.  
 [ [click here to suggest some books](https://easyretro.io/publicboard/Fy8PDWt7Y1OkVDkR6RYUF3PJ9GA2/2c24fa73-9308-407b-a338-fe9240862502) ]   
 Maybe just put ~3 or so, to make the list easier to vote on later. The board will be editable, so you can delete and change until the deadline.  
   
+## Next Meeting: March 16, 2025   
+__Time__ Netherlands: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
+Final encounter with The Penguin Book of Modern American Short Stories  :  
+1. The Ones Who Walk Away from Omelas by Ursula K Le Guin
+2. Your choice: read any other story from the Penguin BoMASS and come prepared to share your recommendation/disrecommendation of it. 
+  
+**This new time is because [the US changed its clocks](https://24timezones.com/difference/detroit/amsterdam) this month to Daylight Savings Time. 
+
+## Voting for books  
 * Deadline to __submit__ titles is March 16.
   
 * When we gather on March 16 we can __tell a little__ about the titles we submitted, to help folks decide which to vote for.  
@@ -34,7 +37,7 @@ Deadline to finish voting is March 22.
 
 ### April
 __Day__ Sunday, April 20, 2025   
-__Time__ Netherlands: 8pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
+__Time__ Netherlands: 7pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
 Reading: not yet chosen...     
 
   
@@ -58,17 +61,8 @@ We discussed these, from the PBotMASS*
 1. Raymond Carver: Bicycles, Muscles, Cigarettes   
 2. Lauren Groff: The Midnight Zone    
 on December 26, 2024 at 3pm Eastern (noon Pacific, 9pm in Poland and Netherlands)
-
 *The Penguin Book of the Modern American Short Story* is available as an ebook or IRL. (It seems commmon: my local library has several copies.)
   
-Details  
-* 496 pages
-* Published May 4, 2021 by Penguin Press
-* ISBN	9781984877802 (ISBN10: 1984877801)
-* ASIN	1984877801
-* John Freeman (Editor)
-
-
 ### January 
 We discussed  
 1. The Hermit's Story, by Rick Bass

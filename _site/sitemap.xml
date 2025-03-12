@@ -357,12 +357,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
+    <loc>https://tatll.me/tags/books/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/activism/</loc>
+    <loc>https://tatll.me/tags/gang/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -372,7 +372,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <loc>https://tatll.me/tags/linux/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/activism/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -387,12 +392,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/books/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/gang/</loc>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -407,22 +407,22 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/drupal/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/javascript/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
+    <loc>https://tatll.me/tags/drupal/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
   <url>
     <loc>https://tatll.me/tags/fitness/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
