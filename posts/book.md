@@ -7,38 +7,26 @@ tags:
   - gang 
 layout: layouts/post.njk
 ---
-A book club that meets on the third Sunday each month.   
+A book club that meets on the third Sunday each month: April 20, May 18, June 15, July 20, August 17, September 21, 2025  
 
-## Vote for our next book(s) by March 16
-We don't yet have books for April, May, June...  
-   
-* Please suggest a few books.  
-[ [click here to suggest some books](https://easyretro.io/publicboard/Fy8PDWt7Y1OkVDkR6RYUF3PJ9GA2/2c24fa73-9308-407b-a338-fe9240862502) ]   
-Maybe just put ~3 or so, to make the list easier to vote on later. The board will be editable, so you can delete and change until the deadline.  
+## Voting link
+✏️ [Vote Here](https://easyretro.io/publicboard/Fy8PDWt7Y1OkVDkR6RYUF3PJ9GA2/2c24fa73-9308-407b-a338-fe9240862502) by March 22.
+
+## Voting Instructions  
+A voting button 👍🏼 is next to each book title.    
   
-## Next Meeting: March 16, 2025   
+Everyone gets 12 thumbs-up votes which can be distributed as you wish among the titles. For example you could give a single vote each to twelve books, or 6 + 6 votes given to two books, or lay all 12 dots on one book.         
+    
+* You can change your vote any time before March 22.   
+* NOTE: other people's votes will be hidden until March 22. You will only see your votes.  
+* The half dozen titles with the most votes will be put on the schedule below. 
+  
+  
+## Next Meeting: April 20, 2025   
 __Time__ Netherlands: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
-Final encounter with The Penguin Book of Modern American Short Stories  :  
-1. The Ones Who Walk Away from Omelas by Ursula K Le Guin
-2. Your choice: read any other story from the Penguin BoMASS and come prepared to share your recommendation/disrecommendation of it. 
-  
+(Book to be announced. See above.)  
 **This new time is because [the US changed its clocks](https://24timezones.com/difference/detroit/amsterdam) this month to Daylight Savings Time. 
 
-## Voting for books  
-* Deadline to __submit__ titles is March 16.
-  
-* When we gather on March 16 we can __tell a little__ about the titles we submitted, to help folks decide which to vote for.  
-  
-* Between March 16 and March 22 __vote for some books__. Starting March 16, if you go to where you submitted your titles, there will be thumbs up icons. Each person gets 12 thumbs-up votes that they can distribute in any way they wish, for example a single dot each to twelve books, or 6 + 6 dots given to two books, or lay all 12 dots on one book. (thumb = dot) 👍🏼      
-Deadline to finish voting is March 22.   
-
-
-## Future Meetings  
-
-### April
-__Day__ Sunday, April 20, 2025   
-__Time__ Netherlands: 7pm, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
-Reading: not yet chosen...     
 
   
 ## Call link for all meetings  
@@ -47,11 +35,6 @@ You don't need to install or sign in to anything. The link opens in any web brow
 [CLICK HERE TO OPEN THE CALL](https://pikl.us/nufgyh64 ).   
   
 You can check your tech: click the above link now.  It works on phone or desktop.  
-
-
-## Deprecated List
-We will not view the following list. If you submitted book ideas here already, please resubmit, at the link above, in the listing for the March meeting.    
-[Data Whimsy](https://datawhimsy.weebly.com/book-club-forum/submit-book-ideas-the-not-short-stories-list)
   
 
 
@@ -68,11 +51,14 @@ We discussed
 1. The Hermit's Story, by Rick Bass
 2. The Last Thing We Need, by Claire Vaye Watkins
 ### February 
-We discussed
-Readings:  
+We discussed   
 1. The Red Convertible by Louise Erdrich  
 2. The Fix by Percival Everett  
 
+### March
+We discussed  
+1. Ursula K Le Guin: The Ones Who Walk Away from Omelas 
+2. Your choice  
 
-## Summary
-This is a club for friends and friends of friends. I encourage you to invite anyone who you think will enjoy it. To invite them, simply share the link to this page.  
+## Who
+Bring friends and guests: they are welcome and appreciated.   
