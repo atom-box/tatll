@@ -1,5 +1,5 @@
 ---
-title:  The Short Stories Book Club   
+title:  The Purple Penguins Book Club     
 description:  Announcement for a new online book club forming  
 date: 2025-01-20
 tags:
@@ -7,58 +7,80 @@ tags:
   - gang 
 layout: layouts/post.njk
 ---
-A book club that meets on the third Sunday each month: April 20, May 18, June 15, July 20, August 17, September 21, 2025  
-
-## Voting link
-✏️ [Vote Here](https://easyretro.io/publicboard/Fy8PDWt7Y1OkVDkR6RYUF3PJ9GA2/2c24fa73-9308-407b-a338-fe9240862502) by March 22.
-
-## Voting Instructions  
-A voting button 👍🏼 is next to each book title.    
+A book club that meets on the third Sunday each month.   
   
-Everyone gets 12 thumbs-up votes which can be distributed as you wish among the titles. For example you could give a single vote each to twelve books, or 6 + 6 votes given to two books, or lay all 12 dots on one book.         
-    
-* You can change your vote any time before March 22.   
-* NOTE: other people's votes will be hidden until March 22. You will only see your votes.  
-* The half dozen titles with the most votes will be put on the schedule below. 
+## Upcoming book discussions  
+Sunday, April 20   
+Raymond Carver: What We Talk About When We Talk About Love,  159 pages
   
+Sunday, May 18  
+Percival Everett: James, 302 pages 
   
-## Next Meeting: April 20, 2025   
+Sunday June 15  
+Samantha Harvey: Orbital, 207 pages  
+  
+Sunday, July 20  
+Richard Powers: The Overstory    502 pages  
+  
+Sunday, August 17  
+Andy Weir: The Egg (short stories)   
+**The Egg is 2009, and out of print - so, hard to get.  We can discuss how to deal with this.**  
+  
+## Day and time   
+We meet the third Sunday of each month.  
 __Time__ Netherlands: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
-(Book to be announced. See above.)  
-**This new time is because [the US changed its clocks](https://24timezones.com/difference/detroit/amsterdam) this month to Daylight Savings Time. 
+    
 
+## Call link for all meetings #
+You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk.
 
-  
-## Call link for all meetings  
-You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk.   
-  
-[CLICK HERE TO OPEN THE CALL](https://pikl.us/nufgyh64 ).   
-  
-You can check your tech: click the above link now.  It works on phone or desktop.  
+[CLICK HERE TO OPEN THE CALL](https://pikl.us/nufgyh64)
+You can check your tech: click the above link now. It works on phone or desktop.
+
   
 
+## ✏️ Runners up
+In no particular order, here are books from our voting process which had five or fewer *likes*: 
+* Abraham Verghese: Cutting for Stone or The Covenant of Water (both historical fiction)
+* Cixin Liu: Hold up the Sky
+* Banana Yoshimoto: Kitchen
+* Barbara Kingsolver: Demon Copperhead
+* Scot Thomas eastham: The biotech timebomb
+* Emily St John Mandel: Station Eleven
+* Helene Wecker: The Golem and the Jinni
+* Tara Westover: educated
+* Neal Stephenson: Polostan
+* Keith Houston: Shady Characters (non fiction)
+* Scott Thomas Eastham: the radix (philosophy)
+* Scott Thomas Eastham: the biotech timebomb
+* Raimon panikkar: cultural disarmament
+* Raimon Panikkar: dwelling place for wisdom
+* Amanda Gefter: trespassing on Einsteins Lawn
+* Martin Heidegger: Phenomenological Interpretation of Kant's Critique of Pure Reason (Studies in Continental Thought)
+* Peter Raine: who guards the guardians
+* Miriam lancewood: wild at heart
+* Miriam lancewood: woman in the wilderness
+* Christopher McDougall: Born to Run (memoir)
+   
 
 ## Past Meetings
-### December
-We discussed these, from the PBotMASS*    
-1. Raymond Carver: Bicycles, Muscles, Cigarettes   
-2. Lauren Groff: The Midnight Zone    
-on December 26, 2024 at 3pm Eastern (noon Pacific, 9pm in Poland and Netherlands)
-*The Penguin Book of the Modern American Short Story* is available as an ebook or IRL. (It seems commmon: my local library has several copies.)
+December 2024
+Raymond Carver: Bicycles, Muscles, Cigarettes    
+Lauren Groff: The Midnight Zone  
   
-### January 
-We discussed  
-1. The Hermit's Story, by Rick Bass
-2. The Last Thing We Need, by Claire Vaye Watkins
-### February 
-We discussed   
-1. The Red Convertible by Louise Erdrich  
-2. The Fix by Percival Everett  
+January 2025
+The Hermit's Story, by Rick Bass  
+The Last Thing We Need, by Claire Vaye Watkins  
+  
+February 2025
+The Red Convertible by Louise Erdrich  
+The Fix by Percival Everett  
 
-### March
-We discussed  
-1. Ursula K Le Guin: The Ones Who Walk Away from Omelas 
-2. Your choice  
+March 2025    
+Ursula K Le Guin: The Ones Who Walk Away from Omelas  
 
-## Who
-Bring friends and guests: they are welcome and appreciated.   
+
+
+## Welcome    
+Bring friends and guests: they are welcome and appreciated.  
+  
