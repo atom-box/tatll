@@ -1,5 +1,5 @@
 ---
-title:  The Purple Penguins Book Club     
+title:  The BotMASS Book Club     
 description:  Announcement for a new online book club forming  
 date: 2025-01-20
 tags:
