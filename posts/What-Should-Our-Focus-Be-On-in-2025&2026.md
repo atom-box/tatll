@@ -1,5 +1,5 @@
 ---
-title: What Should Our Focus Be On in 2025 & 2026?
+title: What Should Our Focus Be In 2025 & 2026?
 description:
 date: 2025-06-13
 tags:
