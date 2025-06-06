@@ -67,7 +67,8 @@ Here’s a summary of the estimated size and structure of each movement at its h
 
 
 ```
-What were the periods of greatest vigor for Indivisible? How effective is it now?
+What were the periods of greatest vigor for Indivisible? How 
+effective is it now?
 ```
 
 ### **Periods of Greatest Vigor – Indivisible**
@@ -143,7 +144,8 @@ Indivisible surged into prominence in response to Donald Trump’s election in 2
 
 
 ```
-Which groups have similar goals as Indivisible but are more effective in 2025? How do their metrics compare to Indivisible?
+Which groups have similar goals as Indivisible but are more effective in 
+2025? How do their metrics compare to Indivisible?
 ```
 
 As of **2025**, several groups share **similar progressive, pro-democracy, and anti-authoritarian goals** as **Indivisible**, but some are **more effective** or **more visible** in terms of organizing power, political wins, and ongoing grassroots engagement.

@@ -11,7 +11,9 @@ layout: layouts/post.njk
 (All of the following content was generated as responses from ChatGPT to the italicaized prompts)
 
 ```
-I live in the United States. If I have finite time and money to contribute, which causes should I focus on in 2025 and 2026? Choose from the five following things: 
+I live in the United States. If I have finite time and money to 
+contribute, which causes should I focus on in 2025 and 2026? Choose 
+from the five following causes: 
 pro-immigrants 
 pro-democracy
 slowing climate change
@@ -139,7 +141,8 @@ Here are high-impact organizations in **Wisconsin/Madison** aligned with your to
 
 
 ```
-Please suggest specific organizations or campaigns in Madison Wisconsin that fit this focus.
+Please suggest specific organizations or campaigns in Madison Wisconsin that 
+fit this focus.
 ```
 
 
