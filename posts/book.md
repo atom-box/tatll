@@ -10,7 +10,7 @@ layout: layouts/post.njk
 A book club that meets on the third Sunday each month.   
 
 ## Nominate the next books
-Voting for the next books is on Sunday July 20.  
+Voting for the next books can begin on Sunday July 20. But nominations can start any time.  
   
 Send your additions to the list by text to Evan. If you want to email them, please text Evan to get an address. Thank you.  
   
