@@ -21,6 +21,8 @@ clean the car better than usual
 
 ## Prone to forget these
 Pajamas  
+headlamp  
+razor  
 slippers  
 cozy hoody  
 rain gear or umbrella    

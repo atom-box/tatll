@@ -8,6 +8,66 @@ tags:
 layout: layouts/post.njk
 ---
 A book club that meets on the third Sunday each month.   
+
+## Nominate the next books
+Voting for the next books is on Sunday July 20.  
+  
+Send your additions to the list by text to Evan. If you want to email them, please text Evan to get an address. Thank you.  
+  
+Here's what we have to choose from so far:  
+  
+Martyr!  
+Kaveh Akbar  
+[LINK](https://www.goodreads.com/book/show/139400713-martyr)  
+
+Semiosis   (Semiosis #1)  
+Sue Burke  
+[LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
+  
+Shroud  
+Adrian Tchaikovsky  
+[LINK]( https://www.goodreads.com/book/show/210384823-shroud)  
+  
+A Story As Sharp As a Knife: The Classical Haida Mythtellers and Their World  
+Robert Bringhurst  
+[LINK](https://www.goodreads.com/book/show/154676.A_Story_As_Sharp_As_a_Knife)  
+  
+The Work of Art: How Something Comes from Nothing  
+Adam Moss  
+[LINK](https://www.goodreads.com/book/show/192723955-the-work-of-art )  
+  
+Nexus: A Brief History of Information Networks from the Stone Age to AI  
+Yuval Noah Harari  
+[LINK](https://www.goodreads.com/book/show/204927599-nexus)  
+  
+Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism  
+Sarah Wynn-Williams  
+[LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
+  
+When Women Were Birds: Fifty-four Variations on Voice  
+Terry Tempest Williams  
+[LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
+  
+Enrique's Journey  
+Sonia Nazario  
+[LINK](https://www.goodreads.com/book/show/158277.Enrique_s_Journey)  
+  
+The New Jim Crow: Mass Incarceration in the Age of Colorblindness  
+Michelle Alexander  
+[LINK](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)  
+  
+Wesley the Owl: The Remarkable Love Story of an Owl and His Girl  
+Stacey O'Brien  
+[LINK](https://www.goodreads.com/book/show/3001512-wesley-the-owl)  
+  
+City of Thieves  
+David Benioff  
+[LINK](https://www.goodreads.com/book/show/1971304.City_of_Thieves)  
+  
+Prescription for a Healthy Nation: A New Approach to Improving Our Lives by Fixing Our Everyday World  
+Tom Farley  
+[LINK](https://www.goodreads.com/book/show/1273282.Prescription_for_a_Healthy_Nation)  
+  
   
 ## Upcoming book discussions  
 Sunday, April 20   
@@ -23,8 +83,7 @@ Sunday, July 20
 Richard Powers: The Overstory    502 pages  
   
 Sunday, August 17  
-Andy Weir: The Egg (short stories)   
-**The Egg is 2009, and out of print - so, hard to get.  We can discuss how to deal with this.**  
+TBD 
   
 ## Day and time   
 We meet the third Sunday of each month.  

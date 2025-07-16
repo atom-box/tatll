@@ -357,37 +357,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/activism/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/books/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/management/</loc>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -402,7 +372,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
+    <loc>https://tatll.me/tags/meetings/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/activism/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -412,7 +387,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
+    <loc>https://tatll.me/tags/linux/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -422,7 +397,32 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/meetings/</loc>
+    <loc>https://tatll.me/tags/fitness/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/books/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/management/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -589,6 +589,11 @@
   <url>
     <loc>https://tatll.me/posts/how-are-populism-and-authoritarianism-related/</loc>
     <lastmod>2025-01-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/books-about-evil/</loc>
+    <lastmod>2025-06-01</lastmod>
   </url>
   
   <url>

@@ -1,5 +1,5 @@
 ---
-title: What Should Our Focus Be In 2025 & 2026?
+title: What Should Be Our Focusd In 2025 & 2026?
 description:
 date: 2025-06-13
 tags:
@@ -139,7 +139,6 @@ Because the **window is closing**, and every **state or local win matters** — 
 
 If you still have room for a third priority, consider **Pro-Immigrant work** at the **local or regional level** — it’s morally urgent and often underfunded.
 
-Here are high-impact organizations in **Wisconsin/Madison** aligned with your top priorities—**Pro-Democracy** and **Slowing Climate Change**—that are especially effective in **2025–2026**.
 
 
 ```
@@ -147,6 +146,8 @@ Please suggest specific organizations or
 campaigns in Madison Wisconsin that 
 fit this focus.
 ```
+
+Here are high-impact organizations in **Wisconsin/Madison** aligned with your top priorities—**Pro-Democracy** and **Slowing Climate Change**—that are especially effective in **2025–2026**.
 
 
 ## 🛡️ Pro‑Democracy
