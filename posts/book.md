@@ -20,6 +20,14 @@ Martyr!
 Kaveh Akbar  
 [LINK](https://www.goodreads.com/book/show/139400713-martyr)  
 
+Heartwood
+Amity Gage
+[LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
+
+Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism  
+Sarah Wynn-Williams  
+[LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
+
 Semiosis   (Semiosis #1)  
 Sue Burke  
 [LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
@@ -40,9 +48,6 @@ Nexus: A Brief History of Information Networks from the Stone Age to AI
 Yuval Noah Harari  
 [LINK](https://www.goodreads.com/book/show/204927599-nexus)  
   
-Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism  
-Sarah Wynn-Williams  
-[LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
   
 When Women Were Birds: Fifty-four Variations on Voice  
 Terry Tempest Williams  
