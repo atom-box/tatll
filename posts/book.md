@@ -9,70 +9,105 @@ layout: layouts/post.njk
 ---
 A book club that meets on the third Sunday each month.   
 
-## Nominate the next books
-Voting for the next books can begin on Sunday July 20. But nominations can start any time.  
+## Voting for our next ten books
+Send to Evan before July 25, following these instructions.
+
+Instructions:  
+1. Copy the *List of Nominees*  
+2. Paste into a text message (Signal or email or SMS)    
+3. Eliminate titles until your list is down to ten or fewer books.
+4. Please text or email it to Evan. Sending as a direct text might be better than annoying everyone with a group blast.  
+5. Results, top ten titles, will be online July 27  
+
+## List of nominees   
+The Arrival By Shaun Tan  
+The Best American Short Stories 2024 by (editor) Lauren Groff  
+Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism   by Sarah Wynn-Williams    
+Cutting for Stone  by Abraham Verghese  
+Enrique's Journey   by Sonia Nazario    
+Heartwood by Amity Gage  
+Kitchen by Banana Yoshimoto, Megan Backus  (Translator)  
+Martyr!   by Kaveh Akbar    
+The Ocean at the End of the Lane by Neil Gaiman  
+Semiosis   (Semiosis #1)   by Sue Burke    
+Shadows of Forgotten Ancestors by Carl Sagan and Ann Druyan  
+Shroud   by Adrian Tchaikovsky  
+Silk by Alessandro Baricco, Guido Waldman (Translator )  
+When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams   
+
+++ - Signal is preferred because of Tr*mp, et cetera) 
+
+## A description of each book  
+
+Kitchen  
+by Banana Yoshimoto, Megan Backus  (Translator)  
+160 pages   
+[LINK](https://www.goodreads.com/book/show/50144.Kitchen)  
   
-Send your additions to the list by text to Evan. If you want to email them, please text Evan to get an address. Thank you.  
+The Arrival  
+By Shaun Tan  
+132 pages - graphic novel  
+[LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
   
-Here's what we have to choose from so far:  
+Silk  
+by Alessandro Baricco, Guido Waldman (Translator )  
+91 pages   
+[LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1&amp;amp;from_search=true&amp;amp;qid=gtxlouQPJy&amp;amp;rank=5)  
+  
+Cutting for Stone   
+by Abraham Verghese  
+560 pages  
+[LINK](https://www.goodreads.com/book/show/3591262-cutting-for-stone)  
+  
+Shadows of Forgotten Ancestors  
+by Carl Sagan and Ann Druyan  
+528 pages - non fiction  
+[LINK](https://www.goodreads.com/book/show/61662.Shadows_of_Forgotten_Ancestors)  
+  
+The Ocean at the End of the Lane  
+by Neil Gaiman  
+195 pages   
+[LINK](https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane)  
+  
+The Best American Short Stories 2024  
+by (editor) Lauren Groff  
+400 pages, short stories  
+[LINK](https://www.goodreads.com/book/show/199531928-the-best-american-short-stories-2024?ac=1)  
   
 Martyr!  
-Kaveh Akbar  
+by Kaveh Akbar  
+331 pages
 [LINK](https://www.goodreads.com/book/show/139400713-martyr)  
 
 Heartwood
-Amity Gage
+by Amity Gage
+320 pages
 [LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
 
 Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism  
-Sarah Wynn-Williams  
+by Sarah Wynn-Williams  
+382 pages, non fiction
 [LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
 
 Semiosis   (Semiosis #1)  
-Sue Burke  
+by Sue Burke  
+333 pages, science fiction 
 [LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
   
 Shroud  
-Adrian Tchaikovsky  
+by Adrian Tchaikovsky
+436 pages, science fiction   
 [LINK]( https://www.goodreads.com/book/show/210384823-shroud)  
   
-A Story As Sharp As a Knife: The Classical Haida Mythtellers and Their World  
-Robert Bringhurst  
-[LINK](https://www.goodreads.com/book/show/154676.A_Story_As_Sharp_As_a_Knife)  
-  
-The Work of Art: How Something Comes from Nothing  
-Adam Moss  
-[LINK](https://www.goodreads.com/book/show/192723955-the-work-of-art )  
-  
-Nexus: A Brief History of Information Networks from the Stone Age to AI  
-Yuval Noah Harari  
-[LINK](https://www.goodreads.com/book/show/204927599-nexus)  
-  
-  
 When Women Were Birds: Fifty-four Variations on Voice  
-Terry Tempest Williams  
+by Terry Tempest Williams  
+208 pages, non fiction   
 [LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
   
 Enrique's Journey  
-Sonia Nazario  
+by Sonia Nazario  
+294 pages, non fiction  
 [LINK](https://www.goodreads.com/book/show/158277.Enrique_s_Journey)  
-  
-The New Jim Crow: Mass Incarceration in the Age of Colorblindness  
-Michelle Alexander  
-[LINK](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)  
-  
-Wesley the Owl: The Remarkable Love Story of an Owl and His Girl  
-Stacey O'Brien  
-[LINK](https://www.goodreads.com/book/show/3001512-wesley-the-owl)  
-  
-City of Thieves  
-David Benioff  
-[LINK](https://www.goodreads.com/book/show/1971304.City_of_Thieves)  
-  
-Prescription for a Healthy Nation: A New Approach to Improving Our Lives by Fixing Our Everyday World  
-Tom Farley  
-[LINK](https://www.goodreads.com/book/show/1273282.Prescription_for_a_Healthy_Nation)  
-  
   
 ## Upcoming book discussions  
 Sunday, April 20   
@@ -104,10 +139,8 @@ You can check your tech: click the above link now. It works on phone or desktop.
   
 
 ## ✏️ Runners up
-In no particular order, here are books from our voting process which had five or fewer *likes*: 
-* Abraham Verghese: Cutting for Stone or The Covenant of Water (both historical fiction)
+In no particular order, here are books which have been nominated in the past and for one reason or another, were not chosen.  Consider them for the future.    
 * Cixin Liu: Hold up the Sky
-* Banana Yoshimoto: Kitchen
 * Barbara Kingsolver: Demon Copperhead
 * Scot Thomas eastham: The biotech timebomb
 * Emily St John Mandel: Station Eleven
@@ -125,7 +158,33 @@ In no particular order, here are books from our voting process which had five or
 * Miriam lancewood: wild at heart
 * Miriam lancewood: woman in the wilderness
 * Christopher McDougall: Born to Run (memoir)
-   
+    
+The Work of Art: How Something Comes from Nothing  
+Adam Moss  
+[LINK](https://www.goodreads.com/book/show/192723955-the-work-of-art )  
+
+Nexus: A Brief History of Information Networks from the Stone Age to AI  
+Yuval Noah Harari  
+[LINK](https://www.goodreads.com/book/show/204927599-nexus)  
+  
+The New Jim Crow: Mass Incarceration in the Age of Colorblindness  
+Michelle Alexander  
+[LINK](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)  
+  
+Wesley the Owl: The Remarkable Love Story of an Owl and His Girl  
+Stacey O'Brien  
+[LINK](https://www.goodreads.com/book/show/3001512-wesley-the-owl)  
+  
+City of Thieves  
+David Benioff  
+[LINK](https://www.goodreads.com/book/show/1971304.City_of_Thieves)  
+  
+  
+Prescription for a Healthy Nation: A New Approach to Improving Our Lives by Fixing Our Everyday World  
+Tom Farley  
+[LINK](https://www.goodreads.com/book/show/1273282.Prescription_for_a_Healthy_Nation)  
+  
+
 
 ## Past Meetings
 December 2024
