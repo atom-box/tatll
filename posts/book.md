@@ -49,11 +49,7 @@ By Shaun Tan
 132 pages - graphic novel  
 [LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
   
-Silk  
-by Alessandro Baricco, Guido Waldman (Translator )  
-91 pages   
-[LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1&amp;amp;from_search=true&amp;amp;qid=gtxlouQPJy&amp;amp;rank=5)  
-  
+ 
 Cutting for Stone   
 by Abraham Verghese  
 560 pages  
@@ -119,12 +115,14 @@ Percival Everett: James, 302 pages
 Sunday June 15  
 Samantha Harvey: Orbital, 207 pages  
   
-Sunday, July 20  
+~~Sunday, July 20~~  
+Postponed to  
+Sunday August 3     
 Richard Powers: The Overstory    502 pages  
   
 Sunday, August 17  
-TBD 
-  
+Alessandro Baricco: Silk     91 pages
+
 ## Day and time   
 We meet the third Sunday of each month.  
 __Time__ Netherlands: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
