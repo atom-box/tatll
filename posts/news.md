@@ -65,7 +65,44 @@ If you know me (Evan), text a URL to me and I will put it at the top here.
 [https://brevitymag.com  ](https://brevitymag.com  )      
 [https://www.scrippsnews.com](https://www.scrippsnews.com)      
 [https://iop.harvard.ed](https://iop.harvard.edu)      
-      
+
+## Org sites with lots to read on their site  
+  
+[http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/](http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/)   
+[https://commonslibrary.org/books-to-read-if-you-are-interested-in-activism-social-change-and-justice/](https://commonslibrary.org/books-to-read-if-you-are-interested-in-activism-social-change-and-justice/)   
+[https://ballotpedia.org/Special_elections_to_the_119th_United_States_Congress_(2025-2026)](https://ballotpedia.org/Special_elections_to_the_119th_United_States_Congress_(2025-2026))   
+[https://thefulcrum.us/about-us/our-mission](https://thefulcrum.us/about-us/our-mission)   
+[https://eleventy-m10y.lkmt.us/](https://eleventy-m10y.lkmt.us/)   
+[https://survey.stackoverflow.co/2019](https://survey.stackoverflow.co/2019)   
+[https://www.kexp.org/playlist/](https://www.kexp.org/playlist/)   
+[https://www.fractionmagazine.com/1102](https://www.fractionmagazine.com/1102)   
+[https://detroitography.com/category/our-maps](https://detroitography.com/category/our-maps)   
+[https://www.bunkhistory.org/](https://www.bunkhistory.org/)   
+[https://www.futurehindsight.com/episodes](https://www.futurehindsight.com/episodes)   
+[https://www.aspeninstitute.org/about/](https://www.aspeninstitute.org/about/)   
+[https://brevitymag.com/category/current-issue/](https://brevitymag.com/category/current-issue/)   
+[https://wysomusic.org/concerts-events/](https://wysomusic.org/concerts-events/)   
+[https://www.minnesotareformer.com](https://www.minnesotareformer.com)   
+[https://barnraisingmedia.com/austin-frerick-hog-barons](https://barnraisingmedia.com/austin-frerick-hog-barons)   
+[https://www.booksandculture.com/](https://www.booksandculture.com/)   
+[https://www.zdnet.com/article/i-tried-replacing-twitter-with-bluesky-threads-and-mastodon-heres-what-i-found/](https://www.zdnet.com/article/i-tried-replacing-twitter-with-bluesky-threads-and-mastodon-heres-what-i-found/)   
+[https://ilovegraffiti.de/](https://ilovegraffiti.de/)   
+[https://www.salon.com/2024/08/29/the-tragedy-of-magas-conspiracy-theory-about-tim-walzs-fake-dog/](https://www.salon.com/2024/08/29/the-tragedy-of-magas-conspiracy-theory-about-tim-walzs-fake-dog/)   
+[https://www.usopen.org/en_US/news/articles/2024-09-07/tiafoes_tough_2024_us_open_exit_i_thought_i_was_the_better_player.html](https://www.usopen.org/en_US/news/articles/2024-09-07/tiafoes_tough_2024_us_open_exit_i_thought_i_was_the_better_player.html)   
+[https://patrioticmillionaires.org/](https://patrioticmillionaires.org/)   
+[https://eppc.org/](https://eppc.org/)   
+[https://prod.greenpeaceusa.info/usa/wp-content/uploads/2023/02/Tuna-Retailer-Report__2nd-Edition.pdf](https://prod.greenpeaceusa.info/usa/wp-content/uploads/2023/02/Tuna-Retailer-Report__2nd-Edition.pdf)   
+[https://gibbontake.site/index.php/bailjape/pumk-be-a-strong-female-character-and-bend-those-bars/](https://gibbontake.site/index.php/bailjape/pumk-be-a-strong-female-character-and-bend-those-bars/)   
+[https://www.humanityinaction.org/news-events-usa/](https://www.humanityinaction.org/news-events-usa/)   
+[https://www.scientificamerican.com/article/you-can-literally-sniff-out-other-peoples-inner-feelings/](https://www.scientificamerican.com/article/you-can-literally-sniff-out-other-peoples-inner-feelings/)   
+[https://www.forbes.com/sites/emilymason/2023/11/29/from-crypto-to-t-bills-inside-meows-hard-pivot/](https://www.forbes.com/sites/emilymason/2023/11/29/from-crypto-to-t-bills-inside-meows-hard-pivot/)   
+[https://vimeo.com/79589232](https://vimeo.com/79589232)   
+[https://www.madisonpubliclibrary.org/reading-and-viewing/kits/painting-beyond-walls](https://www.madisonpubliclibrary.org/reading-and-viewing/kits/painting-beyond-walls)   
+[https://www.kexp.org/read/2018/2/7/international-clash-day-interview-moby/](https://www.kexp.org/read/2018/2/7/international-clash-day-interview-moby/)   
+[https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclable](https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables)   
+
+
+
 ## Leaders        
 Follow specific leaders        
 [https://x.com/AOC/ ](https://x.com/AOC/ )      
