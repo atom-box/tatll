@@ -25,58 +25,48 @@ Silk by Alessandro Baricco, Guido Waldman (Translator )
 [LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1)
 Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?      
 
-
 Sunday, September 21
 Heartwood by Amity Gage  
-by Amity Gage
 320 pages
 [LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
   
 Sunday, October 19
 Shadows of Forgotten Ancestors by Carl Sagan and Ann Druyan  
-by Carl Sagan and Ann Druyan  
 528 pages - non fiction  
 [LINK](https://www.goodreads.com/book/show/61662.Shadows_of_Forgotten_Ancestors)  
   
 Sunday, November 16
 Kitchen by Banana Yoshimoto, Megan Backus  (Translator)  
-by Banana Yoshimoto, Megan Backus  (Translator)  
 160 pages   
 [LINK](https://www.goodreads.com/book/show/50144.Kitchen)  
   
 Sunday, December 21
 Martyr!   by Kaveh Akbar    
-by Kaveh Akbar  
 331 pages
 [LINK](https://www.goodreads.com/book/show/139400713-martyr)  
   
 Sunday, January 18
 Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism   by Sarah Wynn-Williams    
-by Sarah Wynn-Williams  
 382 pages, non fiction
 [LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
   
 Sunday, February 15
 Semiosis   (Semiosis #1)   by Sue Burke    
-by Sue Burke  
 333 pages, science fiction 
 [LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
   
 Sunday, March 15
 The Ocean at the End of the Lane by Neil Gaiman  
-by Neil Gaiman  
 195 pages   
 [LINK](https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane)  
   
 Sunday, April 19
 When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams   
-by Terry Tempest Williams  
 208 pages, non fiction   
 [LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
   
 Sunday, May 17
 The Arrival By Shaun Tan  
-By Shaun Tan  
 132 pages - graphic novel  
 [LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
     
