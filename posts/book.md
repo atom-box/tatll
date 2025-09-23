@@ -7,65 +7,46 @@ tags:
   - gang 
 layout: layouts/post.njk
 ---
-A book club that meets on the third Sunday each month.   
-
-## Voting for our next ten books
-Finished! Thanks for voting. Results are in the schedule below.
+A book club that meets on the ~~third~~ *fourth* Sunday each month.   
     
 ## Upcoming book discussions  
     
-~~Sunday, July 20~~  
-Postponed to  
-Sunday August 3     
-Richard Powers: The Overstory    502 pages  
-  
-Sunday, August 17
-Silk by Alessandro Baricco, Guido Waldman (Translator )  
-91 Pages
-[LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1)
-Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?      
-
-Sunday, September 21
-Heartwood by Amity Gage  
-320 pages
-[LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
-  
-Sunday, October 19
+Sunday, October 26
 Shadows of Forgotten Ancestors by Carl Sagan and Ann Druyan  
 528 pages - non fiction  
 [LINK](https://www.goodreads.com/book/show/61662.Shadows_of_Forgotten_Ancestors)  
   
-Sunday, November 16
+Sunday, November 23
 Kitchen by Banana Yoshimoto, Megan Backus  (Translator)  
 160 pages   
 [LINK](https://www.goodreads.com/book/show/50144.Kitchen)  
   
-Sunday, December 21
+Sunday, December 28
 Martyr!   by Kaveh Akbar    
 331 pages
 [LINK](https://www.goodreads.com/book/show/139400713-martyr)  
   
-Sunday, January 18
+Sunday, January 25
 Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism   by Sarah Wynn-Williams    
 382 pages, non fiction
 [LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
   
-Sunday, February 15
+Sunday, February 22
 Semiosis   (Semiosis #1)   by Sue Burke    
 333 pages, science fiction 
 [LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
   
-Sunday, March 15
+Sunday, March 22
 The Ocean at the End of the Lane by Neil Gaiman  
 195 pages   
 [LINK](https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane)  
   
-Sunday, April 19
+Sunday, April 26
 When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams   
 208 pages, non fiction   
 [LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
   
-Sunday, May 17
+Sunday, May 24
 The Arrival By Shaun Tan  
 132 pages - graphic novel  
 [LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
@@ -161,6 +142,21 @@ Percival Everett: James, 302 pages
   
 Sunday June 15  
 Samantha Harvey: Orbital, 207 pages  
+
+Sunday August 3 (postponed from July because nobody was done with the book yet)     
+Richard Powers: The Overstory    502 pages  
+  
+Sunday, August 17
+Silk by Alessandro Baricco, Guido Waldman (Translator )  
+91 Pages
+[LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1)
+Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?      
+
+Sunday, September 21
+Heartwood by Amity Gage  
+320 pages
+[LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
+  
 
 
 ## Welcome    

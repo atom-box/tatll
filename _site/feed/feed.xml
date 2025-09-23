@@ -5,12 +5,30 @@
 	
 	<link href="https://tatll.me/feed/feed.xml" rel="self"/>
 	<link href="https://tatll.me/"/>
-	<updated>2025-08-28T00:00:00Z</updated>
+	<updated>2025-09-01T00:00:00Z</updated>
 	<id>https://tatll.me/</id>
 	<author>
 		<name>Evan Genest</name>
 		<email>genest.1@osu.edu</email>
 	</author>
+	
+	<entry>
+		<title>Smoothies</title>
+		<link href="https://tatll.me/posts/smoothies/"/>
+		<updated>2025-09-01T00:00:00Z</updated>
+		<id>https://tatll.me/posts/smoothies/</id>
+		<content type="html">&lt;p&gt;Smoothie Recipes&lt;/p&gt;
+&lt;h2 id=&quot;chocolate-smoothie&quot; tabindex=&quot;-1&quot;&gt;Chocolate Smoothie &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/smoothies/#chocolate-smoothie&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Oil of toasted sesames, just a pinch&lt;br /&gt;
+Cocoa powder, 2 tablespoons&lt;br /&gt;
+oats&lt;br /&gt;
+milk&lt;br /&gt;
+canola oil, 2 tablespoons&lt;br /&gt;
+frozen bananas 1 or 2&lt;br /&gt;
+handful of raw spinach&lt;br /&gt;
+ice cubes&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Indivisible Meeting at CORE House</title>
@@ -45,36 +63,10 @@
 &lt;a href=&quot;https://www.nd-aktuell.de/&quot;&gt;https://www.nd-aktuell.de&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.liberties.eu/&quot;&gt;https://www.liberties.eu   &lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.bbc.co.uk/&quot;&gt;https://www.bbc.co.uk&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.sv.uio.no/&quot;&gt;https://www.sv.uio.n&lt;/a&gt;o&lt;/p&gt;
-&lt;h2 id=&quot;united-states-newspapers&quot; tabindex=&quot;-1&quot;&gt;United States Newspapers &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#united-states-newspapers&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.streetroots.org/&quot;&gt;https://www.streetroots.org/  Portland, free  &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.insp.ngo/&quot;&gt;https://www.insp.ngo/ International network of street newspapers &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.sfchronicle.com/&quot;&gt;https://www.sfchronicle.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.huffpost.com/&quot;&gt;https://www.huffpost.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.thedailybeast.com/&quot;&gt;https://www.thedailybeast.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.amny.com/&quot;&gt;https://www.amny.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.bostonglobe.com/&quot;&gt;https://www.bostonglobe.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.seattletimes.com/&quot;&gt;https://www.seattletimes.com/ &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.newsday.com/&quot;&gt;https://www.newsday.com/ &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.startribune.com/&quot;&gt;https://www.startribune.com/ &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.latimes.com/&quot;&gt;https://www.latimes.com/ &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://eedition.inquirer.com/app/PHLINQ&quot;&gt;https://eedition.inquirer.com/app/PHLINQ &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.sfgate.com/&quot;&gt;https://www.sfgate.com/ &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.michigandaily.com/&quot;&gt;https://www.michigandaily.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://apnews.com/&quot;&gt;https://apnews.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.salon.com/&quot;&gt;https://www.salon.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.govtrack.us/&quot;&gt;https://www.govtrack.us&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.axios.com/&quot;&gt;https://www.axios.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.publicnewsservice.org/&quot;&gt;https://www.publicnewsservice.org&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://twincities.com/&quot;&gt;https://twincities.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.bu.edu/&quot;&gt;https://www.bu.edu&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://npr.org/news&quot;&gt;https://npr.org/news&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.bloomberg.com/&quot;&gt;https://www.bloomberg.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://captimes.com/&quot;&gt;https://captimes.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.miaminewtimes.com/&quot;&gt;https://www.miaminewtimes.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.thrivedetroit.org/&quot;&gt;https://www.thrivedetroit.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.sv.uio.no/&quot;&gt;https://www.sv.uio.n&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;other-news-sources&quot; tabindex=&quot;-1&quot;&gt;Other news sources &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#other-news-sources&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://slashdot.org/&quot;&gt;https://slashdot.org/  &lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.counterpunch.org/&quot;&gt;https://www.counterpunch.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://slashdot.org/&quot;&gt;https://slashdot.org/  &lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.wired.com/&quot;&gt;https://www.wired.com/  &lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://slashdot.org/&quot;&gt;https://slashdot.org/  &lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.theregister.com/&quot;&gt;https://www.theregister.com/  &lt;/a&gt;&lt;br /&gt;
@@ -85,8 +77,18 @@
 &lt;a href=&quot;https://brevitymag.com/&quot;&gt;https://brevitymag.com  &lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.scrippsnews.com/&quot;&gt;https://www.scrippsnews.com&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://iop.harvard.edu/&quot;&gt;https://iop.harvard.ed&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;links-to-reading&quot; tabindex=&quot;-1&quot;&gt;Links to reading &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#links-to-reading&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule&quot;&gt;https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule&lt;/a&gt;  ](&lt;a href=&quot;https://freedomhouse.org/report/&quot;&gt;https://freedomhouse.org/report/&lt;/a&gt;      freedom-world/2022/global-expansion-authoritarian-rule  )&lt;br /&gt;
+[&lt;a href=&quot;https://medium.com/deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef&quot;&gt;https://medium.com/deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef&lt;/a&gt;  ](&lt;a href=&quot;https://medium.com/&quot;&gt;https://medium.com/&lt;/a&gt;      deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef  )&lt;br /&gt;
+[&lt;a href=&quot;https://medium.com/@ariallen&quot;&gt;https://medium.com/@ariallen&lt;/a&gt;  A good starting point, in Medium   ](&lt;a href=&quot;https://medium.com/@ariallen&quot;&gt;https://medium.com/@ariallen&lt;/a&gt;  A good starting point, in       Medium   )&lt;br /&gt;
+[&lt;a href=&quot;https://www.thereconstitution.com/the-proposals&quot;&gt;https://www.thereconstitution.com/the-proposals&lt;/a&gt;  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture]      (&lt;a href=&quot;https://www.thereconstitution.com/the-proposals&quot;&gt;https://www.thereconstitution.com/the-proposals&lt;/a&gt;  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture folks.  ) folks.&lt;br /&gt;
+&lt;a href=&quot;https://www.democracynow.org/&quot;&gt;https://www.democracynow.org/ &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://open.substack.com/pub/natesilver&quot;&gt;https://open.substack.com/pub/natesilver&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://thefulcrum.us/&quot;&gt;https://thefulcrum.u&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://slate.com/&quot;&gt;https://slate.com&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;org-sites-with-lots-to-read-on-their-site&quot; tabindex=&quot;-1&quot;&gt;Org sites with lots to read on their site &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#org-sites-with-lots-to-read-on-their-site&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/&quot;&gt;http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;https://americanplayers.org/about/history/production-history&quot;&gt;https://americanplayers.org/about/history/production-history&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/&quot;&gt;http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://commonslibrary.org/books-to-read-if-you-are-interested-in-activism-social-change-and-justice/&quot;&gt;https://commonslibrary.org/books-to-read-if-you-are-interested-in-activism-social-change-and-justice/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://ballotpedia.org/Special_elections_to_the_119th_United_States_Congress_(2025-2026)&quot;&gt;https://ballotpedia.org/Special_elections_to_the_119th_United_States_Congress_(2025-2026)&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://thefulcrum.us/about-us/our-mission&quot;&gt;https://thefulcrum.us/about-us/our-mission&lt;/a&gt;&lt;br /&gt;
@@ -118,6 +120,44 @@
 &lt;a href=&quot;https://www.madisonpubliclibrary.org/reading-and-viewing/kits/painting-beyond-walls&quot;&gt;https://www.madisonpubliclibrary.org/reading-and-viewing/kits/painting-beyond-walls&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.kexp.org/read/2018/2/7/international-clash-day-interview-moby/&quot;&gt;https://www.kexp.org/read/2018/2/7/international-clash-day-interview-moby/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables&quot;&gt;https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclable&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;analysis-of-election-results&quot; tabindex=&quot;-1&quot;&gt;Analysis of election results &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#analysis-of-election-results&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cookpolitical.com/analysis&quot;&gt;https://www.cookpolitical.com/analysis&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://rollcall.com/&quot;&gt;https://rollcall.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://campaignsandelections.com/industry-news/&quot;&gt;https://campaignsandelections.com/industry-news/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.brookings.edu/articles&quot;&gt;https://www.brookings.edu/articles&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.americanprogressaction.org/&quot;&gt;https://www.americanprogressaction.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://paytonpawprint.com/&quot;&gt;https://paytonpawprint.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.vox.com/&quot;&gt;https://www.vox.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://electoralpolitics.org/en&quot;&gt;https://electoralpolitics.org/en&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.mlstrategies.com/&quot;&gt;https://www.mlstrategies.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://news.gallup.com/opinion&quot;&gt;https://news.gallup.com/opinion&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;united-states-newspapers&quot; tabindex=&quot;-1&quot;&gt;United States Newspapers &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#united-states-newspapers&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.streetroots.org/&quot;&gt;https://www.streetroots.org/  Portland, free  &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.insp.ngo/&quot;&gt;https://www.insp.ngo/ International network of street newspapers &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.sfchronicle.com/&quot;&gt;https://www.sfchronicle.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.huffpost.com/&quot;&gt;https://www.huffpost.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.thedailybeast.com/&quot;&gt;https://www.thedailybeast.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.amny.com/&quot;&gt;https://www.amny.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.bostonglobe.com/&quot;&gt;https://www.bostonglobe.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.seattletimes.com/&quot;&gt;https://www.seattletimes.com/ &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.newsday.com/&quot;&gt;https://www.newsday.com/ &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.startribune.com/&quot;&gt;https://www.startribune.com/ &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.latimes.com/&quot;&gt;https://www.latimes.com/ &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://eedition.inquirer.com/app/PHLINQ&quot;&gt;https://eedition.inquirer.com/app/PHLINQ &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.sfgate.com/&quot;&gt;https://www.sfgate.com/ &lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.michigandaily.com/&quot;&gt;https://www.michigandaily.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://apnews.com/&quot;&gt;https://apnews.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.salon.com/&quot;&gt;https://www.salon.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.govtrack.us/&quot;&gt;https://www.govtrack.us&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.axios.com/&quot;&gt;https://www.axios.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.publicnewsservice.org/&quot;&gt;https://www.publicnewsservice.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://twincities.com/&quot;&gt;https://twincities.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.bu.edu/&quot;&gt;https://www.bu.edu&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://npr.org/news&quot;&gt;https://npr.org/news&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.bloomberg.com/&quot;&gt;https://www.bloomberg.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://captimes.com/&quot;&gt;https://captimes.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.miaminewtimes.com/&quot;&gt;https://www.miaminewtimes.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.thrivedetroit.org/&quot;&gt;https://www.thrivedetroit.org&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;leaders&quot; tabindex=&quot;-1&quot;&gt;Leaders &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#leaders&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Follow specific leaders&lt;br /&gt;
 &lt;a href=&quot;https://x.com/AOC/&quot;&gt;https://x.com/AOC/ &lt;/a&gt;&lt;br /&gt;
@@ -141,14 +181,6 @@
 &lt;a href=&quot;https://omar.house.gov/media&quot;&gt;https://omar.house.gov/media&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://tlaib.house.gov/&quot;&gt;https://tlaib.house.gov/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://jeffries.house.gov/media-center/videos/&quot;&gt;https://jeffries.house.gov/media-center/videos&lt;/a&gt;/&lt;/p&gt;
-&lt;h2 id=&quot;links-to-reading&quot; tabindex=&quot;-1&quot;&gt;Links to reading &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#links-to-reading&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;[&lt;a href=&quot;https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule&quot;&gt;https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule&lt;/a&gt;  ](&lt;a href=&quot;https://freedomhouse.org/report/&quot;&gt;https://freedomhouse.org/report/&lt;/a&gt;      freedom-world/2022/global-expansion-authoritarian-rule  )&lt;br /&gt;
-[&lt;a href=&quot;https://medium.com/deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef&quot;&gt;https://medium.com/deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef&lt;/a&gt;  ](&lt;a href=&quot;https://medium.com/&quot;&gt;https://medium.com/&lt;/a&gt;      deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef  )&lt;br /&gt;
-[&lt;a href=&quot;https://medium.com/@ariallen&quot;&gt;https://medium.com/@ariallen&lt;/a&gt;  A good starting point, in Medium   ](&lt;a href=&quot;https://medium.com/@ariallen&quot;&gt;https://medium.com/@ariallen&lt;/a&gt;  A good starting point, in       Medium   )&lt;br /&gt;
-[&lt;a href=&quot;https://www.thereconstitution.com/the-proposals&quot;&gt;https://www.thereconstitution.com/the-proposals&lt;/a&gt;  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture]      (&lt;a href=&quot;https://www.thereconstitution.com/the-proposals&quot;&gt;https://www.thereconstitution.com/the-proposals&lt;/a&gt;  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture folks.  ) folks.&lt;br /&gt;
-&lt;a href=&quot;https://www.democracynow.org/&quot;&gt;https://www.democracynow.org/ &lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://open.substack.com/pub/natesilver&quot;&gt;https://open.substack.com/pub/natesilver&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://thefulcrum.us/&quot;&gt;https://thefulcrum.u&lt;/a&gt;s&lt;/p&gt;
 &lt;h1 id=&quot;links-to-indivisible-chapters&quot; tabindex=&quot;-1&quot;&gt;Links to Indivisible Chapters &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#links-to-indivisible-chapters&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;These are all independent pages.  The numerous, unconnected sites are very resilient going forward.&lt;/p&gt;
 &lt;h2 id=&quot;best&quot; tabindex=&quot;-1&quot;&gt;Best &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/news/#best&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
@@ -180,42 +212,76 @@ Indivisible Grand Rapids, Michigan&lt;br /&gt;
 	</entry>
 	
 	<entry>
-		<title>TJ Walker Taught Me to Communicate!</title>
-		<link href="https://tatll.me/posts/TJ-Walker-is-a-Communicator/"/>
+		<title>TJ Walker Helped Me Give a Better Talk</title>
+		<link href="https://tatll.me/posts/tj-walker-will-help-you/"/>
 		<updated>2025-08-16T00:00:00Z</updated>
-		<id>https://tatll.me/posts/TJ-Walker-is-a-Communicator/</id>
-		<content type="html">&lt;h2 id=&quot;udemy:-complete-communication-skills&quot; tabindex=&quot;-1&quot;&gt;Udemy: Complete Communication Skills &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/TJ-Walker-is-a-Communicator/#udemy:-complete-communication-skills&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+		<id>https://tatll.me/posts/tj-walker-will-help-you/</id>
+		<content type="html">&lt;h2 id=&quot;udemy:-complete-communication-skills&quot; tabindex=&quot;-1&quot;&gt;Udemy: Complete Communication Skills &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#udemy:-complete-communication-skills&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;A gigantic course cobbled together from TJ Walker&#39;s two hundred mini videos. These are notes I took while listening to TJ talking about talking.&lt;/p&gt;
-&lt;h2 id=&quot;all-communication&quot; tabindex=&quot;-1&quot;&gt;All communication &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/TJ-Walker-is-a-Communicator/#all-communication&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;All communication should be judged by what do your listeners retain and do they then do something.&lt;br /&gt;
+&lt;h2 id=&quot;all-communication&quot; tabindex=&quot;-1&quot;&gt;All communication &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#all-communication&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;All communication should be judged by what your listeners retain. And whether they then &lt;em&gt;do&lt;/em&gt; something.&lt;br /&gt;
 Your goal is to be memorable and to have a call to action.&lt;/p&gt;
-&lt;h2 id=&quot;powerpoint&quot; tabindex=&quot;-1&quot;&gt;Powerpoint &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/TJ-Walker-is-a-Communicator/#powerpoint&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;powerpoint&quot; tabindex=&quot;-1&quot;&gt;Powerpoint &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#powerpoint&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;His preference: don&#39;t.&lt;br /&gt;
-If you must: one idea per slide as an anchor to your talk.&lt;br /&gt;
-Or consider: just an image per slide, nothing else.&lt;/p&gt;
-&lt;h2 id=&quot;introducing-yourself&quot; tabindex=&quot;-1&quot;&gt;Introducing yourself &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/TJ-Walker-is-a-Communicator/#introducing-yourself&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+There&#39;s no such thing as &amp;quot;a tech talk&amp;quot;, &amp;quot;a data talk&amp;quot;, &amp;quot;a formal defense&amp;quot;, &amp;quot;a powerpoint presentation&amp;quot;.  He says there&#39;s only two kinds of presentations: ones that achieve an action by the listener and ones that don&#39;t.  And Powerpoint has to be the icing of your talk, and therefore can be omitted and there&#39;s still a talk. So in that case, consider just having a piece of paper (single piece should last you up to one hour!), and walking around the space.&lt;/p&gt;
+&lt;h2 id=&quot;but-if-you-choose-powerpoint&quot; tabindex=&quot;-1&quot;&gt;But if you choose Powerpoint &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#but-if-you-choose-powerpoint&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If you must: one idea per slide as an anchor to your talk.&lt;br /&gt;
+Or consider: just an image per slide, nothing else.&lt;br /&gt;
+Write, prepare, practice the whole thing, without starting to write the ppt.  Once you have a talk, author the slides.  This forces them to hold no info: just be icing and reinforcement.&lt;br /&gt;
+When you present the talk, never face the slide and read it. There should be nought to read anyway.&lt;br /&gt;
+Use &lt;em&gt;w&lt;/em&gt; or &lt;em&gt;b&lt;/em&gt; to turn off the slides while you talk. Hit any key to resume.&lt;br /&gt;
+Get a clicker-changer that does not multifunction: stay small, just a clicker.  He doesn&#39;t like slide changer assistants (to me he is being silly 80s-man).&lt;/p&gt;
+&lt;h2 id=&quot;sort-of-a-wild-ppt-idea&quot; tabindex=&quot;-1&quot;&gt;Sort of a wild ppt idea &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#sort-of-a-wild-ppt-idea&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Wild idea: his rhythm for ppting is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;with no slide, start your point&lt;/li&gt;
+&lt;li&gt;no slide, give an example story&lt;/li&gt;
+&lt;li&gt;still no slide, maybe teach a mnemonic&lt;/li&gt;
+&lt;li&gt;finally a slide: reviewing the point - and the slide is just a diagram or photo, few or no words&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Golden rule - your ppt goal is for the audience to take some action, going forward.  So, memorize in them a couple of your points.  That means 2 to 5 points, tops. Your lists and high detail belong in a handout, or website they can hit later, or it is a great excuse to get their email address so you have an excuse to get in touch with them.&lt;/p&gt;
+&lt;p&gt;Who&#39;s the boss? Bad presenters let the powerpoint control them and prompt them. Don&#39;t do that.  You be the boss, the ppt works for you.&lt;/p&gt;
+&lt;h2 id=&quot;abstraction-is-your-enemy&quot; tabindex=&quot;-1&quot;&gt;Abstraction is your enemy &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#abstraction-is-your-enemy&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;But TJ, I don&#39;t have a story for that part.&lt;/em&gt;&lt;br /&gt;
+His response is, &lt;em&gt;that probably means its not an important point&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;story-i-zing-things&quot; tabindex=&quot;-1&quot;&gt;Story-i-zing Things &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#story-i-zing-things&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stories have details.&lt;br /&gt;
+They have settings.&lt;br /&gt;
+You have emotions, the other people have full names, and you speak dialogue.&lt;/p&gt;
+&lt;p&gt;This should feel like a radio drama.&lt;/p&gt;
+&lt;p&gt;Mention the weather, avoid pronouns, have 5 senses (sounds, tactile, ...).  BUT DON&#39;T GET SHAGGY: do all this briskly enough that Meg Domroese doesn&#39;t fidget.&lt;/p&gt;
+&lt;h2 id=&quot;introducing-yourself&quot; tabindex=&quot;-1&quot;&gt;Introducing yourself &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#introducing-yourself&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Remember, your goal is to be memorable and to have a call to action.&lt;br /&gt;
-Don&#39;t say name/job/company at beginning.&lt;br /&gt;
-Do:&lt;br /&gt;
+So even when you&#39;re at a camp or meeting and it is time to go around in a circle, he witholds his name for a bit.&lt;/p&gt;
+&lt;p&gt;Don&#39;t say name/job/company at beginning!&lt;/p&gt;
+&lt;p&gt;Do:&lt;br /&gt;
 1 - start by posing a problem they can relate to.&lt;br /&gt;
 2 - then say your name&lt;br /&gt;
 3 - incentivize them to interact with you later, with a freebie or an intrigue of mystery&lt;br /&gt;
 4 - 30 seconds maximum&lt;/p&gt;
-&lt;h2 id=&quot;notes&quot; tabindex=&quot;-1&quot;&gt;Notes &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/TJ-Walker-is-a-Communicator/#notes&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;notes&quot; tabindex=&quot;-1&quot;&gt;Notes &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#notes&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;One sheet: it&#39;s a bad speech if you can&#39;t talk from a single sheet.&lt;br /&gt;
 No levels of indenting or hierarchy.&lt;br /&gt;
 Your triggering your stories.&lt;br /&gt;
-Remember you should only be making 5, 3, or even 2 points. Studies show that nobody will hang onto it otherwise. In which case, why did you even talk?&lt;/p&gt;
-&lt;h2 id=&quot;content&quot; tabindex=&quot;-1&quot;&gt;Content &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/TJ-Walker-is-a-Communicator/#content&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+Remember you should only be making 5, 3, or even 2 points. Studies show that nobody will hang onto it otherwise. In which case, why did you even talk?&lt;br /&gt;
+Your talk made for Powerpoint during a power failure should still work, because when you were writing a &lt;em&gt;TJ-style&lt;/em&gt; talk, you edited your talk down to a single piece of paper, adequate for walking around the space - you only wrote your Powerpoint slides at the end, if you are TJ Walker, so a tech failure shouldn&#39;t bother you.  You revert to that single piece of paper.&lt;/p&gt;
+&lt;h2 id=&quot;content-of-a-story&quot; tabindex=&quot;-1&quot;&gt;Content of a story &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#content-of-a-story&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Describe a real problem.&lt;br /&gt;
 Relate a real conversation about that.&lt;br /&gt;
 Emphasize how you all felt.&lt;br /&gt;
 Solve the problem.&lt;/p&gt;
-&lt;h2 id=&quot;persuasion&quot; tabindex=&quot;-1&quot;&gt;Persuasion &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/TJ-Walker-is-a-Communicator/#persuasion&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;persuasion&quot; tabindex=&quot;-1&quot;&gt;Persuasion &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#persuasion&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Know the finish line.&lt;br /&gt;
 It&#39;s a numbers game. Aim for 75% failure.&lt;br /&gt;
 Improve a little bit each time: always be getting 2% better. It adds up. But to do that you need a feedback mechanism, a reflective practice.&lt;br /&gt;
 10,000 hours rule.&lt;/p&gt;
+&lt;h2 id=&quot;the-eye-contact&quot; tabindex=&quot;-1&quot;&gt;The Eye Contact &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#the-eye-contact&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;90% of us do &lt;em&gt;windshield wiper eyes&lt;/em&gt; when we publicly speak. We sweep the room, hitting all the corners.  TJ says it&#39;s a major, major advantage if you can switch that over to a Bill Clinton eye style.&lt;/p&gt;
+&lt;p&gt;Bill Clinton will talk to one person, for 4 or so sentences, face to face.  Then move along and repeat that.&lt;/p&gt;
+&lt;h2 id=&quot;don&#39;t-multitask-your-listeners&quot; tabindex=&quot;-1&quot;&gt;Don&#39;t multitask your listeners &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/tj-walker-will-help-you/#don&#39;t-multitask-your-listeners&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Just talk.&lt;br /&gt;
+Just show some text.&lt;br /&gt;
+Just give a handout.&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -1660,52 +1726,37 @@ If you&#39;re more interested in &lt;strong&gt;societal evil and moral ambiguity
 		<link href="https://tatll.me/posts/book/"/>
 		<updated>2025-01-20T00:00:00Z</updated>
 		<id>https://tatll.me/posts/book/</id>
-		<content type="html">&lt;p&gt;A book club that meets on the third Sunday each month.&lt;/p&gt;
-&lt;h2 id=&quot;voting-for-our-next-ten-books&quot; tabindex=&quot;-1&quot;&gt;Voting for our next ten books &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/book/#voting-for-our-next-ten-books&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Finished! Thanks for voting. Results are in the schedule below.&lt;/p&gt;
+		<content type="html">&lt;p&gt;A book club that meets on the &lt;s&gt;third&lt;/s&gt; &lt;em&gt;fourth&lt;/em&gt; Sunday each month.&lt;/p&gt;
 &lt;h2 id=&quot;upcoming-book-discussions&quot; tabindex=&quot;-1&quot;&gt;Upcoming book discussions &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/book/#upcoming-book-discussions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;s&gt;Sunday, July 20&lt;/s&gt;&lt;br /&gt;
-Postponed to&lt;br /&gt;
-Sunday August 3&lt;br /&gt;
-Richard Powers: The Overstory    502 pages&lt;/p&gt;
-&lt;p&gt;Sunday, August 17&lt;br /&gt;
-Silk by Alessandro Baricco, Guido Waldman (Translator )&lt;br /&gt;
-91 Pages&lt;br /&gt;
-&lt;a href=&quot;https://www.goodreads.com/book/show/61264.Silk?ac=1&quot;&gt;LINK&lt;/a&gt;&lt;br /&gt;
-Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?&lt;/p&gt;
-&lt;p&gt;Sunday, September 21&lt;br /&gt;
-Heartwood by Amity Gage&lt;br /&gt;
-320 pages&lt;br /&gt;
-&lt;a href=&quot;https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, October 19&lt;br /&gt;
+&lt;p&gt;Sunday, October 26&lt;br /&gt;
 Shadows of Forgotten Ancestors by Carl Sagan and Ann Druyan&lt;br /&gt;
 528 pages - non fiction&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/61662.Shadows_of_Forgotten_Ancestors&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, November 16&lt;br /&gt;
+&lt;p&gt;Sunday, November 23&lt;br /&gt;
 Kitchen by Banana Yoshimoto, Megan Backus  (Translator)&lt;br /&gt;
 160 pages&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/50144.Kitchen&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, December 21&lt;br /&gt;
+&lt;p&gt;Sunday, December 28&lt;br /&gt;
 Martyr!   by Kaveh Akbar&lt;br /&gt;
 331 pages&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/139400713-martyr&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, January 18&lt;br /&gt;
+&lt;p&gt;Sunday, January 25&lt;br /&gt;
 Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism   by Sarah Wynn-Williams&lt;br /&gt;
 382 pages, non fiction&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/223436601-careless-people&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, February 15&lt;br /&gt;
+&lt;p&gt;Sunday, February 22&lt;br /&gt;
 Semiosis   (Semiosis #1)   by Sue Burke&lt;br /&gt;
 333 pages, science fiction&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/35018907-semiosis&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, March 15&lt;br /&gt;
+&lt;p&gt;Sunday, March 22&lt;br /&gt;
 The Ocean at the End of the Lane by Neil Gaiman&lt;br /&gt;
 195 pages&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, April 19&lt;br /&gt;
+&lt;p&gt;Sunday, April 26&lt;br /&gt;
 When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams&lt;br /&gt;
 208 pages, non fiction&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/13166601-when-women-were-birds&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sunday, May 17&lt;br /&gt;
+&lt;p&gt;Sunday, May 24&lt;br /&gt;
 The Arrival By Shaun Tan&lt;br /&gt;
 132 pages - graphic novel&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/920607.The_Arrival&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
@@ -1778,6 +1829,17 @@ Raymond Carver: What We Talk About When We Talk About Love,  159 pages&lt;/p&gt;
 Percival Everett: James, 302 pages&lt;/p&gt;
 &lt;p&gt;Sunday June 15&lt;br /&gt;
 Samantha Harvey: Orbital, 207 pages&lt;/p&gt;
+&lt;p&gt;Sunday August 3 (postponed from July because nobody was done with the book yet)&lt;br /&gt;
+Richard Powers: The Overstory    502 pages&lt;/p&gt;
+&lt;p&gt;Sunday, August 17&lt;br /&gt;
+Silk by Alessandro Baricco, Guido Waldman (Translator )&lt;br /&gt;
+91 Pages&lt;br /&gt;
+&lt;a href=&quot;https://www.goodreads.com/book/show/61264.Silk?ac=1&quot;&gt;LINK&lt;/a&gt;&lt;br /&gt;
+Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?&lt;/p&gt;
+&lt;p&gt;Sunday, September 21&lt;br /&gt;
+Heartwood by Amity Gage&lt;br /&gt;
+320 pages&lt;br /&gt;
+&lt;a href=&quot;https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;welcome&quot; tabindex=&quot;-1&quot;&gt;Welcome &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/book/#welcome&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Bring friends and guests: they are welcome and appreciated.&lt;/p&gt;
 </content>

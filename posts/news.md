@@ -22,52 +22,35 @@ If you know me (Evan), text a URL to me and I will put it at the top here.
 [https://www.nd-aktuell.de](https://www.nd-aktuell.de)      
 [https://www.liberties.eu   ](https://www.liberties.eu   )      
 [https://www.bbc.co.uk](https://www.bbc.co.uk)      
-[https://www.sv.uio.n](https://www.sv.uio.no)o      
+[https://www.sv.uio.n](https://www.sv.uio.no)      
+
+## Other news sources   
+[https://www.counterpunch.org](https://www.counterpunch.org)      
+[https://slashdot.org/  ](https://slashdot.org/  )        
+[https://www.wired.com/  ](https://www.wired.com/  )        
+[https://slashdot.org/  ](https://slashdot.org/  )        
+[https://www.theregister.com/  ](https://www.theregister.com/  )        
+[https://www.theverge.com/](https://www.theverge.com/)        
+[https://www.c-span.org/](https://www.c-span.org/)        
+[https://wiseye.org/category/rewind-your-week-in-review/](https://wiseye.org/category/rewind-your-week-in-review/)        
+[https://pelicanweb.org  ](https://pelicanweb.org  )        
+[https://brevitymag.com  ](https://brevitymag.com  )        
+[https://www.scrippsnews.com](https://www.scrippsnews.com)        
+[https://iop.harvard.ed](https://iop.harvard.edu)        
+
+## Links to reading        
+[https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule  ](https://freedomhouse.org/report/      freedom-world/2022/global-expansion-authoritarian-rule  )
+[https://medium.com/deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef  ](https://medium.com/      deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef  )
+[https://medium.com/@ariallen  A good starting point, in Medium   ](https://medium.com/@ariallen  A good starting point, in       Medium   )
+[https://www.thereconstitution.com/the-proposals  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture]      (https://www.thereconstitution.com/the-proposals  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture folks.  ) folks.  
+[https://www.democracynow.org/ ](https://www.democracynow.org/ )      
+[https://open.substack.com/pub/natesilver](https://open.substack.com/pub/natesilver)      
+[https://thefulcrum.u](https://thefulcrum.us)  
+[https://slate.com](https://slate.com)        
       
-      
-## United States Newspapers      
-[https://www.streetroots.org/  Portland, free  ](https://www.streetroots.org/)      
-[https://www.insp.ngo/ International network of street newspapers ](https://www.insp.ngo/)      
-[https://www.sfchronicle.com/](https://www.sfchronicle.com/)      
-[https://www.huffpost.com/](https://www.huffpost.com/)      
-[https://www.thedailybeast.com/](https://www.thedailybeast.com/)      
-[https://www.amny.com/](https://www.amny.com/)      
-[https://www.bostonglobe.com/](https://www.bostonglobe.com/)      
-[https://www.seattletimes.com/ ](https://www.seattletimes.com/ )      
-[https://www.newsday.com/ ](https://www.newsday.com/ )      
-[https://www.startribune.com/ ](https://www.startribune.com/ )      
-[https://www.latimes.com/ ](https://www.latimes.com/ )      
-[https://eedition.inquirer.com/app/PHLINQ ](https://eedition.inquirer.com/app/PHLINQ )      
-[https://www.sfgate.com/ ](https://www.sfgate.com/ )      
-[https://www.michigandaily.com/](https://www.michigandaily.com/)      
-[https://apnews.com](https://apnews.com)      
-[https://www.salon.com](https://www.salon.com)      
-[https://www.govtrack.us](https://www.govtrack.us)      
-[https://www.axios.com](https://www.axios.com)      
-[https://www.publicnewsservice.org](https://www.publicnewsservice.org)      
-[https://twincities.com](https://twincities.com)      
-[https://www.bu.edu](https://www.bu.edu)      
-[https://npr.org/news](https://npr.org/news)      
-[https://www.bloomberg.com](https://www.bloomberg.com)      
-[https://captimes.com](https://captimes.com)      
-[https://www.miaminewtimes.com](https://www.miaminewtimes.com)      
-[https://www.thrivedetroit.org](https://www.thrivedetroit.org/)      
-      
-## Other news sources       
-[https://slashdot.org/  ](https://slashdot.org/  )      
-[https://www.wired.com/  ](https://www.wired.com/  )      
-[https://slashdot.org/  ](https://slashdot.org/  )      
-[https://www.theregister.com/  ](https://www.theregister.com/  )      
-[https://www.theverge.com/](https://www.theverge.com/)      
-[https://www.c-span.org/](https://www.c-span.org/)      
-[https://wiseye.org/category/rewind-your-week-in-review/](https://wiseye.org/category/rewind-your-week-in-review/)      
-[https://pelicanweb.org  ](https://pelicanweb.org  )      
-[https://brevitymag.com  ](https://brevitymag.com  )      
-[https://www.scrippsnews.com](https://www.scrippsnews.com)      
-[https://iop.harvard.ed](https://iop.harvard.edu)      
 
 ## Org sites with lots to read on their site  
-  
+[https://americanplayers.org/about/history/production-history](https://americanplayers.org/about/history/production-history)  
 [http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/](http://www.bobdylancommentaries.com/another-side-of-bob-dylan/iste/)   
 [https://commonslibrary.org/books-to-read-if-you-are-interested-in-activism-social-change-and-justice/](https://commonslibrary.org/books-to-read-if-you-are-interested-in-activism-social-change-and-justice/)   
 [https://ballotpedia.org/Special_elections_to_the_119th_United_States_Congress_(2025-2026)](https://ballotpedia.org/Special_elections_to_the_119th_United_States_Congress_(2025-2026))   
@@ -102,6 +85,47 @@ If you know me (Evan), text a URL to me and I will put it at the top here.
 [https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclable](https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables)   
 
 
+## Analysis of election results
+[https://www.cookpolitical.com/analysis](https://www.cookpolitical.com/analysis)   
+[https://rollcall.com/](https://rollcall.com/)   
+[https://campaignsandelections.com/industry-news/](https://campaignsandelections.com/industry-news/)   
+[https://www.brookings.edu/articles](https://www.brookings.edu/articles)   
+[https://www.americanprogressaction.org/](https://www.americanprogressaction.org/)   
+[https://paytonpawprint.com/](https://paytonpawprint.com/)   
+[https://www.vox.com/](https://www.vox.com/)   
+[https://electoralpolitics.org/en](https://electoralpolitics.org/en)   
+[https://www.mlstrategies.com/](https://www.mlstrategies.com/)   
+[https://news.gallup.com/opinion](https://news.gallup.com/opinion)   
+     
+      
+## United States Newspapers      
+[https://www.streetroots.org/  Portland, free  ](https://www.streetroots.org/)      
+[https://www.insp.ngo/ International network of street newspapers ](https://www.insp.ngo/)      
+[https://www.sfchronicle.com/](https://www.sfchronicle.com/)      
+[https://www.huffpost.com/](https://www.huffpost.com/)      
+[https://www.thedailybeast.com/](https://www.thedailybeast.com/)      
+[https://www.amny.com/](https://www.amny.com/)      
+[https://www.bostonglobe.com/](https://www.bostonglobe.com/)      
+[https://www.seattletimes.com/ ](https://www.seattletimes.com/ )      
+[https://www.newsday.com/ ](https://www.newsday.com/ )      
+[https://www.startribune.com/ ](https://www.startribune.com/ )      
+[https://www.latimes.com/ ](https://www.latimes.com/ )      
+[https://eedition.inquirer.com/app/PHLINQ ](https://eedition.inquirer.com/app/PHLINQ )      
+[https://www.sfgate.com/ ](https://www.sfgate.com/ )      
+[https://www.michigandaily.com/](https://www.michigandaily.com/)      
+[https://apnews.com](https://apnews.com)      
+[https://www.salon.com](https://www.salon.com)      
+[https://www.govtrack.us](https://www.govtrack.us)      
+[https://www.axios.com](https://www.axios.com)      
+[https://www.publicnewsservice.org](https://www.publicnewsservice.org)      
+[https://twincities.com](https://twincities.com)      
+[https://www.bu.edu](https://www.bu.edu)      
+[https://npr.org/news](https://npr.org/news)      
+[https://www.bloomberg.com](https://www.bloomberg.com)      
+[https://captimes.com](https://captimes.com)      
+[https://www.miaminewtimes.com](https://www.miaminewtimes.com)      
+[https://www.thrivedetroit.org](https://www.thrivedetroit.org/)      
+      
 
 ## Leaders        
 Follow specific leaders        
@@ -127,25 +151,6 @@ Follow specific leaders
 [https://tlaib.house.gov/](https://tlaib.house.gov/)      
 [https://jeffries.house.gov/media-center/videos](https://jeffries.house.gov/media-center/videos/)/      
       
-      
-      
-      
-      
-      
-## Links to reading        
-[https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule  ](https://freedomhouse.org/report/      freedom-world/2022/global-expansion-authoritarian-rule  )
-[https://medium.com/deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef  ](https://medium.com/      deep-breadth/the-architecture-of-authoritarianism-the-4-pillars-of-maga-e8dc795b7fef  )
-[https://medium.com/@ariallen  A good starting point, in Medium   ](https://medium.com/@ariallen  A good starting point, in       Medium   )
-[https://www.thereconstitution.com/the-proposals  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture]      (https://www.thereconstitution.com/the-proposals  Visionaries, not thrilled with the Democrats.  Non-partisan, bigger picture folks.  ) folks.  
-[https://www.democracynow.org/ ](https://www.democracynow.org/ )      
-[https://open.substack.com/pub/natesilver](https://open.substack.com/pub/natesilver)      
-[https://thefulcrum.u](https://thefulcrum.us)s      
-      
-      
-
-
-
-
 
 # Links to Indivisible Chapters  
 These are all independent pages.  The numerous, unconnected sites are very resilient going forward.    
