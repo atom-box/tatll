@@ -12,6 +12,17 @@ The what's-the-plan call happens every week. Leah and Ezra, cofounders of the na
   
 # Notes from September 25, 2025   
 Opening welcomes: two new Utah indivisible groups, and a high school group.  College groups are plentiful but high school group is noteworthy.   
+
+## Schumer, government shut down  
+PUSH FOR THIS, it is 25% of our priorities this month.
+
+See the link here for clear philosophy and plan:  [https://indivisible.org/campaign/government-funding-showdown-no-blank-checks-trump](https://indivisible.org/campaign/government-funding-showdown-no-blank-checks-trump)  
+  
+
+Democrats have improved: this time they drew a line in the sand. ACA, Medicare restore, an end to recisions nonsense as the line in the sand.  
+Unfortunately, leaders are followers. So we have to lead the Gillibrand senators in this.  
+
+
   
 ## Feel great about this Kimmel victory  
 Encouraging: Robert Reich, et al sense a tipping point. Leah Greenberg not so much: like an athlete who scored a point, regroup, stay calm, stay in formation. And prepare for setbacks and being a point down.  In other words try to vibe the Kimmel victory as fuel to get you through future hard times. Fuel recruiting and messaging with the Kimmel victory.     
@@ -27,9 +38,6 @@ Again: very important to stay non violent.
 ## Boycotts    
 Works at Target, Disney+.  Doesn't work at Sinclair maybe.    
   
-## Schumer, government shut down  
-Democrats have improved: this time they drew a line in the sand. ACA, Medicare restore, an end to recisions nonsense as the line in the sand.  
-Unfortunately, leaders are followers. So we have to lead the Gillibrand senators in this.  
 
 ## Attract young people to Indivisible  
 "Protect our democracy, protect our existing system" - not a frame that works with young people.  They start from feeling that the system has failed them.  
