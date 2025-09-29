@@ -357,7 +357,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
+    <loc>https://tatll.me/tags/management/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -367,32 +367,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/management/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/books/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/efficiency/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -402,27 +382,17 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/linux/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/drupal/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/gang/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -432,7 +402,37 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/fitness/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/sql/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
+    <lastmod>2023-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/gang/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
   
@@ -449,6 +449,11 @@
   <url>
     <loc>https://tatll.me/posts/travel-from-madison/</loc>
     <lastmod>2024-01-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/teepublic-shirt-sizes/</loc>
+    <lastmod>2024-03-03</lastmod>
   </url>
   
   <url>
@@ -612,12 +617,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/news/</loc>
+    <loc>https://tatll.me/posts/indivisible-meeting-at-core-cohousing/</loc>
     <lastmod>2025-08-28</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/what%20I%20learned%20from%20Anne%20Applebaum%20copy%202/</loc>
+    <loc>https://tatll.me/posts/news/</loc>
     <lastmod>2025-08-28</lastmod>
   </url>
   

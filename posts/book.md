@@ -36,25 +36,29 @@ Semiosis   (Semiosis #1)   by Sue Burke
 [LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
   
 Sunday, March 22
+North Woods by Daniel Mason 
+365 pages  
+[LINK](https://www.nytimes.com/2023/09/19/books/review/daniel-mason-north-woods.html)
+  
+Sunday, April 26
 The Ocean at the End of the Lane by Neil Gaiman  
 195 pages   
 [LINK](https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane)  
   
-Sunday, April 26
+Sunday, May 24
 When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams   
 208 pages, non fiction   
 [LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
-  
-Sunday, May 24
+
+Sunday June 28    
 The Arrival By Shaun Tan  
 132 pages - graphic novel  
 [LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
     
   
-
 ## Day and time   
-We meet the third Sunday of each month.  
-__Time__ Netherlands: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
+We meet the fourth Sunday of each month.  
+__Time__ Europe-CET: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
     
 
 ## Call link for all meetings #

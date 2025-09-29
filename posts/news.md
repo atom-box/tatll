@@ -99,7 +99,9 @@ If you know me (Evan), text a URL to me and I will put it at the top here.
      
       
 ## United States Newspapers      
+[https://www.vanityfair.com](https://www.vanityfair.com)      
 [https://www.streetroots.org/  Portland, free  ](https://www.streetroots.org/)      
+[https://www.rollingstone.com](https://www.rollingstone.com/politics/politics-features)
 [https://www.insp.ngo/ International network of street newspapers ](https://www.insp.ngo/)      
 [https://www.sfchronicle.com/](https://www.sfchronicle.com/)      
 [https://www.huffpost.com/](https://www.huffpost.com/)      
@@ -125,7 +127,6 @@ If you know me (Evan), text a URL to me and I will put it at the top here.
 [https://captimes.com](https://captimes.com)      
 [https://www.miaminewtimes.com](https://www.miaminewtimes.com)      
 [https://www.thrivedetroit.org](https://www.thrivedetroit.org/)      
-      
 
 ## Leaders        
 Follow specific leaders        
