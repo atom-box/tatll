@@ -69,6 +69,46 @@ You can check your tech: click the above link now. It works on phone or desktop.
 
   
 
+## Past Meetings
+December 2024
+Raymond Carver: Bicycles, Muscles, Cigarettes    
+Lauren Groff: The Midnight Zone  
+  
+January 2025
+The Hermit's Story, by Rick Bass  
+The Last Thing We Need, by Claire Vaye Watkins  
+  
+February 2025
+The Red Convertible by Louise Erdrich  
+The Fix by Percival Everett  
+
+March 2025    
+Ursula K Le Guin: The Ones Who Walk Away from Omelas  
+
+Sunday, April 20   
+Raymond Carver: What We Talk About When We Talk About Love,  159 pages
+  
+Sunday, May 18  
+Percival Everett: James, 302 pages 
+  
+Sunday June 15  
+Samantha Harvey: Orbital, 207 pages  
+
+Sunday August 3 (postponed from July because nobody was done with the book yet)     
+Richard Powers: The Overstory    502 pages  
+  
+Sunday, August 17
+Silk by Alessandro Baricco, Guido Waldman (Translator )  
+91 Pages
+[LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1)
+Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?      
+
+Sunday, September 21
+Heartwood by Amity Gage  
+320 pages
+[LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
+  
+
 ## ✏️ Runners up
 In no particular order, here are books which have been nominated in the past and for one reason or another, were not chosen.  Consider them for the future.    
 * The Best American Short Stories 2024 by (editor) Lauren Groff  
@@ -120,46 +160,6 @@ Tom Farley
 [LINK](https://www.goodreads.com/book/show/1273282.Prescription_for_a_Healthy_Nation)  
   
 
-
-## Past Meetings
-December 2024
-Raymond Carver: Bicycles, Muscles, Cigarettes    
-Lauren Groff: The Midnight Zone  
-  
-January 2025
-The Hermit's Story, by Rick Bass  
-The Last Thing We Need, by Claire Vaye Watkins  
-  
-February 2025
-The Red Convertible by Louise Erdrich  
-The Fix by Percival Everett  
-
-March 2025    
-Ursula K Le Guin: The Ones Who Walk Away from Omelas  
-
-Sunday, April 20   
-Raymond Carver: What We Talk About When We Talk About Love,  159 pages
-  
-Sunday, May 18  
-Percival Everett: James, 302 pages 
-  
-Sunday June 15  
-Samantha Harvey: Orbital, 207 pages  
-
-Sunday August 3 (postponed from July because nobody was done with the book yet)     
-Richard Powers: The Overstory    502 pages  
-  
-Sunday, August 17
-Silk by Alessandro Baricco, Guido Waldman (Translator )  
-91 Pages
-[LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1)
-Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?      
-
-Sunday, September 21
-Heartwood by Amity Gage  
-320 pages
-[LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
-  
 
 
 ## Welcome    
