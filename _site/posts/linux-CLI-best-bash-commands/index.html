@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>  CLI History Greatest BASh Commands</title>
+    <title>  Disk and Media Mounting, Greatest BASh Commands</title>
     <meta name="description" content="This is the official website of Evan Genest. This exact page is about... I keep notes here. Most of these are related to travel, work, or books.">
     <meta name="keywords" content="Evan Genest, biography, projects, work, personal website, portfolio, blog, about Evan Genest">
     <meta name="author" content="Evan Genest">
@@ -39,31 +39,54 @@
       <!-- EM element closing tag to fix formatting BUG -->
          
       </div>
-      <h1>CLI History Greatest BASh Commands</h1>
+      <h1>Disk and Media Mounting, Greatest BASh Commands</h1>
 
-<time datetime="2024-06-01">01 Jun 2024</time><a href="/tags/drupal/" class="post-tag">drupal</a>
+<time datetime="2025-10-01">01 Oct 2025</time><a href="/tags/linux/" class="post-tag">linux</a>
 
-<h2 id="recognizing-a-mounted-usb:" tabindex="-1">Recognizing a mounted USB: <a class="direct-link" href="#recognizing-a-mounted-usb:" aria-hidden="true">#</a></h2>
-<p>610  lsblk<br>
-611  sudo fdisk -l<br>
-612  lsblk | grep sdb<br>
-613* lsblk<br>
-614  lsblk | grep sd<br>
-615  lsblk -s<br>
-616  lsblk -sa<br>
-617  sudo blkid<br>
-618  lsblk<br>
-619  lsusb<br>
-620  dmesg | grep -i usb<br>
-621  sudo dmesg | grep -i usb<br>
-622  sudo dmesg | grep -i clip<br>
-623  sudo dmesg | grep -i sandisk<br>
-624* sudo dmesg | gr<br>
-625  sudo dmesg | grep -i manufacturer | wc<br>
-626  sudo dmesg | grep -i manufacturer</p>
+<h2 id="recognizing-a-mounted-usb-for-my-mp3-player:" tabindex="-1">Recognizing a mounted USB for my MP3 Player: <a class="direct-link" href="#recognizing-a-mounted-usb-for-my-mp3-player:" aria-hidden="true">#</a></h2>
+<pre><code>  610  lsblk
+  611  sudo fdisk -l &lt; = = crucial and useful discoverer 
+  612  lsblk | grep sdb
+  613* lsblk  
+  614  lsblk | grep sd
+  615  lsblk -s
+  616  lsblk -sa
+  617  sudo blkid
+  618  lsblk
+  619  lsusb
+  620  dmesg | grep -i usb
+  621  sudo dmesg | grep -i usb
+  622  sudo dmesg | grep -i clip
+  623  sudo dmesg | grep -i sandisk
+  624* sudo dmesg | gr
+  625  sudo dmesg | grep -i manufacturer | wc
+  626  sudo dmesg | grep -i manufacturer 
+</code></pre>
+<h2 id="useful-when-mounting-my-two-external-backup-drives" tabindex="-1">Useful when mounting my two external backup drives <a class="direct-link" href="#useful-when-mounting-my-two-external-backup-drives" aria-hidden="true">#</a></h2>
+<pre><code> 4272  sudo fdisk -l
+ 4273  sudo mkdir -p /mnt/externalbackupsmall
+ 4281  which ntfs-3g
+ 4279  sudo apt install ntfs-3g
+ 4282  sudo ntfsfix /dev/sda1
+ 4283  sudo mount -t ntfs-3g /dev/sda1 /mnt/externalbackupsmall/
+ 4291  sudo mkdir /mnt/externalbackuplarge
+ 4293  sudo ntfsfix /dev/sdb1
+ 4297  sudo umount  /dev/sda1 
+ 4298  sudo umount /dev/sdb1
+</code></pre>
+<p>or</p>
+<pre><code>$ sudo ntfsfix /dev/sda1
+Mounting volume... OK
+Processing of $MFT and $MFTMirr completed successfully.
+Checking the alternate boot sector... OK
+NTFS volume version is 3.1.
+NTFS partition /dev/sda1 was processed successfully.
+$ sudo mkdir /media/yvan/four_TB/
+$ sudo mount -t ntfs-3g /dev/sda1 /media/yvan/four_TB/
+</code></pre>
 
 <hr>
-<ul><li>Next: <a href="/posts/travel-proposal-for-hike-up-stromboli-island-volcano/">Proposal for a Hike Up the Stromboli Volcano</a></li><li>Previous: <a href="/posts/packing-list-for-spring-Minnesota/">Packing list for city 50F lows 70F highs</a></li>
+<ul><li>Next: <a href="/posts/book/">The BotMASS Book Club</a></li><li>Previous: <a href="/posts/whats-the-plan-call-indivisible/">What&#39;s the Plan Indivisible Weekly Call</a></li>
 </ul>
 
     </main>

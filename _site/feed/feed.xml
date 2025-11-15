@@ -5,12 +5,43 @@
 	
 	<link href="https://tatll.me/feed/feed.xml" rel="self"/>
 	<link href="https://tatll.me/"/>
-	<updated>2025-10-20T00:00:00Z</updated>
+	<updated>2025-10-27T00:00:00Z</updated>
 	<id>https://tatll.me/</id>
 	<author>
 		<name>Evan Genest</name>
 		<email>genest.1@osu.edu</email>
 	</author>
+	
+	<entry>
+		<title>Messaging Around No Kings Protests</title>
+		<link href="https://tatll.me/posts/nokings-protest/"/>
+		<updated>2025-10-27T00:00:00Z</updated>
+		<id>https://tatll.me/posts/nokings-protest/</id>
+		<content type="html">&lt;h1 id=&quot;style-and-language&quot; tabindex=&quot;-1&quot;&gt;Style and Language &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/nokings-protest/#style-and-language&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;What style and language gives the clearest, most sincere engagment?&lt;/p&gt;
+&lt;p&gt;Recognize we are big tent, and there will come a time for playing offense, but most of 2025 and 2026 will be defense.  It&#39;s the job of No Kings to say No. It&#39;s right in the title.&lt;/p&gt;
+&lt;h2 id=&quot;summary-of-what-we-are-against&quot; tabindex=&quot;-1&quot;&gt;Summary of what we are against &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/nokings-protest/#summary-of-what-we-are-against&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;josh-marshall-version&quot; tabindex=&quot;-1&quot;&gt;Josh Marshall version &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/nokings-protest/#josh-marshall-version&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://talkingpointsmemo.com/edblog/the-subtle-genius-of-no-kings&quot;&gt;Josh Marshall&#39;s Talking Points Memo&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The politicized Justice Department&lt;/li&gt;
+&lt;li&gt;Violent ICE paramilitaries and Kavanaugh stops&lt;/li&gt;
+&lt;li&gt;Gutting and corrupting the civil service&lt;/li&gt;
+&lt;li&gt;Election rigging?&lt;/li&gt;
+&lt;li&gt;Military invasions of American cities&lt;/li&gt;
+&lt;li&gt;Flagrant corruption across all of the Trump administration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;evan-genest-(me)&quot; tabindex=&quot;-1&quot;&gt;Evan Genest (me) &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/nokings-protest/#evan-genest-(me)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I&#39;m parking my own bullet points here.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Changing spending already voted by another branch of the government&lt;/li&gt;
+&lt;li&gt;Opposite of correct response when there is national violence&lt;/li&gt;
+&lt;li&gt;Preference to foreign powers, if they are dictators, over 50% of America&lt;/li&gt;
+&lt;li&gt;Treating our day to day as his own reality show, desperate for ratings&lt;/li&gt;
+&lt;li&gt;His constituencies: Ratings &amp;gt; MAGA &amp;gt; Foreign dictators &amp;gt; Evangelical Christians &amp;gt;&amp;gt; Liberal Americans and Blue Cities/States&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>The BotMASS Book Club</title>
@@ -137,6 +168,55 @@ Tom Farley&lt;br /&gt;
 &lt;a href=&quot;https://www.goodreads.com/book/show/1273282.Prescription_for_a_Healthy_Nation&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;welcome&quot; tabindex=&quot;-1&quot;&gt;Welcome &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/book/#welcome&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Bring friends and guests: they are welcome and appreciated.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Disk and Media Mounting, Greatest BASh Commands</title>
+		<link href="https://tatll.me/posts/linux-CLI-best-bash-commands/"/>
+		<updated>2025-10-01T00:00:00Z</updated>
+		<id>https://tatll.me/posts/linux-CLI-best-bash-commands/</id>
+		<content type="html">&lt;h2 id=&quot;recognizing-a-mounted-usb-for-my-mp3-player:&quot; tabindex=&quot;-1&quot;&gt;Recognizing a mounted USB for my MP3 Player: &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/linux-CLI-best-bash-commands/#recognizing-a-mounted-usb-for-my-mp3-player:&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;  610  lsblk
+  611  sudo fdisk -l &amp;lt; = = crucial and useful discoverer 
+  612  lsblk | grep sdb
+  613* lsblk  
+  614  lsblk | grep sd
+  615  lsblk -s
+  616  lsblk -sa
+  617  sudo blkid
+  618  lsblk
+  619  lsusb
+  620  dmesg | grep -i usb
+  621  sudo dmesg | grep -i usb
+  622  sudo dmesg | grep -i clip
+  623  sudo dmesg | grep -i sandisk
+  624* sudo dmesg | gr
+  625  sudo dmesg | grep -i manufacturer | wc
+  626  sudo dmesg | grep -i manufacturer 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;useful-when-mounting-my-two-external-backup-drives&quot; tabindex=&quot;-1&quot;&gt;Useful when mounting my two external backup drives &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/linux-CLI-best-bash-commands/#useful-when-mounting-my-two-external-backup-drives&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt; 4272  sudo fdisk -l
+ 4273  sudo mkdir -p /mnt/externalbackupsmall
+ 4281  which ntfs-3g
+ 4279  sudo apt install ntfs-3g
+ 4282  sudo ntfsfix /dev/sda1
+ 4283  sudo mount -t ntfs-3g /dev/sda1 /mnt/externalbackupsmall/
+ 4291  sudo mkdir /mnt/externalbackuplarge
+ 4293  sudo ntfsfix /dev/sdb1
+ 4297  sudo umount  /dev/sda1 
+ 4298  sudo umount /dev/sdb1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ sudo ntfsfix /dev/sda1
+Mounting volume... OK
+Processing of $MFT and $MFTMirr completed successfully.
+Checking the alternate boot sector... OK
+NTFS volume version is 3.1.
+NTFS partition /dev/sda1 was processed successfully.
+$ sudo mkdir /media/yvan/four_TB/
+$ sudo mount -t ntfs-3g /dev/sda1 /media/yvan/four_TB/
+&lt;/code&gt;&lt;/pre&gt;
 </content>
 	</entry>
 	
@@ -3376,32 +3456,6 @@ Time up and down: 9am to 4pm.  Very civilized; no early rising required.&lt;/p&g
 &lt;a href=&quot;https://pikl.us/lapwiz38&quot;&gt;https://pikl.us/lapwiz38&lt;/a&gt;&lt;br /&gt;
 {&lt;a href=&quot;https://pikl.us/kebror13&quot;&gt;https://pikl.us/kebror13&lt;/a&gt;}(&lt;a href=&quot;https://pikl.us/kebror13&quot;&gt;https://pikl.us/kebror13&lt;/a&gt;)&lt;br /&gt;
 &lt;a href=&quot;https://pikl.us/hogbas48&quot;&gt;https://pikl.us/hogbas48&lt;/a&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>CLI History Greatest BASh Commands</title>
-		<link href="https://tatll.me/posts/linux-CLI-best-bash-commands/"/>
-		<updated>2024-06-01T00:00:00Z</updated>
-		<id>https://tatll.me/posts/linux-CLI-best-bash-commands/</id>
-		<content type="html">&lt;h2 id=&quot;recognizing-a-mounted-usb:&quot; tabindex=&quot;-1&quot;&gt;Recognizing a mounted USB: &lt;a class=&quot;direct-link&quot; href=&quot;https://tatll.me/posts/linux-CLI-best-bash-commands/#recognizing-a-mounted-usb:&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;610  lsblk&lt;br /&gt;
-611  sudo fdisk -l&lt;br /&gt;
-612  lsblk | grep sdb&lt;br /&gt;
-613* lsblk&lt;br /&gt;
-614  lsblk | grep sd&lt;br /&gt;
-615  lsblk -s&lt;br /&gt;
-616  lsblk -sa&lt;br /&gt;
-617  sudo blkid&lt;br /&gt;
-618  lsblk&lt;br /&gt;
-619  lsusb&lt;br /&gt;
-620  dmesg | grep -i usb&lt;br /&gt;
-621  sudo dmesg | grep -i usb&lt;br /&gt;
-622  sudo dmesg | grep -i clip&lt;br /&gt;
-623  sudo dmesg | grep -i sandisk&lt;br /&gt;
-624* sudo dmesg | gr&lt;br /&gt;
-625  sudo dmesg | grep -i manufacturer | wc&lt;br /&gt;
-626  sudo dmesg | grep -i manufacturer&lt;/p&gt;
 </content>
 	</entry>
 	
