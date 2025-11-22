@@ -127,11 +127,6 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/sql-challenges-large-db/</loc>
-    <lastmod>2021-11-17</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/posts/sql-challenges-small-db/</loc>
     <lastmod>2021-11-17</lastmod>
   </url>
@@ -577,12 +572,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -597,12 +592,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/meetings/</loc>
+    <loc>https://tatll.me/tags/books/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/books/</loc>
+    <loc>https://tatll.me/tags/meetings/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -644,5 +639,10 @@
   <url>
     <loc>https://tatll.me/posts/nokings-protest/</loc>
     <lastmod>2025-10-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/saludarity/</loc>
+    <lastmod>2025-11-16</lastmod>
   </url>
 </urlset>
