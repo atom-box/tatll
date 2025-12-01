@@ -8,9 +8,9 @@ layout: layouts/post.njk
 ---
 
 
-# Banana Madison
+# Wisconsin Is Fine
 
-Banana Madison is a weekly action group building people-powered resistance to authoritarianism.
+WIFI a weekly brainstorming group motivating each other to say no, building people-powered resistance to authoritarianism.
 
 ## The meetup
 
@@ -48,6 +48,7 @@ We meet at Garth's Brew Bar near the Monroe St Trader Joe’s.
 * picket
 * dance-party flash mobs
 * sign-hold
+* distribute sign holding lists  
 * chalking
 * hash-tag
 * art show
@@ -55,7 +56,18 @@ We meet at Garth's Brew Bar near the Monroe St Trader Joe’s.
 * zine
 * how to have conversations across party lines
 * how to talk to family members
-* watch parties and movie nights
+* watch parties to spread Erika Chenwith, Resistance Lab, and What's the Plan awareness  
+* dinner parties
+* make messages and stickers
+* lawn sign lending library of unique signs 
+* Fake flyers, with tear offs
+* Make zines
+* Distribute existing zines made by other folks 
+* Sell at cost the Indivisible Plan 
+* Training booth for how to make a call to a 5 calls target for people who have never called 
+* Don't reinvent the wheel: spread and riff on existing campaigns
+* do any of the above while wearing a banana costume
+
 
 ## Further details: Yes/No guidelines (clear format)
 
@@ -90,3 +102,12 @@ Show up, bring your ideas.
 ## Time
 
 We don't have a time yet: [https://crab.fit/saluditorians-675899](https://crab.fit/saluditorians-675899)
+
+## To be an Inidivisible group
+Before we register with Indivisible we must agree to these principles:   
+ 
+- Remake our democracy. We recognize our democracy was rigged from the start in favor of the white and wealthy. We actively work to realize a shared vision of a real democracy — of, by, and for the people.
+- Embrace progressive values. We model inclusion, respect, and fairness in all of our actions.
+- Coordinate and collaborate. We partner with other Indivisible groups on advocacy, elections, and national Indivisible campaigns.
+- Build a strong and strategic movement. We focus our efforts to maximize our impact, winning progressive policy victories and taking power at the local, state, and federal level.
+- Nonviolent actions and events. All events and actions will be nonviolent.
