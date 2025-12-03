@@ -10,7 +10,9 @@ layout: layouts/post.njk
 
 # Wisconsin Is Fine
 
-WIFI a weekly brainstorming group motivating each other to say no, building people-powered resistance to authoritarianism.
+Still just a MVP (minimally viable protest): stay tuned!  
+  
+WIFI is a nascent, weekly brainstorming group motivating each other to say no, building people-powered resistance to authoritarianism.  __If we become an Indivisible group, we can add the last I, in WiFI!__      
 
 ## The meetup
 
@@ -111,3 +113,14 @@ Before we register with Indivisible we must agree to these principles:
 - Coordinate and collaborate. We partner with other Indivisible groups on advocacy, elections, and national Indivisible campaigns.
 - Build a strong and strategic movement. We focus our efforts to maximize our impact, winning progressive policy victories and taking power at the local, state, and federal level.
 - Nonviolent actions and events. All events and actions will be nonviolent.
+
+## Sign holdings
+Some of these are listed on Mobilize.us but some not.   
+  
+These were ongoing as of last time I checked on November 4, 2025:   
+Tuesday (2nd and 4th of the month) 4-5: Monona Defends the Constitution (Monona Dr. & Nichols)  
+Tuesdays University and Farley (near the VA, near Dykman's Time Shop) 8AM   
+Wednesdays 3-5:30: The Bridge Brigade (Foot Bridge over E. Wash near HWY 30)  
+Thursdays 4:30-5:30: Vigil for Palestine and Beyond (E. Wilson at John Nolan Dr.  
+Fridays 4-5: Hold the WI GOP Accountable (148 E. Johnson)  
+Saturdays 9am: Bridge Brigade: (Foot Bridge over E. Wash near HWY 30)  
