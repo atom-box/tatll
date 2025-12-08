@@ -87,8 +87,7 @@ Democracies can fall in a matter of months, which makes this an immediate and ur
 We have a Signal group chat.  Nothing else.  
 
 
-## Are We An Indivisible group?
-Not now.  Some of us belong to Indivisible Madison East or Indivisible Near West Madison. We agree to Indivisible's principles:   
+## Principles  
  
 - All events and actions will be nonviolent. Our signs are chalk and tape, not wheatpaste nor paint.  We do not destroy private or public property. 
 - We are here to remake our democracy. We recognize our democracy was rigged from the start in favor of the white and wealthy. We actively work to realize a shared vision of a real democracy — of, by, and for the people.
@@ -112,9 +111,10 @@ Here are some examples and counterexamples.
 
 ## Sign holdings
 
-Bit of a tangent but we are listing some ongoing sign honk-and-holds for convenience here.  Some of these are listed on Mobilize.us but some not.   
+Bit of a tangent but re-posting here for convenience some ongoing sign honk-and-holds around Madison.  Some of these are listed on Mobilize.us but some not.   
   
-These were ongoing as of last time I checked on November 4, 2025:   
+Last checked on November 4, 2025:   
+  
 Tuesday (2nd and 4th of the month) 4-5: Monona Defends the Constitution (Monona Dr. & Nichols)  
 Tuesdays University and Farley (near the VA, near Dykman's Time Shop) 8AM   
 Wednesdays 3-5:30: The Bridge Brigade (Foot Bridge over E. Wash near HWY 30)  
