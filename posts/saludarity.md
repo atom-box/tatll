@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 # Salud-arity
 
-We were formed in 2025 as a weekly brainstorming, group motivating each other to say no, building people-powered resistance to authoritarianism. We meet every Wednesday at 7pm at Garth's Brew Bar in Madison Wisconsin, one block north of Trader Joe's. 
+We were formed in 2025 as a weekly brainstorming group motivating each other to say no, building people-powered resistance to authoritarianism. We meet every Wednesday at 7pm at Garth's Brew Bar in Madison Wisconsin, one block north of Trader Joe's. 
 
 
 ## Our meetup
@@ -22,8 +22,8 @@ Our group meets once a week to plan, learn, and take action together. We’re cr
 
 
 ## Action: Say No
-Everything we do is intended to say No to this administration. 
-
+__Everything we do is intended to say No to this administration.__ 
+  
 The cancelling, and reinstatement of the Jimmy Kimmel Show is an example of this approach. 
 
 
@@ -32,7 +32,7 @@ The cancelling, and reinstatement of the Jimmy Kimmel Show is an example of this
 
 Every Wednesday at [Garth's Brew Bar](https://www.garthsbrewbar.com/) 1726 Monroe Street, Madison Wisconsin 53711  
 
-## Ways we say no
+## Things to brainstorm 
 
 * picket
 * dance-party flash mobs
@@ -45,17 +45,23 @@ Every Wednesday at [Garth's Brew Bar](https://www.garthsbrewbar.com/) 1726 Monro
 * zine
 * how to have conversations across party lines
 * how to talk to family members
-* watch parties to spread Erika Chenwith, Resistance Lab, and What's the Plan awareness  
+* watch parties with your motivated but so far innocent friends: Resistance Lab, and What's the Plan can be watched together    
 * dinner parties
 * make messages and stickers
 * lawn sign lending library of unique signs 
-* Fake flyers, with tear offs
-* Make zines
-* Distribute existing zines made by other folks 
-* Sell at cost the Indivisible Plan 
+* fake flyers, with tear offs
+* make zines
+* distribute existing zines made by other folks 
+* sell the 29 page Indivisible Plan pdf (for cost of printing)
 * Training booth for how to make a call to a 5 calls target for people who have never called 
 * Don't reinvent the wheel: spread and riff on existing campaigns
 * do any of the above while wearing a banana costume
+
+## The news
+Many of us belong to other groups.  Share out on what your other group is doing.  
+
+Bring a news item to brainstorm around: arrive with a news item, leave with a potentially impactful or at least funny action. Come back next week and report how it's going.  This work is both slow and fast work - you might have the same action week after week or on to a new thing.      
+
 
 ## Theory of action
 
