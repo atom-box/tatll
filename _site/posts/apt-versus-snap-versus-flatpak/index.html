@@ -1,0 +1,200 @@
+<!doctype html>  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  Updates, Apt versus Snap versus Flatpak</title>
+    <meta name="description" content="This is the official website of Evan Genest. This exact page is about... I keep notes here. Most of these are related to travel, work, or books.">
+    <meta name="keywords" content="Evan Genest, biography, projects, work, personal website, portfolio, blog, about Evan Genest">
+    <meta name="author" content="Evan Genest">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Evan Genest&#39;s Learning Log">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Evan Genest&#39;s Learning Log">
+
+    <!-- Matomo 1234-->
+    <script src="/css/matomoscript.js"></script>
+    <!-- End Matomo Code 1234-->
+  </head>
+
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Evan Genest&#39;s Learning Log</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">Evan Genest</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+
+      <!-- Delete this message -->
+      <div class="warning">
+      <p>I keep notes here. Most of these are related to travel, work, or books.</p>
+
+       </em>
+      <!-- EM element closing tag to fix formatting BUG -->
+         
+      </div>
+      <h1>Updates, Apt versus Snap versus Flatpak</h1>
+
+<time datetime="2025-12-13">13 Dec 2025</time><a href="/tags/linux/" class="post-tag">linux</a>
+
+<h1 id="question:-how-can-i-tell-what-needs-updating-outside-of-apt-(ubuntu)" tabindex="-1">Question: How can I Tell What Needs Updating Outside of APT (Ubuntu) <a class="direct-link" href="#question:-how-can-i-tell-what-needs-updating-outside-of-apt-(ubuntu)" aria-hidden="true">#</a></h1>
+<h1 id="answer" tabindex="-1">Answer <a class="direct-link" href="#answer" aria-hidden="true">#</a></h1>
+<p><strong>Written 100% by ChatGPT</strong></p>
+<p>This guide explains how to identify software on your Ubuntu system that <strong>does not get updated by <code>apt</code></strong>, and how to check updates for each category.</p>
+<hr>
+<h2 id="1.-apt-managed-software-(baseline)" tabindex="-1">1. APT-managed software (baseline) <a class="direct-link" href="#1.-apt-managed-software-(baseline)" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">apt</span> update<br><span class="token function">apt</span> list <span class="token parameter variable">--upgradable</span></code></pre>
+<p>Anything listed here is handled by APT and updated with:</p>
+<pre class="language-bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">apt</span> upgrade</code></pre>
+<p>If something is <strong>not listed</strong>, it is managed elsewhere.</p>
+<hr>
+<h2 id="2.-snap-managed-software" tabindex="-1">2. Snap-managed software <a class="direct-link" href="#2.-snap-managed-software" aria-hidden="true">#</a></h2>
+<p>Snaps are very common on modern Ubuntu and are <strong>not updated by APT</strong>.</p>
+<h3 id="list-installed-snaps" tabindex="-1">List installed snaps <a class="direct-link" href="#list-installed-snaps" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash">snap list</code></pre>
+<h3 id="show-pending-snap-updates" tabindex="-1">Show pending snap updates <a class="direct-link" href="#show-pending-snap-updates" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash">snap refresh <span class="token parameter variable">--list</span></code></pre>
+<h3 id="force-snap-updates" tabindex="-1">Force snap updates <a class="direct-link" href="#force-snap-updates" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash"><span class="token function">sudo</span> snap refresh</code></pre>
+<p>Executables under <code>/snap/bin</code> are snap-managed.</p>
+<p>Examples:</p>
+<ul>
+<li>Chromium</li>
+<li>Firefox (on newer Ubuntu)</li>
+<li>VS Code</li>
+<li>Slack</li>
+</ul>
+<hr>
+<h2 id="3.-flatpak-managed-software" tabindex="-1">3. Flatpak-managed software <a class="direct-link" href="#3.-flatpak-managed-software" aria-hidden="true">#</a></h2>
+<p>If Flatpak is installed, it is another parallel update system.</p>
+<h3 id="list-flatpak-apps" tabindex="-1">List Flatpak apps <a class="direct-link" href="#list-flatpak-apps" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash">flatpak list</code></pre>
+<h3 id="update-flatpak-apps" tabindex="-1">Update Flatpak apps <a class="direct-link" href="#update-flatpak-apps" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash">flatpak update</code></pre>
+<p>APT has no visibility into Flatpak apps.</p>
+<hr>
+<h2 id="4.-appimage-programs" tabindex="-1">4. AppImage programs <a class="direct-link" href="#4.-appimage-programs" aria-hidden="true">#</a></h2>
+<p>AppImages are <strong>completely unmanaged</strong>.</p>
+<p>How to find them:</p>
+<pre class="language-bash"><code class="language-bash"><span class="token function">find</span> ~ /opt <span class="token parameter variable">-iname</span> <span class="token string">"*.AppImage"</span> <span class="token operator"><span class="token file-descriptor important">2</span>></span>/dev/null</code></pre>
+<p>Updating usually means:</p>
+<ul>
+<li>Downloading a new AppImage</li>
+<li>Or using <code>appimageupdate</code> (if supported)</li>
+</ul>
+<hr>
+<h2 id="5.-manually-installed-software" tabindex="-1">5. Manually installed software <a class="direct-link" href="#5.-manually-installed-software" aria-hidden="true">#</a></h2>
+<p>Check common manual install locations:</p>
+<pre class="language-bash"><code class="language-bash"><span class="token function">ls</span> /opt<br><span class="token function">ls</span> /usr/local/bin</code></pre>
+<p>Anything here is <strong>outside APT control</strong>.</p>
+<hr>
+<h2 id="6.-language-specific-package-managers" tabindex="-1">6. Language-specific package managers <a class="direct-link" href="#6.-language-specific-package-managers" aria-hidden="true">#</a></h2>
+<p>These maintain their own ecosystems.</p>
+<h3 id="python" tabindex="-1">Python <a class="direct-link" href="#python" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash">pip list <span class="token parameter variable">--outdated</span><br>pipx list</code></pre>
+<h3 id="node.js" tabindex="-1">Node.js <a class="direct-link" href="#node.js" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash"><span class="token function">npm</span> <span class="token parameter variable">-g</span> outdated</code></pre>
+<h3 id="rust" tabindex="-1">Rust <a class="direct-link" href="#rust" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash"><span class="token function">cargo</span> <span class="token function">install</span> <span class="token parameter variable">--list</span></code></pre>
+<h3 id="ruby" tabindex="-1">Ruby <a class="direct-link" href="#ruby" aria-hidden="true">#</a></h3>
+<pre class="language-bash"><code class="language-bash">gem outdated</code></pre>
+<p>APT does not manage any of these.</p>
+<hr>
+<h2 id="7.-firmware-updates-(fwupd)" tabindex="-1">7. Firmware updates (fwupd) <a class="direct-link" href="#7.-firmware-updates-(fwupd)" aria-hidden="true">#</a></h2>
+<p>Firmware updates are handled separately:</p>
+<pre class="language-bash"><code class="language-bash">fwupdmgr get-updates</code></pre>
+<p>This may include:</p>
+<ul>
+<li>BIOS / UEFI</li>
+<li>SSD firmware</li>
+<li>Thunderbolt controllers</li>
+</ul>
+<hr>
+<h2 id="8.-self-updating-applications" tabindex="-1">8. Self-updating applications <a class="direct-link" href="#8.-self-updating-applications" aria-hidden="true">#</a></h2>
+<p>Some applications update themselves:</p>
+<ul>
+<li>Google Chrome</li>
+<li>Zoom</li>
+<li>Dropbox</li>
+<li>Steam</li>
+</ul>
+<p>Check background update timers:</p>
+<pre class="language-bash"><code class="language-bash">systemctl list-timers</code></pre>
+<hr>
+<h2 id="9.-identify-where-programs-come-from" tabindex="-1">9. Identify where programs come from <a class="direct-link" href="#9.-identify-where-programs-come-from" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><span class="token function">which</span> chromium firefox code slack <span class="token function">docker</span> python <span class="token function">node</span></code></pre>
+<p>Interpretation:</p>
+<ul>
+<li><code>/usr/bin</code> → likely APT</li>
+<li><code>/snap/bin</code> → Snap</li>
+<li><code>/usr/local/bin</code> → manual</li>
+<li>Other paths → investigate</li>
+</ul>
+<hr>
+<h2 id="mental-model" tabindex="-1">Mental Model <a class="direct-link" href="#mental-model" aria-hidden="true">#</a></h2>
+<p>Think in <strong>layers</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Update mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OS libraries</td>
+<td>APT</td>
+</tr>
+<tr>
+<td>Desktop apps</td>
+<td>APT / Snap / Flatpak</td>
+</tr>
+<tr>
+<td>Developer tools</td>
+<td>Language managers</td>
+</tr>
+<tr>
+<td>Portable apps</td>
+<td>AppImage</td>
+</tr>
+<tr>
+<td>Firmware</td>
+<td>fwupd</td>
+</tr>
+<tr>
+<td>Vendor apps</td>
+<td>Self-updating</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="recommended-maintenance-routine" tabindex="-1">Recommended maintenance routine <a class="direct-link" href="#recommended-maintenance-routine" aria-hidden="true">#</a></h2>
+<pre class="language-bash"><code class="language-bash"><span class="token function">apt</span> list <span class="token parameter variable">--upgradable</span><br>snap refresh <span class="token parameter variable">--list</span><br>flatpak update<br>fwupdmgr get-updates</code></pre>
+<p>Stick to one or two ecosystems where possible to reduce update complexity.</p>
+
+<hr>
+<ul><li>Next: <a href="/posts/whats-the-plan-call-indivisible-dec2025/">What&#39;s the Plan Weekly Call December 2025</a></li><li>Previous: <a href="/posts/saludarity/">Weekly Saludarity Meetup</a></li>
+</ul>
+
+    </main>
+
+    <footer >
+    <div style="padding: 15px">
+      <p>See <a href="https://tatll.me/tags/">all topics</a> </p>
+      <p>See <a href="/posts/">all posts</a>.</p>
+        <div class=warning>
+          If you discover these notes and find them useful I would love to hear from you at <a href="https://littlefurnace.com/">Little Furnace</a>   
+        </div>
+      <p>A JAM stack generating a static site, <br/> this is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog">eleventy-base-blog</a> template.</p>        
+    </div>
+    </footer>
+
+    <!-- Current page: /posts/apt-versus-snap-versus-flatpak/ -->
+  </body>
+</html>

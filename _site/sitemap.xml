@@ -587,12 +587,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/books/</loc>
+    <loc>https://tatll.me/tags/travel/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
+    <loc>https://tatll.me/tags/books/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -608,11 +608,6 @@
   
   <url>
     <loc>https://tatll.me/tags/javascript/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/gang/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -637,6 +632,11 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/gang/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/nokings-protest/</loc>
     <lastmod>2025-10-27</lastmod>
   </url>
@@ -644,5 +644,20 @@
   <url>
     <loc>https://tatll.me/posts/saludarity/</loc>
     <lastmod>2025-11-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/apt-versus-snap-versus-flatpak/</loc>
+    <lastmod>2025-12-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/whats-the-plan-call-indivisible-dec2025/</loc>
+    <lastmod>2025-12-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/summary-rules-for-resistance/</loc>
+    <lastmod>2025-12-20</lastmod>
   </url>
 </urlset>
