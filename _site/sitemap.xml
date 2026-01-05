@@ -462,6 +462,11 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/posts/news/</loc>
+    <lastmod>2025-03-28</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/books-about-evil/</loc>
     <lastmod>2025-06-01</lastmod>
   </url>
@@ -482,17 +487,17 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/posts/saludarity/</loc>
+    <lastmod>2025-07-16</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/posts/tj-walker-will-help-you/</loc>
     <lastmod>2025-08-16</lastmod>
   </url>
   
   <url>
     <loc>https://tatll.me/posts/indivisible-meeting-at-core-cohousing/</loc>
-    <lastmod>2025-08-28</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/posts/news/</loc>
     <lastmod>2025-08-28</lastmod>
   </url>
   
@@ -587,7 +592,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
+    <loc>https://tatll.me/tags/meetings/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -597,7 +602,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/meetings/</loc>
+    <loc>https://tatll.me/tags/travel/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -612,12 +617,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
+    <loc>https://tatll.me/tags/fitness/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -642,11 +647,6 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/saludarity/</loc>
-    <lastmod>2025-11-16</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/posts/apt-versus-snap-versus-flatpak/</loc>
     <lastmod>2025-12-13</lastmod>
   </url>
@@ -659,5 +659,10 @@
   <url>
     <loc>https://tatll.me/posts/summary-rules-for-resistance/</loc>
     <lastmod>2025-12-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news2/</loc>
+    <lastmod>2026-01-05</lastmod>
   </url>
 </urlset>

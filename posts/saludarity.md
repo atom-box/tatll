@@ -1,7 +1,7 @@
 ---
 title: Weekly Saludarity Meetup
 description: fighting fascism and authoritarianism at a happy hour format in Madison Wisconsin like indivisible, moveon.org, and other activists. Known for banana bunch costume guys.
-date: 2025-11-16
+date: 2025-07-16
 tags:
   - activism
 layout: layouts/post.njk
@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 # Salud-arity
 
-We were formed in 2025 as a weekly brainstorming group motivating each other to say no, building people-powered resistance to authoritarianism. We meet every Wednesday at 7pm at Garth's Brew Bar in Madison Wisconsin, one block north of Trader Joe's. 
+This was a weekly brainstorming group that met for a few weeks in 2025 at Garth's Brew Bar in Madison Wisconsin, one block north of Trader Joe's. In case we ever revive it I am leaving the rest of this page as-is.  
 
 
 ## Our meetup

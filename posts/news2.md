@@ -1,28 +1,30 @@
 ---
-title: News
-description: starting an distributed group for peaceful non-cooperation, like whack a mole
-date: 2025-03-28
+title: News Without Social Networks
+description: setting a list of news bookmarks, to enable reading news without using a social feed
+date: 2026-01-05
 tags:
   - activism
 layout: layouts/post.njk
 ---
 ## By request `
-If you know me (Evan), text a URL to me and I will put it at the top here.
+Text a URL to me and I will put it at the top here.
+
+raw raw
+https://www.newsweek.com/
+
+
+
 
 ## World Newspapers
-[https://www.lemonde.fr/en/    ](https://www.lemonde.fr/en/    )      
+[https://www.lemonde.fr/en/    ](https://www.lemonde.fr/en/    ) 
+
 [https://www.theguardian.com/  ](https://www.theguardian.com/  )      
-[https://www.taipeitimes.com/](https://www.taipeitimes.com/)      
 [https://www.aljazeera.com/](https://www.aljazeera.com/)      
 [https://timesofindia.indiatimes.com/us](https://timesofindia.indiatimes.com/us)      
-[https://www.dailysabah.com/](https://www.dailysabah.com/)      
 [https://www.hurriyetdailynews.com/](https://www.hurriyetdailynews.com/)      
-[https://theistanbulpost.com/   ](https://theistanbulpost.com/   )      
 [https://www.independent.co.uk](https://www.independent.co.uk)      
-[https://www.nd-aktuell.de](https://www.nd-aktuell.de)      
-[https://www.liberties.eu   ](https://www.liberties.eu   )      
+[https://www.nd-aktuell.de](https://www.nd-aktuell.de) In German: most browsers have translation built in. View in Brave or Edge, for example.     
 [https://www.bbc.co.uk](https://www.bbc.co.uk)      
-[https://www.sv.uio.n](https://www.sv.uio.no)      
 
 ## Other news sources   
 [https://www.counterpunch.org](https://www.counterpunch.org)      
@@ -193,3 +195,4 @@ Opened in 2021, the Moshannon Valley Detention has been operated by the GEO Grou
 
 ### Example: Tesla  
 
+[https://www.liberties.eu   ](https://www.liberties.eu   )      
