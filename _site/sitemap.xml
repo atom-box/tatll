@@ -562,22 +562,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/activism/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -587,7 +572,22 @@
   </url>
   
   <url>
+    <loc>https://tatll.me/tags/linux/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tatll.me/tags/management/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -602,17 +602,22 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/drupal/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
     <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/gang/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/efficiency/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -633,11 +638,6 @@
   
   <url>
     <loc>https://tatll.me/tags/sql/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/gang/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -664,5 +664,10 @@
   <url>
     <loc>https://tatll.me/posts/news2/</loc>
     <lastmod>2026-01-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/links-magnetic/</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 </urlset>

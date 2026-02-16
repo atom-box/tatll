@@ -1,6 +1,6 @@
 ---
-title: News
-description: starting an distributed group for peaceful non-cooperation, like whack a mole
+title: News 1 (old)
+description: setting a list of news bookmarks, to enable reading news without using a social feed
 date: 2025-03-28
 tags:
   - activism
