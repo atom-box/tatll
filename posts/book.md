@@ -1,7 +1,7 @@
 ---
 title:  The BotMASS Book Club     
 description:  Announcement for a new online book club forming  
-date: 2025-10-20
+date: 2026-04-01
 tags:
   - books
 layout: layouts/post.njk
@@ -10,36 +10,7 @@ A book club that meets on the ~~third~~ *fourth* Sunday each month.
     
 ## Upcoming book discussions  
     
-Sunday, October 26
-Shadows of Forgotten Ancestors by Carl Sagan and Ann Druyan  
-528 pages - non fiction  
-[LINK](https://www.goodreads.com/book/show/61662.Shadows_of_Forgotten_Ancestors)  
-  
-Sunday, November 23
-Kitchen by Banana Yoshimoto, Megan Backus  (Translator)  
-160 pages   
-[LINK](https://www.goodreads.com/book/show/50144.Kitchen)  
-  
-Sunday, December 28
-Martyr!   by Kaveh Akbar    
-331 pages
-[LINK](https://www.goodreads.com/book/show/139400713-martyr)  
-  
-Sunday, January 25
-Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism   by Sarah Wynn-Williams    
-382 pages, non fiction
-[LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
-  
-Sunday, February 22
-Semiosis   (Semiosis #1)   by Sue Burke    
-333 pages, science fiction 
-[LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
-  
-Sunday, March 22
-North Woods by Daniel Mason 
-365 pages  
-[LINK](https://www.nytimes.com/2023/09/19/books/review/daniel-mason-north-woods.html)
-  
+ 
 Sunday, April 26
 The Ocean at the End of the Lane by Neil Gaiman  
 195 pages   
@@ -108,6 +79,35 @@ Heartwood by Amity Gage
 320 pages
 [LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)
   
+Sunday, October 26
+Shadows of Forgotten Ancestors by Carl Sagan and Ann Druyan  
+528 pages - non fiction  
+[LINK](https://www.goodreads.com/book/show/61662.Shadows_of_Forgotten_Ancestors)  
+  
+Sunday, November 23
+Kitchen by Banana Yoshimoto, Megan Backus  (Translator)  
+160 pages   
+[LINK](https://www.goodreads.com/book/show/50144.Kitchen)  
+  
+Sunday, December 28
+Martyr!   by Kaveh Akbar    
+331 pages
+[LINK](https://www.goodreads.com/book/show/139400713-martyr)  
+  
+Sunday, January 25
+Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism   by Sarah Wynn-Williams    
+382 pages, non fiction
+[LINK](https://www.goodreads.com/book/show/223436601-careless-people)  
+  
+Sunday, February 22
+Semiosis   (Semiosis #1)   by Sue Burke    
+333 pages, science fiction 
+[LINK]( https://www.goodreads.com/book/show/35018907-semiosis)  
+  
+Sunday, March 22
+North Woods by Daniel Mason 
+365 pages  
+[LINK](https://www.nytimes.com/2023/09/19/books/review/daniel-mason-north-woods.html)  
 
 ## ✏️ Runners up
 In no particular order, here are books which have been nominated in the past and for one reason or another, were not chosen.  Consider them for the future.    
