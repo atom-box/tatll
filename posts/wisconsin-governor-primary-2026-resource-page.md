@@ -1,7 +1,7 @@
 ---
 title: Wisconsin August 2026 Primary for Governor 
 description:
-date: 2019-05-22
+date: 2026-05-22
 tags:
   - activism
 layout: layouts/post.njk
