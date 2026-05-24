@@ -26,7 +26,7 @@ The Arrival By Shaun Tan
 132 pages - graphic novel  
 [LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
     
-  
+
 ## Day and time   
 We meet the fourth Sunday of each month.  
 __Time__ Europe-CET: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am

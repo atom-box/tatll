@@ -7,6 +7,10 @@ tags:
 layout: layouts/post.njk
 ---
 
+**This is just AI answers from https://chat.mistral.ai/**  
+
+
+# What makes cat food for urinary health different?
 
 
 ## Prescription vs. Over-the-Counter
