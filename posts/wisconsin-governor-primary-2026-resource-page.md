@@ -10,21 +10,12 @@ layout: layouts/post.njk
 This is a resource page to use when making up your mind before voting for governors in the Democratic primary on August 11, 2026  
   
 ## podcasts  
-  
-__Wisconsin Forward__ with Matthew Rothschild asked the best interview questions.  There is a dedicated episode for each of the front-runners.   
+
+I went to a few meetings in person with candidates.  TEAL Dems in Madison had them. Indivisible groups in several cities had them. They were often remote, so you might Zoom in to a one to one with a candidate from wherever you live if you can find a distant Indivisible group who are hosting or a Democrats group.   
+   
+Mostly I listened to a lot of podcasts, of which __Wisconsin Forward__ with Matthew Rothschild was the most helpful. He asked the best interview questions, responded knowledgably, and stayed consistant across all of the half hour interviews.  There is a dedicated episode for each of the front-runners.   
   
 Several regional podcasts in La Crosse, Eua Claire, & Green Bay had good interviews - search a candidate's name in any podcast app.  Kelda Roys had the most.   
-  
-## Polls  
-  
-NY Times Polls for Wisconsin governor  
- https://www.nytimes.com/interactive/polls/wisconsin-governor-election-polls-2026.html  
-  
-Thumbnail sketches of the primary candidates  
-https://www.milwaukeemag.com/candidates-wisconsin-governor-2026/  
-  
-270 To Win Polls  
-https://www.270towin.com/2026-governor-polls/wisconsin  
   
   
 ## Videos    
@@ -58,10 +49,7 @@ Mandela Barnes
 https://campaignfinance.wi.gov/report-download/0105266-CF-2--2026_January_Continuing--ORIGINAL--full--2026-01-16-04-01-52.pdf  
   
 Sara Rodriguez  
-https://campaignfinance.wi.gov/browse-data/report/134127   
-  
-  
-  
+https://campaignfinance.wi.gov/browse-data/report/134127     
   
   
 ## My personal journey to a candidate went through these layers:  
@@ -74,5 +62,16 @@ Unbossed. Yes, an executive brings in money, but from whom? Show me their funder
   
 Hear them speaking in their own words. Search their name in your podcast app. Listen to anything where the candidate speaks unscripted. It's a job interview. They're interviewing to work for you.  
   
-  
 Know if they know what they're doing and aren't all talk. Demand specifics. Vague positions are a red flag.
+
+## Polls  
+  
+NY Times Polls for Wisconsin governor  
+ https://www.nytimes.com/interactive/polls/wisconsin-governor-election-polls-2026.html  
+  
+Thumbnail sketches of the primary candidates  
+https://www.milwaukeemag.com/candidates-wisconsin-governor-2026/  
+  
+270 To Win Polls  
+https://www.270towin.com/2026-governor-polls/wisconsin  
+  

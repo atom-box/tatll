@@ -1,31 +1,27 @@
 ---
 title:  The BotMASS Book Club     
-description:  Announcement for a new online book club forming  
+description:  schedule for our free, all-remote book club based in Wisconsin, California, and Alaska  
 date: 2026-04-01
 tags:
   - books
 layout: layouts/post.njk
 ---
-A book club that meets on the ~~third~~ *fourth* Sunday each month.   
+A book club that meets on the fourth Sunday each month.   
     
-## Upcoming book discussions  
-    
- 
-Sunday, April 26
-The Ocean at the End of the Lane by Neil Gaiman  
-195 pages   
-[LINK](https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane)  
-  
-Sunday, May 24
-When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams   
-208 pages, non fiction   
-[LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
+## Upcoming book discussions    
 
-Sunday June 28    
-The Arrival By Shaun Tan  
+~~Sunday June 28~~
+Special day: July 5    
+The Arrival by Shaun Tan and The Cicada by Shaun Tan  
 132 pages - graphic novel  
 [LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
-    
+  
+Sunday, July 26  
+Remarkably Bright Creatures by Shelby Van Pelt
+355 pages - fiction  
+[LINK](https://www.nytimes.com/2026/05/07/movies/remarkably-bright-creatures-review.html)  
+
+
 
 ## Day and time   
 We meet the fourth Sunday of each month.  
@@ -108,58 +104,18 @@ Sunday, March 22
 North Woods by Daniel Mason 
 365 pages  
 [LINK](https://www.nytimes.com/2023/09/19/books/review/daniel-mason-north-woods.html)  
+ 
+Sunday, April 26
+The Ocean at the End of the Lane by Neil Gaiman  
+195 pages   
+[LINK](https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane)  
+  
+Sunday, May 24
+When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams   
+208 pages, non fiction   
+[LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
 
-## ✏️ Runners up
-In no particular order, here are books which have been nominated in the past and for one reason or another, were not chosen.  Consider them for the future.    
-* The Best American Short Stories 2024 by (editor) Lauren Groff  
-* Cutting for Stone  by Abraham Verghese  
-* Enrique's Journey   by Sonia Nazario    
-* Shroud   by Adrian Tchaikovsky  
-* Cixin Liu: Hold up the Sky
-* Barbara Kingsolver: Demon Copperhead
-* Scot Thomas eastham: The biotech timebomb
-* Emily St John Mandel: Station Eleven
-* Helene Wecker: The Golem and the Jinni
-* Tara Westover: educated
-* Neal Stephenson: Polostan
-* Keith Houston: Shady Characters (non fiction)
-* Scott Thomas Eastham: the radix (philosophy)
-* Scott Thomas Eastham: the biotech timebomb
-* Raimon panikkar: cultural disarmament
-* Raimon Panikkar: dwelling place for wisdom
-* Amanda Gefter: trespassing on Einsteins Lawn
-* Martin Heidegger: Phenomenological Interpretation of Kant's Critique of Pure Reason (Studies in Continental Thought)
-* Peter Raine: who guards the guardians
-* Miriam lancewood: wild at heart
-* Miriam lancewood: woman in the wilderness
-* Christopher McDougall: Born to Run (memoir)
-    
-The Work of Art: How Something Comes from Nothing  
-Adam Moss  
-[LINK](https://www.goodreads.com/book/show/192723955-the-work-of-art )  
-
-Nexus: A Brief History of Information Networks from the Stone Age to AI  
-Yuval Noah Harari  
-[LINK](https://www.goodreads.com/book/show/204927599-nexus)  
-  
-The New Jim Crow: Mass Incarceration in the Age of Colorblindness  
-Michelle Alexander  
-[LINK](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)  
-  
-Wesley the Owl: The Remarkable Love Story of an Owl and His Girl  
-Stacey O'Brien  
-[LINK](https://www.goodreads.com/book/show/3001512-wesley-the-owl)  
-  
-City of Thieves  
-David Benioff  
-[LINK](https://www.goodreads.com/book/show/1971304.City_of_Thieves)  
-  
-  
-Prescription for a Healthy Nation: A New Approach to Improving Our Lives by Fixing Our Everyday World  
-Tom Farley  
-[LINK](https://www.goodreads.com/book/show/1273282.Prescription_for_a_Healthy_Nation)  
-  
-
+ 
 
 
 ## Welcome    
