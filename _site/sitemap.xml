@@ -557,17 +557,22 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/activism/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/efficiency/</loc>
+    <loc>https://tatll.me/tags/management/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/linux/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -582,17 +587,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/management/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/tags/books/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/fitness/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -602,12 +602,22 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/gang/</loc>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/food/</loc>
+    <loc>https://tatll.me/tags/efficiency/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/sql/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -622,22 +632,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
+    <loc>https://tatll.me/tags/gang/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/sql/</loc>
+    <loc>https://tatll.me/tags/food/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -672,11 +672,6 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/posts/book/</loc>
-    <lastmod>2026-04-01</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tatll.me/posts/urinary-cat-health-foods/</loc>
     <lastmod>2026-04-12</lastmod>
   </url>
@@ -684,5 +679,10 @@
   <url>
     <loc>https://tatll.me/posts/wisconsin-governor-primary-2026-resource-page/</loc>
     <lastmod>2026-05-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/book/</loc>
+    <lastmod>2026-07-05</lastmod>
   </url>
 </urlset>

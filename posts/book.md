@@ -1,39 +1,45 @@
 ---
 title:  The BotMASS Book Club     
 description:  schedule for our free, all-remote book club based in Wisconsin, California, and Alaska  
-date: 2026-04-01
+date: 2026-07-05
 tags:
   - books
 layout: layouts/post.njk
 ---
 A book club that meets on the fourth Sunday each month.   
-    
+
+## How to join remotely  
+We now use Signal video chat. 
+
+(__Don't__ use our old link to talk.brave.org. Nobody will be there.)
+
+Good news: Signal installs to desktop computers. Added it just now here. https://signal.org   
+  
 ## Upcoming book discussions    
 
-~~Sunday June 28~~
-Special day: July 5    
-The Arrival by Shaun Tan and The Cicada by Shaun Tan  
-132 pages - graphic novel  
-[LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
+__All meeting times are 2pm Eastern / 11am Pacific__
   
 Sunday, July 26  
 Remarkably Bright Creatures by Shelby Van Pelt
 355 pages - fiction  
 [LINK](https://www.nytimes.com/2026/05/07/movies/remarkably-bright-creatures-review.html)  
 
-
-
-## Day and time   
-We meet the fourth Sunday of each month.  
-__Time__ Europe-CET: 7pm**, Detroit: 2pm, Chicago: 1pm, Pacific: 11am
-    
-
+August 23 Crossing to Safety by Wallace Stegner  
+  
+September 27 TBD [Jim Sheufelt]  
+  
+October 25 TBD [Pete Hilen]  
+  
+November 22 TBD [Peter Zobel]  
+  
+December 27 Theo of Golden by Allen Levi   
+  
+January 24 A Different Kind of Tension: New and Selected Stories by Jonathan Lethem  
+  
 ## Call link for all meetings #
-You don't need to install or sign in to anything. The link opens in any web browser. It is a free, opensource, encrypted platform called Brave Talk.
+We no longer use Brave Talk.
 
-[CLICK HERE TO OPEN THE CALL](https://pikl.us/nufgyh64)
-You can check your tech: click the above link now. It works on phone or desktop.
-
+See above.
   
 
 ## Past Meetings
@@ -115,6 +121,9 @@ When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest William
 208 pages, non fiction   
 [LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )  
 
+The Arrival by Shaun Tan and The Cicada by Shaun Tan  
+132 pages - graphic novel  
+[LINK](https://www.goodreads.com/book/show/920607.The_Arrival)  
  
 
 
