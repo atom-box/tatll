@@ -7,7 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
   
-# 2026-camping packing wisconsin summer.md  
 3 nights in a tent  
   
 ## Ahead of time:  
