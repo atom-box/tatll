@@ -1,5 +1,5 @@
 ---
-title: Packing list - Family additions
+title: Packing list - camping, summer, Wisconsin
 description:
 date: 2026-07-03
 tags:
