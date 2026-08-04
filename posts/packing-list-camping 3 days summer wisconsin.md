@@ -50,10 +50,9 @@ trash bag (2 small grocery sacks)
 ## food staples  
 green tea  
 coffee instant  
-two kinds of herbs  
+dried onions  
 seasoned salt or hot sauce  
-  
-TP  
+   
 ## clothing  
 **Including the clothes on your back**  
 socks (less than a pair a day, three pairs max)  
@@ -64,7 +63,7 @@ hoodie
 shell or micropuffy  
 two cotten tshirts  
 one long sleeve black mesh (pyrethrin) or button up synthetic  
-  
+pagjamas 
   
   
   
@@ -91,9 +90,11 @@ pseudoephedrine hCl
 disinfectant ointment   
 bandaids  
 gauze and duct tape?  
+  
 TICK puller  
 bar of soap   
 DEET  
+sunscreen  
   
   
 ## equipment  

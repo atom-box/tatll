@@ -26,15 +26,17 @@ Remarkably Bright Creatures by Shelby Van Pelt
 
 August 23 Crossing to Safety by Wallace Stegner  
   
-September 27 TBD [Jim Sheufelt]  
+September 27 Crime and Punishment by Fyodor Dostoevsky, any translation
+
+October 25 The Correspondent by Virginia Evans
   
-October 25 TBD [Pete Hilen]  
-  
-November 22 TBD [Peter Zobel]  
+November 22 Red Rising #1, by Pierce Brown, Nominee for Goodreads Readers' Favorite Young Adult Fantasy & Science Fiction (2014)
   
 December 27 Theo of Golden by Allen Levi   
   
-January 24 A Different Kind of Tension: New and Selected Stories by Jonathan Lethem  
+January 24 A Different Kind of Tension: New and Selected Stories by Jonathan Lethem 
+
+February 28 TBD (Jim Sheufelt to choose)
   
 ## Call link for all meetings #
 We no longer use Brave Talk.

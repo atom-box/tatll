@@ -557,27 +557,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/management/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/travel/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/gang/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/food/</loc>
+    <loc>https://tatll.me/tags/linux/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -592,12 +572,22 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/management/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/travel/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -617,12 +607,7 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/javascript/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -632,12 +617,27 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
+    <loc>https://tatll.me/tags/sql/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/sql/</loc>
+    <loc>https://tatll.me/tags/gang/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/food/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
