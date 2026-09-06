@@ -1,51 +1,60 @@
 ---
 title:  The BotMASS Book Club     
-description:  schedule for our free, all-remote book club based in Wisconsin, California, and Alaska  
+description:  schedule for our free, all-remote book club.   
 date: 2026-07-05
 tags:
   - books
 layout: layouts/post.njk
 ---
-A book club that meets on the fourth Sunday each month.   
+# Join the BotMASS Book Club
 
+Welcome to BotMASS Book Club! We're a friendly group that meets monthly to discuss great books—everyone's welcome. **We meet at 1:00 PM Central Time (CT) on the fourth Sunday of each month.**
 
-## Upcoming book discussions      
-  
-__We meet at 1PM Central time, on Sunday, the fourth week of the month__  
-    
-    
-September 27 Crime and Punishment by Fyodor Dostoevsky, any translation  
-  
-October 25 The Correspondent by Virginia Evans  
-    
-November 22 Red Rising #1, by Pierce Brown, Nominee for Goodreads Readers' Favorite Young Adult Fantasy & Science Fiction (2014)  
-    
-December 27 Theo of Golden by Allen Levi     
-    
-January 24 A Different Kind of Tension: New and Selected Stories by Jonathan Lethem   
-  
-February 28 TBD (Jim Sheufelt to choose)  
-    
-## How to join remotely  
-We use Signal video chat. 
+No preparation needed—just read (or start reading!) the book and join the discussion.
 
-## If you are not on Signal yet: 
+We are fully remote - we meet on your device (see below).  Some of us live in Madison, Wisconsin.  
 
-### Now, Install Signal
-Desktop computer users: Signal installs to desktop computers. Add it for iOS/Windows/Linux here. https://signal.org  
+---
 
-Mobile users: Install Signal from the app store.  
-    
-### Then, Email Evan 
-If you are new to the book club, send an email to Evan to get added to the Signal group. Allow a few days for me to see it; don't wait until the day of the meeting - I don't check my email all that often.  Make the subject line "BotMASS Book Club".  My email is: 
-atom_box   AT   hotmail DOT com 
+## Upcoming Book Discussions
 
-### On the day of the meeting
-On the day of the meeting, open Signal, press the group name (BotMASS Bookclub), and click the camera icon to join the call.  
+**September 27** – *Crime and Punishment* by Fyodor Dostoevsky (any translation)
 
-### In between meetings
-Text the group, in the group Signal chat. Add your comments on the book, or ask questions to the group.  
-     
+**October 25** – *The Correspondent* by Virginia Evans
+
+**November 22** – *Red Rising #1* by Pierce Brown (Nominee for Goodreads Readers' Favorite Young Adult Fantasy &amp; Science Fiction, 2014)
+
+**December 27** – *Theo of Golden* by Allen Levi
+
+**January 24** – *A Different Kind of Tension: New and Selected Stories* by Jonathan Lethem
+
+**February 28** – TBD (Jim Sheufelt will choose—suggestions welcome!)
+
+---
+
+## How to Join Remotely
+
+We meet via **Signal video chat** (free, private, and easy to use).
+
+### If you are not on Signal yet:
+
+1. **Install Signal**
+  - [Desktop (Windows/Linux/macOS)](https://signal.org) or [Mobile (App Store/Google Play)](https://signal.org).
+  - *Tip:* Use the same phone number for desktop and mobile to sync contacts.
+2. **Email Evan to get added**  
+ Send an email to `atom_box [at] hotmail [dot] com` with the subject line **"BotMASS Book Club"**.  
+ *Note: I check email sporadically—send your request at least 3 days before the meeting to ensure access.*
+3. **On the day of the meeting**  
+ Open Signal, tap the group name (**BotMASS Bookclub**), and click the camera icon to join the call.
+4. **In between meetings**  
+ Text the group in the Signal chat to share comments on the book or ask questions.
+
+---
+
+**Ready to join? Email Evan today!**
+
+## About the name
+Why BotMASS? We started as a short story reading club. The first few meetings all focused on stories from Penguin's __Book of the Modern American Short Story__      
   
 ## Past Meetings  
 December 2024  
@@ -134,7 +143,6 @@ Sunday, July 26
 Remarkably Bright Creatures by Shelby Van Pelt  
 355 pages - fiction    
 
-  
 August 23 Crossing to Safety by Wallace Stegner    
   
   
