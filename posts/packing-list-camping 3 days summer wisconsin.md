@@ -46,12 +46,7 @@ three sizes of pots (used them all - sometimes as cutting board, water bailer, e
 lids  
 clothesline  
 trash bag (2 small grocery sacks)  
-  
-## food staples  
-green tea  
-coffee instant  
-dried onions  
-seasoned salt or hot sauce  
+   
    
 ## clothing  
 **Including the clothes on your back**  
@@ -87,15 +82,21 @@ toothbrush
 toothpaste  
 ibuprofen (sleep much better, less sore first nights, also for altitude)  
 pseudoephedrine hCl  
+allergy nose spray (seasonal)
+gauze and duct tape?  
+bar of soap   
+
+## first aid kit  
 disinfectant ointment   
 bandaids  
-gauze and duct tape?  
-  
 TICK puller  
-bar of soap   
 DEET  
 sunscreen  
-  
+no itch lotion
+ear drying drops
+tweezers 
+magnifying loop
+
   
 ## equipment  
 ax!   
@@ -127,9 +128,89 @@ phone cable
 car adapter  
 that five pound car jump starter as hot pack charger  
   
+
+## menus for five dinners   
+Car camping, serves two people  
   
+### Brocc-Cheese Soup & Mashed Potatoes  
+    • 1.5 cups dry instant mashed potatoes, rehydrate per instrux,   
+    • bacon bits  
+    • 1.0 cups Broccoli cheese soup mix, to taste – milk powder optional, Bear Creek brand was good, from soup aisle at Woodman's   
+    • Crushed crackers (optional)  
+    • we made a cold cucumber salad at home, brought. Handy to have the empty tupperware later  TODO  
+    • Watermelon – a 12” sphere watermelon we opened for breakfast and finished at dinner  
   
+### Ramen & Tofu  
+    • 3 packets TraderJoes knife cut noodles or instant ramen noodle soup   
+    • fresh tofu   
+    • green beans on the side, fresh, coooked separately  
   
+### Lentil Curry & Rice  
+    • half an envelope or more of dried coconut milk powder cream from A-Mart   
+    • 1 packet Minute  rice & quinoa  
+    • 1 can lentils  
+    • a small squash yellow/green, fresh  
+  
+#### Spices:  
+    • bag before trip TODO  
+    • 1/2 tablespoon yellow curry powder  
+    • 1/2 tablespoon paprika  
+    • 1t cumin  
+    • ¼ t allspice  
+    • dash thyme  
+    • dash cayenne  
+    • Salt to taste  
+  
+### Mac & Cheese  
+Mac & cheese (900 cal total package)  
+Jerky  
+3 bean salad, canned  
+  
+###  Rice and Beans  
+1 packet  10-min Rice & Quinoa  
+1 can black/red beans, mix separately with spices  
+green pepper, fresh  
+canned beets on the side   
+  
+#### Spices:  
+    • bag before trip TODO  
+    • LESS THAN 1/8 teaspoon cayenne   
+    • 3/4 teaspoon salt  
+    • 1/2 teaspoon cumin  
+    • 2 tablespoons tomato powder / paste? (okay without, couldn’t shop it)  
+    • Dried onion  
+Canned beets  
+  
+### Lasagna  
+TVP  
+Hamburger helper lasagna flavor  
+red wine (wine in a box)  
+  
+### Lunches  
+    • 2 days tuna sandwiches  
+    • 1 day dolmas grape leaves in a can trader joes  
+    • PB sandwiches (w jam or honey)  
+    • 2X Wasa with cheese and salami  
+    • Carrots, apples  
+    • fresh green pepper  
+  
+### Breakfast  
+Oatmeal – instant or 1 minute  
+powdered milk helps enrich the oatmeal  
+Or 1-min oats  
+Nuts, dried fruit  
+  
+### Hot beverages daily  
+Coffee, tea  
+  
+### fun, backup food  
+canned peaches  
+apples, fresh  
+carrots, fresh  
+chocolate pudding + powdered milk   
+
+
+
   
   
   

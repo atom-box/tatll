@@ -8,19 +8,11 @@ layout: layouts/post.njk
 ---
 A book club that meets on the fourth Sunday each month.   
 
-## How to join remotely  
-We now use Signal video chat. 
 
-(__Don't__ use our old link to talk.brave.org. Nobody will be there.)  
-  
-Good news: Signal installs to desktop computers. Added it just now here. https://signal.org     
-    
 ## Upcoming book discussions      
   
-__All meeting times are 2pm Eastern / 11am Pacific__  
+__We meet at 1PM Central time, on Sunday, the fourth week of the month__  
     
-  
-August 23 Crossing to Safety by Wallace Stegner    
     
 September 27 Crime and Punishment by Fyodor Dostoevsky, any translation  
   
@@ -34,11 +26,26 @@ January 24 A Different Kind of Tension: New and Selected Stories by Jonathan Let
   
 February 28 TBD (Jim Sheufelt to choose)  
     
-## Call link for all meetings #  
-We no longer use Brave Talk.  
-  
-See above.  
+## How to join remotely  
+We use Signal video chat. 
+
+## If you are not on Signal yet: 
+
+### Now, Install Signal
+Desktop computer users: Signal installs to desktop computers. Add it for iOS/Windows/Linux here. https://signal.org  
+
+Mobile users: Install Signal from the app store.  
     
+### Then, Email Evan 
+If you are new to the book club, send an email to Evan to get added to the Signal group. Allow a few days for me to see it; don't wait until the day of the meeting - I don't check my email all that often.  Make the subject line "BotMASS Book Club".  My email is: 
+atom_box   AT   hotmail DOT com 
+
+### On the day of the meeting
+On the day of the meeting, open Signal, press the group name (BotMASS Bookclub), and click the camera icon to join the call.  
+
+### In between meetings
+Text the group, in the group Signal chat. Add your comments on the book, or ask questions to the group.  
+     
   
 ## Past Meetings  
 December 2024  
@@ -126,7 +133,8 @@ The Arrival by Shaun Tan and The Cicada by Shaun Tan
 Sunday, July 26    
 Remarkably Bright Creatures by Shelby Van Pelt  
 355 pages - fiction    
+
   
-## Welcome      
-Bring friends and guests: they are welcome and appreciated.  
+August 23 Crossing to Safety by Wallace Stegner    
+  
   
