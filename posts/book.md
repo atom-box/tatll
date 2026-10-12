@@ -18,17 +18,17 @@ We are fully remote - we meet on your device (see below).  Some of us live in Ma
 
 ## Upcoming Book Discussions
 
-**September 27** – *Crime and Punishment* by Fyodor Dostoevsky (any translation)
+**September 27, 2026** – *Crime and Punishment* by Fyodor Dostoevsky (any translation)
 
-**October 25** – *The Correspondent* by Virginia Evans
+**October 25, 2026** – *The Correspondent* by Virginia Evans
 
-**November 22** – *Red Rising #1* by Pierce Brown (Nominee for Goodreads Readers' Favorite Young Adult Fantasy &amp; Science Fiction, 2014)
+**November 22, 2026** – *Red Rising #1* by Pierce Brown (Nominee for Goodreads Readers' Favorite Young Adult Fantasy &amp; Science Fiction, 2014)
 
-**December 27** – *Theo of Golden* by Allen Levi
+**December 27, 2026** – *Theo of Golden* by Allen Levi
 
-**January 24** – *A Different Kind of Tension: New and Selected Stories* by Jonathan Lethem
+**January 24, 2026** – *A Different Kind of Tension: New and Selected Stories* by Jonathan Lethem
 
-**February 28** – TBD (Jim Sheufelt will choose—suggestions welcome!)
+**February 28, 2026** – TBD (Jim Sheufelt will choose—suggestions welcome!)
 
 ---
 
@@ -72,77 +72,80 @@ The Fix by Percival Everett
 March 2025      
 Ursula K Le Guin: The Ones Who Walk Away from Omelas    
   
-Sunday, April 20     
+April 2025     
 Raymond Carver: What We Talk About When We Talk About Love,  159 pages  
     
-Sunday, May 18    
+May 2025    
 Percival Everett: James, 302 pages   
     
-Sunday June 15    
+June 2025    
 Samantha Harvey: Orbital, 207 pages    
   
-Sunday August 3 (postponed from July because nobody was done with the book yet)       
+July 2025       
 Richard Powers: The Overstory    502 pages    
-    
-Sunday, August 17  
+  
+August 2025  
 Silk by Alessandro Baricco, Guido Waldman (Translator )    
 91 Pages  
 [LINK](https://www.goodreads.com/book/show/61264.Silk?ac=1)  
 Optional: The Egg by Andy Weir.  Out of print short story.  Where to find?        
   
-Sunday, September 21  
+
+September 2025  
 Heartwood by Amity Gage    
 320 pages  
 [LINK](https://www.nytimes.com/2025/03/30/books/review/heartwood-amity-gaige.html)  
     
-Sunday, October 26  
+October 2025    
 Shadows of Forgotten Ancestors by Carl Sagan and Ann Druyan    
 528 pages - non fiction    
 [LINK](https://www.goodreads.com/book/show/61662.Shadows_of_Forgotten_Ancestors)    
     
-Sunday, November 23  
+November 2025    
 Kitchen by Banana Yoshimoto, Megan Backus  (Translator)    
 160 pages     
 [LINK](https://www.goodreads.com/book/show/50144.Kitchen)    
     
-Sunday, December 28  
+December 2025    
 Martyr!   by Kaveh Akbar      
 331 pages  
 [LINK](https://www.goodreads.com/book/show/139400713-martyr)    
     
-Sunday, January 25  
+January 2026    
 Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism   by Sarah Wynn-Williams      
 382 pages, non fiction  
 [LINK](https://www.goodreads.com/book/show/223436601-careless-people)    
     
-Sunday, February 22  
+February 2026    
 Semiosis   (Semiosis #1)   by Sue Burke      
 333 pages, science fiction   
 [LINK]( https://www.goodreads.com/book/show/35018907-semiosis)    
     
-Sunday, March 22  
+March 2026    
 North Woods by Daniel Mason   
 365 pages    
 [LINK](https://www.nytimes.com/2023/09/19/books/review/daniel-mason-north-woods.html)    
    
-Sunday, April 26  
+April 2026     
 The Ocean at the End of the Lane by Neil Gaiman    
 195 pages     
 [LINK](https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane)    
     
-Sunday, May 24  
+May 2026    
 When Women Were Birds: Fifty-four Variations on Voice   by Terry Tempest Williams     
 208 pages, non fiction     
 [LINK](https://www.goodreads.com/book/show/13166601-when-women-were-birds )    
-  
+
+June 2026  
 The Arrival by Shaun Tan and The Cicada by Shaun Tan    
 132 pages - graphic novel    
 [LINK](https://www.goodreads.com/book/show/920607.The_Arrival)    
    
-Sunday, July 26    
+July 2026    
 Remarkably Bright Creatures by Shelby Van Pelt  
 355 pages - fiction    
 
-August 23 Crossing to Safety by Wallace Stegner    
-  
+August 2026  
+Crossing to Safety by Wallace Stegner    
+400 pages - classic fiction       
   

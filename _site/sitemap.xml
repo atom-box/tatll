@@ -557,12 +557,12 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/linux/</loc>
+    <loc>https://tatll.me/tags/news/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/activism/</loc>
+    <loc>https://tatll.me/tags/travel/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -572,22 +572,27 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/troubleshooting/</loc>
+    <loc>https://tatll.me/tags/fitness/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <loc>https://tatll.me/tags/activism/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/management/</loc>
+    <loc>https://tatll.me/tags/linux/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/travel/</loc>
+    <loc>https://tatll.me/tags/drupal/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/jobs/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -602,12 +607,32 @@
   </url>
   
   <url>
-    <loc>https://tatll.me/tags/drupal/</loc>
+    <loc>https://tatll.me/tags/web-analytics/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/management/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/troubleshooting/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
   <url>
     <loc>https://tatll.me/tags/javascript/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/matomo/</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/tags/sql/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -618,26 +643,6 @@
   
   <url>
     <loc>https://tatll.me/tags/food/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/matomo/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/fitness/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/jobs/</loc>
-    <lastmod>2025-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tatll.me/tags/sql/</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   
@@ -689,5 +694,40 @@
   <url>
     <loc>https://tatll.me/posts/book/</loc>
     <lastmod>2026-07-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news-friday/</loc>
+    <lastmod>2026-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news-monday/</loc>
+    <lastmod>2026-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news-saturday/</loc>
+    <lastmod>2026-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news-sunday/</loc>
+    <lastmod>2026-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news-thursday/</loc>
+    <lastmod>2026-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news-tuesday/</loc>
+    <lastmod>2026-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tatll.me/posts/news-wednesday/</loc>
+    <lastmod>2026-07-20</lastmod>
   </url>
 </urlset>
